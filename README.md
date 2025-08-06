@@ -11,6 +11,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Math
 |  |
 | ------- |
+| [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Thomas11411/python/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Thomas11411/python/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3936-split-array-by-prime-indices](https://github.com/Thomas11411/python/tree/master/3936-split-array-by-prime-indices) |
 ## Number Theory
@@ -41,6 +42,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
+| [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Thomas11411/python/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3931-process-string-with-special-operations-i](https://github.com/Thomas11411/python/tree/master/3931-process-string-with-special-operations-i) |
 ## Trie
 |  |
