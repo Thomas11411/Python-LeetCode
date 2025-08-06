@@ -130,6 +130,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Breadth-First Search
 |  |
 | ------- |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Thomas11411/python/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Union Find
 |  |
@@ -367,6 +368,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Prefix Sum
 |  |
 | ------- |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Thomas11411/python/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3311-ant-on-the-boundary](https://github.com/Thomas11411/python/tree/master/3311-ant-on-the-boundary) |
 | [3427-special-array-ii](https://github.com/Thomas11411/python/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Thomas11411/python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -447,4 +449,8 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Thomas11411/python/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Graph
+|  |
+| ------- |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Thomas11411/python/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 <!---LeetCode Topics End-->
