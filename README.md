@@ -64,6 +64,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0747-min-cost-climbing-stairs](https://github.com/Thomas11411/python/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/Thomas11411/python/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Thomas11411/python/tree/master/0792-binary-search) |
+| [0831-largest-sum-of-averages](https://github.com/Thomas11411/python/tree/master/0831-largest-sum-of-averages) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -713,6 +714,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0238-product-of-array-except-self](https://github.com/Thomas11411/python/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Thomas11411/python/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Thomas11411/python/tree/master/0724-find-pivot-index) |
+| [0831-largest-sum-of-averages](https://github.com/Thomas11411/python/tree/master/0831-largest-sum-of-averages) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thomas11411/python/tree/master/3034-points-that-intersect-with-cars) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -814,6 +816,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0740-delete-and-earn](https://github.com/Thomas11411/python/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Thomas11411/python/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Thomas11411/python/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0831-largest-sum-of-averages](https://github.com/Thomas11411/python/tree/master/0831-largest-sum-of-averages) |
 | [1013-fibonacci-number](https://github.com/Thomas11411/python/tree/master/1013-fibonacci-number) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
