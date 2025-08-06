@@ -318,6 +318,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1788-stone-game-vi](https://github.com/Thomas11411/python/tree/master/1788-stone-game-vi) |
 | [1806-count-of-matches-in-tournament](https://github.com/Thomas11411/python/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Thomas11411/python/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Thomas11411/python/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -486,6 +487,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thomas11411/python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Thomas11411/python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/Thomas11411/python/tree/master/1813-maximum-erasure-value) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Thomas11411/python/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -928,6 +930,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1635-number-of-good-pairs](https://github.com/Thomas11411/python/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thomas11411/python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Thomas11411/python/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Thomas11411/python/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
