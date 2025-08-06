@@ -425,6 +425,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Thomas11411/python/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/Thomas11411/python/tree/master/0961-long-pressed-name) |
 | [1044-find-common-characters](https://github.com/Thomas11411/python/tree/master/1044-find-common-characters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Thomas11411/python/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -724,6 +725,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Thomas11411/python/tree/master/0084-largest-rectangle-in-histogram) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Thomas11411/python/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Thomas11411/python/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/Thomas11411/python/tree/master/3447-clear-digits) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
