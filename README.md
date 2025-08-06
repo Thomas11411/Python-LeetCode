@@ -9,6 +9,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Thomas11411/python/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Thomas11411/python/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Thomas11411/python/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/Thomas11411/python/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Thomas11411/python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Thomas11411/python/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -102,6 +103,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Matrix
 |  |
 | ------- |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Thomas11411/python/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Thomas11411/python/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Thomas11411/python/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Thomas11411/python/tree/master/3708-zigzag-grid-traversal-with-skip) |
