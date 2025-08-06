@@ -51,6 +51,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0463-island-perimeter](https://github.com/Thomas11411/python/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/Thomas11411/python/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Thomas11411/python/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Thomas11411/python/tree/master/0540-single-element-in-a-sorted-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -522,6 +523,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thomas11411/python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Thomas11411/python/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Thomas11411/python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Thomas11411/python/tree/master/0540-single-element-in-a-sorted-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3427-special-array-ii](https://github.com/Thomas11411/python/tree/master/3427-special-array-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
