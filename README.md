@@ -135,6 +135,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1651-shuffle-string](https://github.com/Thomas11411/python/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/Thomas11411/python/tree/master/1677-matrix-diagonal-sum) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Thomas11411/python/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Thomas11411/python/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Thomas11411/python/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Thomas11411/python/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -287,6 +288,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1636-number-of-substrings-with-only-1s](https://github.com/Thomas11411/python/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Thomas11411/python/tree/master/1642-water-bottles) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/Thomas11411/python/tree/master/1678-number-of-ways-to-split-a-string) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Thomas11411/python/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -968,6 +970,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Thomas11411/python/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Thomas11411/python/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Thomas11411/python/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Thomas11411/python/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thomas11411/python/tree/master/3034-points-that-intersect-with-cars) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
