@@ -29,6 +29,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0128-longest-consecutive-sequence](https://github.com/Thomas11411/python/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Thomas11411/python/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Thomas11411/python/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Thomas11411/python/tree/master/0139-word-break) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -243,6 +244,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0049-group-anagrams](https://github.com/Thomas11411/python/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Thomas11411/python/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Thomas11411/python/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Thomas11411/python/tree/master/0139-word-break) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -303,6 +305,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0049-group-anagrams](https://github.com/Thomas11411/python/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Thomas11411/python/tree/master/0065-valid-number) |
 | [0127-word-ladder](https://github.com/Thomas11411/python/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Thomas11411/python/tree/master/0139-word-break) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -367,6 +370,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Thomas11411/python/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Thomas11411/python/tree/master/0139-word-break) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Thomas11411/python/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
 ## Simulation
@@ -639,6 +643,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0070-climbing-stairs](https://github.com/Thomas11411/python/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thomas11411/python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thomas11411/python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Thomas11411/python/tree/master/0139-word-break) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
@@ -695,4 +700,5 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Thomas11411/python/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Thomas11411/python/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
