@@ -44,6 +44,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thomas11411/python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Thomas11411/python/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Thomas11411/python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Thomas11411/python/tree/master/0435-non-overlapping-intervals) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -460,6 +461,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0349-intersection-of-two-arrays](https://github.com/Thomas11411/python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thomas11411/python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Thomas11411/python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Thomas11411/python/tree/master/0435-non-overlapping-intervals) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -508,6 +510,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0011-container-with-most-water](https://github.com/Thomas11411/python/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thomas11411/python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Thomas11411/python/tree/master/0435-non-overlapping-intervals) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -727,6 +730,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0264-ugly-number-ii](https://github.com/Thomas11411/python/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Thomas11411/python/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Thomas11411/python/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Thomas11411/python/tree/master/0435-non-overlapping-intervals) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
