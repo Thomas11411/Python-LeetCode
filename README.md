@@ -7,6 +7,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3934-coupon-code-validator](https://github.com/Thomas11411/python/tree/master/3934-coupon-code-validator) |
 | [3936-split-array-by-prime-indices](https://github.com/Thomas11411/python/tree/master/3936-split-array-by-prime-indices) |
 ## Math
 |  |
@@ -38,12 +39,14 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
+| [3934-coupon-code-validator](https://github.com/Thomas11411/python/tree/master/3934-coupon-code-validator) |
 ## String
 |  |
 | ------- |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Thomas11411/python/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3931-process-string-with-special-operations-i](https://github.com/Thomas11411/python/tree/master/3931-process-string-with-special-operations-i) |
+| [3934-coupon-code-validator](https://github.com/Thomas11411/python/tree/master/3934-coupon-code-validator) |
 ## Trie
 |  |
 | ------- |
@@ -53,4 +56,8 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
 | [3931-process-string-with-special-operations-i](https://github.com/Thomas11411/python/tree/master/3931-process-string-with-special-operations-i) |
+## Sorting
+|  |
+| ------- |
+| [3934-coupon-code-validator](https://github.com/Thomas11411/python/tree/master/3934-coupon-code-validator) |
 <!---LeetCode Topics End-->
