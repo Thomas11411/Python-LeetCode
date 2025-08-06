@@ -147,6 +147,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1752-arithmetic-subarrays](https://github.com/Thomas11411/python/tree/master/1752-arithmetic-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Thomas11411/python/tree/master/1755-defuse-the-bomb) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Thomas11411/python/tree/master/1760-check-array-formation-through-concatenation) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Thomas11411/python/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -584,6 +585,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Thomas11411/python/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1751-slowest-key](https://github.com/Thomas11411/python/tree/master/1751-slowest-key) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thomas11411/python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Thomas11411/python/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
