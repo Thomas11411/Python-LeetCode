@@ -19,6 +19,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0046-permutations](https://github.com/Thomas11411/python/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Thomas11411/python/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Thomas11411/python/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Thomas11411/python/tree/master/0053-maximum-subarray) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -516,6 +517,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Thomas11411/python/tree/master/0053-maximum-subarray) |
 | [3822-fill-a-special-grid](https://github.com/Thomas11411/python/tree/master/3822-fill-a-special-grid) |
 ## Counting Sort
 |  |
@@ -604,6 +606,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Thomas11411/python/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Thomas11411/python/tree/master/0053-maximum-subarray) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
