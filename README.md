@@ -68,6 +68,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0841-shortest-distance-to-a-character](https://github.com/Thomas11411/python/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/Thomas11411/python/tree/master/0878-shifting-letters) |
 | [0941-sort-array-by-parity](https://github.com/Thomas11411/python/tree/master/0941-sort-array-by-parity) |
+| [0967-minimum-falling-path-sum](https://github.com/Thomas11411/python/tree/master/0967-minimum-falling-path-sum) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -283,6 +284,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Thomas11411/python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Thomas11411/python/tree/master/0463-island-perimeter) |
 | [0777-toeplitz-matrix](https://github.com/Thomas11411/python/tree/master/0777-toeplitz-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/Thomas11411/python/tree/master/0967-minimum-falling-path-sum) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Thomas11411/python/tree/master/3330-modify-the-matrix) |
@@ -833,6 +835,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0747-min-cost-climbing-stairs](https://github.com/Thomas11411/python/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Thomas11411/python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0831-largest-sum-of-averages](https://github.com/Thomas11411/python/tree/master/0831-largest-sum-of-averages) |
+| [0967-minimum-falling-path-sum](https://github.com/Thomas11411/python/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Thomas11411/python/tree/master/1013-fibonacci-number) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
