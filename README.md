@@ -80,6 +80,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1105-uncrossed-lines](https://github.com/Thomas11411/python/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Thomas11411/python/tree/master/1121-partition-array-for-maximum-sum) |
 | [1127-last-stone-weight](https://github.com/Thomas11411/python/tree/master/1127-last-stone-weight) |
+| [1137-height-checker](https://github.com/Thomas11411/python/tree/master/1137-height-checker) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -550,6 +551,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1014-k-closest-points-to-origin](https://github.com/Thomas11411/python/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Thomas11411/python/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Thomas11411/python/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/Thomas11411/python/tree/master/1137-height-checker) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -741,6 +743,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Counting Sort
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/Thomas11411/python/tree/master/1137-height-checker) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Thomas11411/python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
