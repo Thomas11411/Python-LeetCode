@@ -209,6 +209,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Thomas11411/python/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Thomas11411/python/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Thomas11411/python/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Thomas11411/python/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -380,6 +381,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2039-sum-game](https://github.com/Thomas11411/python/tree/master/2039-sum-game) |
 | [2050-count-good-numbers](https://github.com/Thomas11411/python/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/Thomas11411/python/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Thomas11411/python/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -427,6 +429,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [1543-simplified-fractions](https://github.com/Thomas11411/python/tree/master/1543-simplified-fractions) |
 | [2083-three-divisors](https://github.com/Thomas11411/python/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Thomas11411/python/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
 | [3373-maximum-prime-difference](https://github.com/Thomas11411/python/tree/master/3373-maximum-prime-difference) |
