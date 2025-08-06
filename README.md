@@ -150,6 +150,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Thomas11411/python/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Thomas11411/python/tree/master/1783-ways-to-make-a-fair-array) |
 | [1791-richest-customer-wealth](https://github.com/Thomas11411/python/tree/master/1791-richest-customer-wealth) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Thomas11411/python/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -815,6 +816,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Thomas11411/python/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Thomas11411/python/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Thomas11411/python/tree/master/1782-smallest-string-with-a-given-numeric-value) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Thomas11411/python/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -959,6 +961,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1666-make-the-string-great](https://github.com/Thomas11411/python/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/Thomas11411/python/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thomas11411/python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Thomas11411/python/tree/master/1792-find-the-most-competitive-subsequence) |
 | [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/Thomas11411/python/tree/master/3447-clear-digits) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -1202,6 +1205,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0084-largest-rectangle-in-histogram](https://github.com/Thomas11411/python/tree/master/0084-largest-rectangle-in-histogram) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Thomas11411/python/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Thomas11411/python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Thomas11411/python/tree/master/1792-find-the-most-competitive-subsequence) |
 | [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
 ## Monotonic Queue
 |  |
