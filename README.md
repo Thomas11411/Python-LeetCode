@@ -331,6 +331,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0242-valid-anagram](https://github.com/Thomas11411/python/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Thomas11411/python/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Thomas11411/python/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Thomas11411/python/tree/master/0345-reverse-vowels-of-a-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -518,6 +519,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0202-happy-number](https://github.com/Thomas11411/python/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Thomas11411/python/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Thomas11411/python/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Thomas11411/python/tree/master/0345-reverse-vowels-of-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
