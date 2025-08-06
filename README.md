@@ -551,6 +551,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1619-path-crossing](https://github.com/Thomas11411/python/tree/master/1619-path-crossing) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Thomas11411/python/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/Thomas11411/python/tree/master/1651-shuffle-string) |
+| [1660-thousand-separator](https://github.com/Thomas11411/python/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/Thomas11411/python/tree/master/1666-make-the-string-great) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
