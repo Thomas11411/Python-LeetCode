@@ -1307,6 +1307,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Thomas11411/python/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1916-find-center-of-star-graph](https://github.com/Thomas11411/python/tree/master/1916-find-center-of-star-graph) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Thomas11411/python/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Monotonic Stack
 |  |
