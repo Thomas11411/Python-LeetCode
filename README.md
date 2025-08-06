@@ -477,6 +477,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Thomas11411/python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Thomas11411/python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Thomas11411/python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Thomas11411/python/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
