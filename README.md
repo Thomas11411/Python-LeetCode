@@ -54,6 +54,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0540-single-element-in-a-sorted-array](https://github.com/Thomas11411/python/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/Thomas11411/python/tree/master/0554-brick-wall) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Thomas11411/python/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Thomas11411/python/tree/master/0628-maximum-product-of-three-numbers) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -185,6 +186,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0279-perfect-squares](https://github.com/Thomas11411/python/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Thomas11411/python/tree/master/0367-valid-perfect-square) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Thomas11411/python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Thomas11411/python/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Thomas11411/python/tree/master/1013-fibonacci-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
@@ -493,6 +495,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0451-sort-characters-by-frequency](https://github.com/Thomas11411/python/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Thomas11411/python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/Thomas11411/python/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Thomas11411/python/tree/master/0628-maximum-product-of-three-numbers) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
