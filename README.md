@@ -336,6 +336,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Thomas11411/python/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Thomas11411/python/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Thomas11411/python/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Thomas11411/python/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Thomas11411/python/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
@@ -658,6 +659,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1904-second-largest-digit-in-a-string](https://github.com/Thomas11411/python/tree/master/1904-second-largest-digit-in-a-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Thomas11411/python/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Thomas11411/python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Thomas11411/python/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1923-sentence-similarity-iii](https://github.com/Thomas11411/python/tree/master/1923-sentence-similarity-iii) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Thomas11411/python/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thomas11411/python/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
