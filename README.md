@@ -83,6 +83,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1127-last-stone-weight](https://github.com/Thomas11411/python/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Thomas11411/python/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Thomas11411/python/tree/master/1138-grumpy-bookstore-owner) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Thomas11411/python/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Thomas11411/python/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Thomas11411/python/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1222-remove-covered-intervals](https://github.com/Thomas11411/python/tree/master/1222-remove-covered-intervals) |
@@ -697,6 +698,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1018-largest-perimeter-triangle](https://github.com/Thomas11411/python/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Thomas11411/python/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Thomas11411/python/tree/master/1137-height-checker) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Thomas11411/python/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Thomas11411/python/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/Thomas11411/python/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/Thomas11411/python/tree/master/1256-rank-transform-of-an-array) |
