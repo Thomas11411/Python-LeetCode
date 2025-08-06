@@ -63,6 +63,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Thomas11411/python/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Thomas11411/python/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/Thomas11411/python/tree/master/3885-count-special-triplets) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Thomas11411/python/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
@@ -74,6 +75,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Thomas11411/python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Thomas11411/python/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Thomas11411/python/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/Thomas11411/python/tree/master/3893-generate-tag-for-video-caption) |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Thomas11411/python/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
@@ -118,6 +120,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [3707-find-the-most-common-response](https://github.com/Thomas11411/python/tree/master/3707-find-the-most-common-response) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Thomas11411/python/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Thomas11411/python/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/Thomas11411/python/tree/master/3885-count-special-triplets) |
 ## Brainteaser
 |  |
