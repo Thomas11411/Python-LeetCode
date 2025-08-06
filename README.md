@@ -8,6 +8,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/Thomas11411/python/tree/master/3308-apply-operations-to-make-string-empty) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Thomas11411/python/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3324-split-the-array](https://github.com/Thomas11411/python/tree/master/3324-split-the-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Thomas11411/python/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Thomas11411/python/tree/master/3334-apple-redistribution-into-boxes) |
@@ -182,6 +183,7 @@ The Python code I wrote to solve problems on LeetCode
 ## String
 |  |
 | ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Thomas11411/python/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Thomas11411/python/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Thomas11411/python/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Thomas11411/python/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -226,6 +228,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Trie
 |  |
 | ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Thomas11411/python/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
 ## Simulation
 |  |
@@ -422,4 +425,16 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thomas11411/python/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Thomas11411/python/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Thomas11411/python/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Thomas11411/python/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
