@@ -22,6 +22,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Thomas11411/python/tree/master/0009-palindrome-number) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Thomas11411/python/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/Thomas11411/python/tree/master/3879-find-minimum-log-transportation-cost) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Thomas11411/python/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
