@@ -12,6 +12,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3151-minimum-processing-time](https://github.com/Thomas11411/python/tree/master/3151-minimum-processing-time) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Thomas11411/python/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Thomas11411/python/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Thomas11411/python/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Thomas11411/python/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
