@@ -18,6 +18,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0040-combination-sum-ii](https://github.com/Thomas11411/python/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Thomas11411/python/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Thomas11411/python/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Thomas11411/python/tree/master/0049-group-anagrams) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -223,6 +224,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thomas11411/python/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Thomas11411/python/tree/master/0049-group-anagrams) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -280,6 +282,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Thomas11411/python/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Thomas11411/python/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Thomas11411/python/tree/master/0049-group-anagrams) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -383,6 +386,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0016-3sum-closest](https://github.com/Thomas11411/python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Thomas11411/python/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Thomas11411/python/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Thomas11411/python/tree/master/0049-group-anagrams) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
