@@ -703,6 +703,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Thomas11411/python/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Thomas11411/python/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Thomas11411/python/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Thomas11411/python/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Thomas11411/python/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/Thomas11411/python/tree/master/2032-largest-odd-number-in-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
@@ -783,6 +784,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1806-count-of-matches-in-tournament](https://github.com/Thomas11411/python/tree/master/1806-count-of-matches-in-tournament) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Thomas11411/python/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Thomas11411/python/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Thomas11411/python/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Thomas11411/python/tree/master/2886-faulty-keyboard) |
@@ -1129,6 +1131,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Thomas11411/python/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Thomas11411/python/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1985-maximum-subarray-min-product](https://github.com/Thomas11411/python/tree/master/1985-maximum-subarray-min-product) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Thomas11411/python/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/Thomas11411/python/tree/master/3447-clear-digits) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
