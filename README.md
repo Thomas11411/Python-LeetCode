@@ -180,6 +180,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thomas11411/python/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Thomas11411/python/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1944-truncate-sentence](https://github.com/Thomas11411/python/tree/master/1944-truncate-sentence) |
+| [1945-finding-the-users-active-minutes](https://github.com/Thomas11411/python/tree/master/1945-finding-the-users-active-minutes) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -521,6 +522,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1925-count-nice-pairs-in-an-array](https://github.com/Thomas11411/python/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Thomas11411/python/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thomas11411/python/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [1945-finding-the-users-active-minutes](https://github.com/Thomas11411/python/tree/master/1945-finding-the-users-active-minutes) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
