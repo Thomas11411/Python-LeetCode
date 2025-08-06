@@ -404,6 +404,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0841-shortest-distance-to-a-character](https://github.com/Thomas11411/python/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/Thomas11411/python/tree/master/0878-shifting-letters) |
 | [0953-reverse-only-letters](https://github.com/Thomas11411/python/tree/master/0953-reverse-only-letters) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Thomas11411/python/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -578,6 +579,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0011-container-with-most-water](https://github.com/Thomas11411/python/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thomas11411/python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Thomas11411/python/tree/master/0435-non-overlapping-intervals) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Thomas11411/python/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -691,6 +693,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Thomas11411/python/tree/master/0084-largest-rectangle-in-histogram) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Thomas11411/python/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/Thomas11411/python/tree/master/3447-clear-digits) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
