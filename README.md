@@ -7,6 +7,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
+| [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Thomas11411/python/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3194-find-words-containing-character](https://github.com/Thomas11411/python/tree/master/3194-find-words-containing-character) |
@@ -399,6 +400,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Stack
 |  |
 | ------- |
+| [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/Thomas11411/python/tree/master/3447-clear-digits) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Divide and Conquer
@@ -510,4 +512,8 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Thomas11411/python/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
 <!---LeetCode Topics End-->
