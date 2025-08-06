@@ -135,6 +135,7 @@ The Python code I wrote to solve problems on LeetCode
 ## String
 |  |
 | ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thomas11411/python/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Thomas11411/python/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Thomas11411/python/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Thomas11411/python/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -312,6 +313,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Bit Manipulation
 |  |
 | ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thomas11411/python/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Thomas11411/python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Thomas11411/python/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Thomas11411/python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -330,4 +332,8 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Thomas11411/python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Backtracking
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thomas11411/python/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
