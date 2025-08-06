@@ -232,6 +232,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Thomas11411/python/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Thomas11411/python/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -382,6 +383,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Counting
 |  |
 | ------- |
+| [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Thomas11411/python/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thomas11411/python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
