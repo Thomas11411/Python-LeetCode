@@ -586,6 +586,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1751-slowest-key](https://github.com/Thomas11411/python/tree/master/1751-slowest-key) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thomas11411/python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Thomas11411/python/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1782-smallest-string-with-a-given-numeric-value](https://github.com/Thomas11411/python/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -809,6 +810,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Thomas11411/python/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Thomas11411/python/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Thomas11411/python/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1782-smallest-string-with-a-given-numeric-value](https://github.com/Thomas11411/python/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
