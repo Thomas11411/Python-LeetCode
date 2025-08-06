@@ -368,6 +368,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Thomas11411/python/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Thomas11411/python/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/Thomas11411/python/tree/master/2037-count-square-sum-triples) |
+| [2039-sum-game](https://github.com/Thomas11411/python/tree/master/2039-sum-game) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -708,6 +709,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Thomas11411/python/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Thomas11411/python/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/Thomas11411/python/tree/master/2032-largest-odd-number-in-string) |
+| [2039-sum-game](https://github.com/Thomas11411/python/tree/master/2039-sum-game) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -963,6 +965,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Thomas11411/python/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Thomas11411/python/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2032-largest-odd-number-in-string](https://github.com/Thomas11411/python/tree/master/2032-largest-odd-number-in-string) |
+| [2039-sum-game](https://github.com/Thomas11411/python/tree/master/2039-sum-game) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Thomas11411/python/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
@@ -1344,6 +1347,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [1788-stone-game-vi](https://github.com/Thomas11411/python/tree/master/1788-stone-game-vi) |
+| [2039-sum-game](https://github.com/Thomas11411/python/tree/master/2039-sum-game) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Thomas11411/python/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Queue
 |  |
