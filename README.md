@@ -49,6 +49,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0009-palindrome-number](https://github.com/Thomas11411/python/tree/master/0009-palindrome-number) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Thomas11411/python/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/Thomas11411/python/tree/master/3567-convert-date-to-binary) |
+| [3568-find-the-key-of-the-numbers](https://github.com/Thomas11411/python/tree/master/3568-find-the-key-of-the-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Thomas11411/python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Thomas11411/python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Thomas11411/python/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
