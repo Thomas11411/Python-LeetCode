@@ -15,6 +15,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3822-fill-a-special-grid](https://github.com/Thomas11411/python/tree/master/3822-fill-a-special-grid) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Thomas11411/python/tree/master/3849-equal-sum-grid-partition-i) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Thomas11411/python/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Thomas11411/python/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Thomas11411/python/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -53,6 +54,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [3822-fill-a-special-grid](https://github.com/Thomas11411/python/tree/master/3822-fill-a-special-grid) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Thomas11411/python/tree/master/3849-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,4 +138,12 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Thomas11411/python/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Enumeration
+|  |
+| ------- |
+| [3849-equal-sum-grid-partition-i](https://github.com/Thomas11411/python/tree/master/3849-equal-sum-grid-partition-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3849-equal-sum-grid-partition-i](https://github.com/Thomas11411/python/tree/master/3849-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
