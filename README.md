@@ -6,6 +6,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Thomas11411/python/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -211,6 +212,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Thomas11411/python/tree/master/0001-two-sum) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
