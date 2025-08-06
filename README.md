@@ -7,6 +7,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Thomas11411/python/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -185,6 +186,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Thomas11411/python/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Thomas11411/python/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3202-high-access-employees](https://github.com/Thomas11411/python/tree/master/3202-high-access-employees) |
@@ -499,6 +501,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Bit Manipulation
 |  |
 | ------- |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Thomas11411/python/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Thomas11411/python/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thomas11411/python/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Thomas11411/python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
