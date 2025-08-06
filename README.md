@@ -130,6 +130,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Thomas11411/python/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/Thomas11411/python/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Thomas11411/python/tree/master/1646-kth-missing-positive-number) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Thomas11411/python/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1651-shuffle-string](https://github.com/Thomas11411/python/tree/master/1651-shuffle-string) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -435,6 +436,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Thomas11411/python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1619-path-crossing](https://github.com/Thomas11411/python/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/Thomas11411/python/tree/master/1635-number-of-good-pairs) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Thomas11411/python/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -764,6 +766,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1464-reduce-array-size-to-the-half](https://github.com/Thomas11411/python/tree/master/1464-reduce-array-size-to-the-half) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Thomas11411/python/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Thomas11411/python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Thomas11411/python/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -950,6 +953,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Thomas11411/python/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Thomas11411/python/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Thomas11411/python/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Thomas11411/python/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thomas11411/python/tree/master/3034-points-that-intersect-with-cars) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
