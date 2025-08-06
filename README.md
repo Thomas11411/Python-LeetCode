@@ -65,6 +65,7 @@ The Python code I wrote to solve problems on LeetCode
 ## String
 |  |
 | ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Thomas11411/python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3893-generate-tag-for-video-caption](https://github.com/Thomas11411/python/tree/master/3893-generate-tag-for-video-caption) |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
@@ -85,6 +86,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Sorting
 |  |
 | ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Thomas11411/python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Thomas11411/python/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3934-coupon-code-validator](https://github.com/Thomas11411/python/tree/master/3934-coupon-code-validator) |
@@ -126,4 +128,8 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3822-fill-a-special-grid](https://github.com/Thomas11411/python/tree/master/3822-fill-a-special-grid) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Thomas11411/python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
