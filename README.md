@@ -196,6 +196,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Thomas11411/python/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Thomas11411/python/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Thomas11411/python/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Thomas11411/python/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -950,6 +951,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Thomas11411/python/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1961-maximum-ice-cream-bars](https://github.com/Thomas11411/python/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Thomas11411/python/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Thomas11411/python/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
