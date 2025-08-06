@@ -241,6 +241,7 @@ The Python code I wrote to solve problems on LeetCode
 ## String
 |  |
 | ------- |
+| [2886-faulty-keyboard](https://github.com/Thomas11411/python/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Thomas11411/python/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Thomas11411/python/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
@@ -304,6 +305,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Simulation
 |  |
 | ------- |
+| [2886-faulty-keyboard](https://github.com/Thomas11411/python/tree/master/2886-faulty-keyboard) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/Thomas11411/python/tree/master/3226-minimum-number-game) |
 | [3234-double-modular-exponentiation](https://github.com/Thomas11411/python/tree/master/3234-double-modular-exponentiation) |
