@@ -66,6 +66,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0792-binary-search](https://github.com/Thomas11411/python/tree/master/0792-binary-search) |
 | [0831-largest-sum-of-averages](https://github.com/Thomas11411/python/tree/master/0831-largest-sum-of-averages) |
 | [0841-shortest-distance-to-a-character](https://github.com/Thomas11411/python/tree/master/0841-shortest-distance-to-a-character) |
+| [0878-shifting-letters](https://github.com/Thomas11411/python/tree/master/0878-shifting-letters) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -400,6 +401,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0800-letter-case-permutation](https://github.com/Thomas11411/python/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/Thomas11411/python/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Thomas11411/python/tree/master/0841-shortest-distance-to-a-character) |
+| [0878-shifting-letters](https://github.com/Thomas11411/python/tree/master/0878-shifting-letters) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -718,6 +720,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0713-subarray-product-less-than-k](https://github.com/Thomas11411/python/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Thomas11411/python/tree/master/0724-find-pivot-index) |
 | [0831-largest-sum-of-averages](https://github.com/Thomas11411/python/tree/master/0831-largest-sum-of-averages) |
+| [0878-shifting-letters](https://github.com/Thomas11411/python/tree/master/0878-shifting-letters) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thomas11411/python/tree/master/3034-points-that-intersect-with-cars) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
