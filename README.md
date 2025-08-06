@@ -405,6 +405,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0878-shifting-letters](https://github.com/Thomas11411/python/tree/master/0878-shifting-letters) |
 | [0953-reverse-only-letters](https://github.com/Thomas11411/python/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Thomas11411/python/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0961-long-pressed-name](https://github.com/Thomas11411/python/tree/master/0961-long-pressed-name) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -623,6 +624,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0841-shortest-distance-to-a-character](https://github.com/Thomas11411/python/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/Thomas11411/python/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Thomas11411/python/tree/master/0953-reverse-only-letters) |
+| [0961-long-pressed-name](https://github.com/Thomas11411/python/tree/master/0961-long-pressed-name) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
