@@ -53,6 +53,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0518-coin-change-ii](https://github.com/Thomas11411/python/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Thomas11411/python/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/Thomas11411/python/tree/master/0554-brick-wall) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Thomas11411/python/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -300,6 +301,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0451-sort-characters-by-frequency](https://github.com/Thomas11411/python/tree/master/0451-sort-characters-by-frequency) |
 | [0554-brick-wall](https://github.com/Thomas11411/python/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/Thomas11411/python/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Thomas11411/python/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -373,6 +375,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0516-longest-palindromic-subsequence](https://github.com/Thomas11411/python/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Thomas11411/python/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Thomas11411/python/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Thomas11411/python/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
