@@ -123,6 +123,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Thomas11411/python/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3540-hash-divided-string](https://github.com/Thomas11411/python/tree/master/3540-hash-divided-string) |
 | [3541-report-spam-message](https://github.com/Thomas11411/python/tree/master/3541-report-spam-message) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Thomas11411/python/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Thomas11411/python/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Thomas11411/python/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3567-convert-date-to-binary](https://github.com/Thomas11411/python/tree/master/3567-convert-date-to-binary) |
@@ -250,6 +251,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Thomas11411/python/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Thomas11411/python/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Thomas11411/python/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Thomas11411/python/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Thomas11411/python/tree/master/3644-minimum-positive-sum-subarray) |
