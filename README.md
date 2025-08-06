@@ -167,6 +167,7 @@ The Python code I wrote to solve problems on LeetCode
 ## String
 |  |
 | ------- |
+| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Thomas11411/python/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Thomas11411/python/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/Thomas11411/python/tree/master/3379-score-of-a-string) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Thomas11411/python/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -253,6 +254,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Greedy
 |  |
 | ------- |
+| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Thomas11411/python/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Thomas11411/python/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Thomas11411/python/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Thomas11411/python/tree/master/3494-minimum-cost-for-cutting-cake-i) |
