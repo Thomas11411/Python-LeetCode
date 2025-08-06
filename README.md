@@ -22,6 +22,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0053-maximum-subarray](https://github.com/Thomas11411/python/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Thomas11411/python/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Thomas11411/python/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Thomas11411/python/tree/master/0084-largest-rectangle-in-histogram) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -520,6 +521,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Thomas11411/python/tree/master/0084-largest-rectangle-in-histogram) |
 | [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/Thomas11411/python/tree/master/3447-clear-digits) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -665,6 +667,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Thomas11411/python/tree/master/0084-largest-rectangle-in-histogram) |
 | [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
 ## Monotonic Queue
 |  |
