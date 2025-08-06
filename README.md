@@ -36,6 +36,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0009-palindrome-number](https://github.com/Thomas11411/python/tree/master/0009-palindrome-number) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Thomas11411/python/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3817-maximum-containers-on-a-ship](https://github.com/Thomas11411/python/tree/master/3817-maximum-containers-on-a-ship) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Thomas11411/python/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Thomas11411/python/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/Thomas11411/python/tree/master/3879-find-minimum-log-transportation-cost) |
