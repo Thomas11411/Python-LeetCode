@@ -110,6 +110,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1468-check-if-n-and-its-double-exist](https://github.com/Thomas11411/python/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Thomas11411/python/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thomas11411/python/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Thomas11411/python/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -345,6 +346,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Thomas11411/python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Thomas11411/python/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Thomas11411/python/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Thomas11411/python/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Thomas11411/python/tree/master/3330-modify-the-matrix) |
