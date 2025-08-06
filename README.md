@@ -162,6 +162,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1829-maximum-units-on-a-truck](https://github.com/Thomas11411/python/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/Thomas11411/python/tree/master/1833-find-the-highest-altitude) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Thomas11411/python/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
+| [1848-sum-of-unique-elements](https://github.com/Thomas11411/python/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Thomas11411/python/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Thomas11411/python/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Thomas11411/python/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
@@ -497,6 +498,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1798-max-number-of-k-sum-pairs](https://github.com/Thomas11411/python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/Thomas11411/python/tree/master/1813-maximum-erasure-value) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Thomas11411/python/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [1848-sum-of-unique-elements](https://github.com/Thomas11411/python/tree/master/1848-sum-of-unique-elements) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Thomas11411/python/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -951,6 +953,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thomas11411/python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Thomas11411/python/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Thomas11411/python/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [1848-sum-of-unique-elements](https://github.com/Thomas11411/python/tree/master/1848-sum-of-unique-elements) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
