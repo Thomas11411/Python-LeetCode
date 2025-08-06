@@ -7,6 +7,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Thomas11411/python/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Thomas11411/python/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Thomas11411/python/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Thomas11411/python/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -244,6 +245,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Sorting
 |  |
 | ------- |
+| [3334-apple-redistribution-into-boxes](https://github.com/Thomas11411/python/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Thomas11411/python/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Thomas11411/python/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -266,6 +268,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Greedy
 |  |
 | ------- |
+| [3334-apple-redistribution-into-boxes](https://github.com/Thomas11411/python/tree/master/3334-apple-redistribution-into-boxes) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Thomas11411/python/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Thomas11411/python/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Thomas11411/python/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
