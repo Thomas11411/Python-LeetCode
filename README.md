@@ -8,6 +8,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Thomas11411/python/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Thomas11411/python/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Thomas11411/python/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/Thomas11411/python/tree/master/3373-maximum-prime-difference) |
 | [3388-right-triangles](https://github.com/Thomas11411/python/tree/master/3388-right-triangles) |
@@ -76,6 +77,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0009-palindrome-number](https://github.com/Thomas11411/python/tree/master/0009-palindrome-number) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Thomas11411/python/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Thomas11411/python/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/Thomas11411/python/tree/master/3371-harshad-number) |
 | [3373-maximum-prime-difference](https://github.com/Thomas11411/python/tree/master/3373-maximum-prime-difference) |
 | [3388-right-triangles](https://github.com/Thomas11411/python/tree/master/3388-right-triangles) |
