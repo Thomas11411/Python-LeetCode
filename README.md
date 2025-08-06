@@ -13,6 +13,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Thomas11411/python/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3707-find-the-most-common-response](https://github.com/Thomas11411/python/tree/master/3707-find-the-most-common-response) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Thomas11411/python/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3723-sum-of-good-numbers](https://github.com/Thomas11411/python/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Thomas11411/python/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Thomas11411/python/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
