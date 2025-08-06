@@ -521,6 +521,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1542-consecutive-characters](https://github.com/Thomas11411/python/tree/master/1542-consecutive-characters) |
 | [1543-simplified-fractions](https://github.com/Thomas11411/python/tree/master/1543-simplified-fractions) |
 | [1547-destination-city](https://github.com/Thomas11411/python/tree/master/1547-destination-city) |
+| [1561-rearrange-words-in-a-sentence](https://github.com/Thomas11411/python/tree/master/1561-rearrange-words-in-a-sentence) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -659,6 +660,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1468-check-if-n-and-its-double-exist](https://github.com/Thomas11411/python/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thomas11411/python/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1539-diagonal-traverse-ii](https://github.com/Thomas11411/python/tree/master/1539-diagonal-traverse-ii) |
+| [1561-rearrange-words-in-a-sentence](https://github.com/Thomas11411/python/tree/master/1561-rearrange-words-in-a-sentence) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
