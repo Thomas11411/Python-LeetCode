@@ -67,6 +67,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0831-largest-sum-of-averages](https://github.com/Thomas11411/python/tree/master/0831-largest-sum-of-averages) |
 | [0841-shortest-distance-to-a-character](https://github.com/Thomas11411/python/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/Thomas11411/python/tree/master/0878-shifting-letters) |
+| [0941-sort-array-by-parity](https://github.com/Thomas11411/python/tree/master/0941-sort-array-by-parity) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -522,6 +523,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0506-relative-ranks](https://github.com/Thomas11411/python/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thomas11411/python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Thomas11411/python/tree/master/0692-top-k-frequent-words) |
+| [0941-sort-array-by-parity](https://github.com/Thomas11411/python/tree/master/0941-sort-array-by-parity) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -616,6 +618,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0557-reverse-words-in-a-string-iii](https://github.com/Thomas11411/python/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Thomas11411/python/tree/master/0567-permutation-in-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Thomas11411/python/tree/master/0841-shortest-distance-to-a-character) |
+| [0941-sort-array-by-parity](https://github.com/Thomas11411/python/tree/master/0941-sort-array-by-parity) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
