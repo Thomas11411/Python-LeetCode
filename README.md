@@ -12,6 +12,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Thomas11411/python/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Thomas11411/python/tree/master/3876-transform-array-to-all-equal-elements) |
+| [3885-count-special-triplets](https://github.com/Thomas11411/python/tree/master/3885-count-special-triplets) |
 | [3934-coupon-code-validator](https://github.com/Thomas11411/python/tree/master/3934-coupon-code-validator) |
 | [3936-split-array-by-prime-indices](https://github.com/Thomas11411/python/tree/master/3936-split-array-by-prime-indices) |
 ## Math
@@ -45,6 +46,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Thomas11411/python/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
+| [3885-count-special-triplets](https://github.com/Thomas11411/python/tree/master/3885-count-special-triplets) |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
 | [3934-coupon-code-validator](https://github.com/Thomas11411/python/tree/master/3934-coupon-code-validator) |
 ## String
@@ -79,4 +81,8 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Thomas11411/python/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+## Counting
+|  |
+| ------- |
+| [3885-count-special-triplets](https://github.com/Thomas11411/python/tree/master/3885-count-special-triplets) |
 <!---LeetCode Topics End-->
