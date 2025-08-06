@@ -684,6 +684,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thomas11411/python/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1944-truncate-sentence](https://github.com/Thomas11411/python/tree/master/1944-truncate-sentence) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Thomas11411/python/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [1970-sorting-the-sentence](https://github.com/Thomas11411/python/tree/master/1970-sorting-the-sentence) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -843,6 +844,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1829-maximum-units-on-a-truck](https://github.com/Thomas11411/python/tree/master/1829-maximum-units-on-a-truck) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Thomas11411/python/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1961-maximum-ice-cream-bars](https://github.com/Thomas11411/python/tree/master/1961-maximum-ice-cream-bars) |
+| [1970-sorting-the-sentence](https://github.com/Thomas11411/python/tree/master/1970-sorting-the-sentence) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
