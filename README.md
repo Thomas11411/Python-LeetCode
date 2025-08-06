@@ -84,6 +84,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1137-height-checker](https://github.com/Thomas11411/python/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Thomas11411/python/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/Thomas11411/python/tree/master/1217-relative-sort-array) |
+| [1287-distance-between-bus-stops](https://github.com/Thomas11411/python/tree/master/1287-distance-between-bus-stops) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
