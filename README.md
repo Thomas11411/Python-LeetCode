@@ -262,6 +262,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Thomas11411/python/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Thomas11411/python/tree/master/1448-maximum-69-number) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Thomas11411/python/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1543-simplified-fractions](https://github.com/Thomas11411/python/tree/master/1543-simplified-fractions) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -307,6 +308,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Number Theory
 |  |
 | ------- |
+| [1543-simplified-fractions](https://github.com/Thomas11411/python/tree/master/1543-simplified-fractions) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
 | [3373-maximum-prime-difference](https://github.com/Thomas11411/python/tree/master/3373-maximum-prime-difference) |
@@ -516,6 +518,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Thomas11411/python/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Thomas11411/python/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/Thomas11411/python/tree/master/1542-consecutive-characters) |
+| [1543-simplified-fractions](https://github.com/Thomas11411/python/tree/master/1543-simplified-fractions) |
 | [1547-destination-city](https://github.com/Thomas11411/python/tree/master/1547-destination-city) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
