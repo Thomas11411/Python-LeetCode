@@ -33,4 +33,20 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+## Hash Table
+|  |
+| ------- |
+| [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
+## String
+|  |
+| ------- |
+| [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
+## Trie
+|  |
+| ------- |
+| [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
+## Simulation
+|  |
+| ------- |
+| [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
 <!---LeetCode Topics End-->
