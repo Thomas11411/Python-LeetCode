@@ -100,6 +100,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Thomas11411/python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Thomas11411/python/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Thomas11411/python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1428-jump-game-iii](https://github.com/Thomas11411/python/tree/master/1428-jump-game-iii) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -299,6 +300,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0563-binary-tree-tilt](https://github.com/Thomas11411/python/tree/master/0563-binary-tree-tilt) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Thomas11411/python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Thomas11411/python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1428-jump-game-iii](https://github.com/Thomas11411/python/tree/master/1428-jump-game-iii) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -309,6 +311,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0463-island-perimeter](https://github.com/Thomas11411/python/tree/master/0463-island-perimeter) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Thomas11411/python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/Thomas11411/python/tree/master/1036-rotting-oranges) |
+| [1428-jump-game-iii](https://github.com/Thomas11411/python/tree/master/1428-jump-game-iii) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Thomas11411/python/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Union Find
