@@ -226,6 +226,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Thomas11411/python/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Thomas11411/python/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Thomas11411/python/tree/master/3194-find-words-containing-character) |
 | [3202-high-access-employees](https://github.com/Thomas11411/python/tree/master/3202-high-access-employees) |
@@ -448,6 +449,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Thomas11411/python/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Thomas11411/python/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Thomas11411/python/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3463-alternating-groups-i](https://github.com/Thomas11411/python/tree/master/3463-alternating-groups-i) |
