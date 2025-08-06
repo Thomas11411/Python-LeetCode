@@ -62,6 +62,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0724-find-pivot-index](https://github.com/Thomas11411/python/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/Thomas11411/python/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Thomas11411/python/tree/master/0747-min-cost-climbing-stairs) |
+| [0777-toeplitz-matrix](https://github.com/Thomas11411/python/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Thomas11411/python/tree/master/0792-binary-search) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -275,6 +276,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0200-number-of-islands](https://github.com/Thomas11411/python/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Thomas11411/python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Thomas11411/python/tree/master/0463-island-perimeter) |
+| [0777-toeplitz-matrix](https://github.com/Thomas11411/python/tree/master/0777-toeplitz-matrix) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Thomas11411/python/tree/master/3330-modify-the-matrix) |
