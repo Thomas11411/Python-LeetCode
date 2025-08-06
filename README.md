@@ -113,6 +113,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3541-report-spam-message](https://github.com/Thomas11411/python/tree/master/3541-report-spam-message) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Thomas11411/python/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Thomas11411/python/tree/master/3617-find-the-original-typed-string-i) |
+| [3636-check-balanced-string](https://github.com/Thomas11411/python/tree/master/3636-check-balanced-string) |
 | [3707-find-the-most-common-response](https://github.com/Thomas11411/python/tree/master/3707-find-the-most-common-response) |
 | [3709-find-special-substring-of-length-k](https://github.com/Thomas11411/python/tree/master/3709-find-special-substring-of-length-k) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Thomas11411/python/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
