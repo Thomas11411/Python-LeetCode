@@ -284,6 +284,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1635-number-of-good-pairs](https://github.com/Thomas11411/python/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Thomas11411/python/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Thomas11411/python/tree/master/1642-water-bottles) |
+| [1678-number-of-ways-to-split-a-string](https://github.com/Thomas11411/python/tree/master/1678-number-of-ways-to-split-a-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -556,6 +557,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1651-shuffle-string](https://github.com/Thomas11411/python/tree/master/1651-shuffle-string) |
 | [1660-thousand-separator](https://github.com/Thomas11411/python/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/Thomas11411/python/tree/master/1666-make-the-string-great) |
+| [1678-number-of-ways-to-split-a-string](https://github.com/Thomas11411/python/tree/master/1678-number-of-ways-to-split-a-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
