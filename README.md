@@ -734,6 +734,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Thomas11411/python/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Thomas11411/python/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Thomas11411/python/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Thomas11411/python/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Thomas11411/python/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Thomas11411/python/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
@@ -1001,6 +1002,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Thomas11411/python/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Thomas11411/python/tree/master/2066-add-minimum-number-of-rungs) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Thomas11411/python/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Thomas11411/python/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Thomas11411/python/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Thomas11411/python/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
