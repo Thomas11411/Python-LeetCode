@@ -93,6 +93,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Thomas11411/python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Thomas11411/python/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Thomas11411/python/tree/master/1395-minimum-time-visiting-all-points) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Thomas11411/python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -318,6 +319,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0777-toeplitz-matrix](https://github.com/Thomas11411/python/tree/master/0777-toeplitz-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Thomas11411/python/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Thomas11411/python/tree/master/1036-rotting-oranges) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Thomas11411/python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Thomas11411/python/tree/master/3330-modify-the-matrix) |
@@ -932,6 +934,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1250-longest-common-subsequence](https://github.com/Thomas11411/python/tree/master/1250-longest-common-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Thomas11411/python/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Thomas11411/python/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Thomas11411/python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
