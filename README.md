@@ -583,6 +583,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1720-crawler-log-folder](https://github.com/Thomas11411/python/tree/master/1720-crawler-log-folder) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Thomas11411/python/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1751-slowest-key](https://github.com/Thomas11411/python/tree/master/1751-slowest-key) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thomas11411/python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -949,6 +950,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Thomas11411/python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/Thomas11411/python/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/Thomas11411/python/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thomas11411/python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/Thomas11411/python/tree/master/3447-clear-digits) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -1127,6 +1129,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Thomas11411/python/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Thomas11411/python/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Thomas11411/python/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thomas11411/python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1761-count-sorted-vowel-strings](https://github.com/Thomas11411/python/tree/master/1761-count-sorted-vowel-strings) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
