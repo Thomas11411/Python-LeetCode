@@ -186,6 +186,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Thomas11411/python/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/Thomas11411/python/tree/master/1961-maximum-ice-cream-bars) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Thomas11411/python/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1983-maximum-population-year](https://github.com/Thomas11411/python/tree/master/1983-maximum-population-year) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1011,6 +1012,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Thomas11411/python/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Thomas11411/python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Thomas11411/python/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1983-maximum-population-year](https://github.com/Thomas11411/python/tree/master/1983-maximum-population-year) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -1141,6 +1143,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Thomas11411/python/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/Thomas11411/python/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Thomas11411/python/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1983-maximum-population-year](https://github.com/Thomas11411/python/tree/master/1983-maximum-population-year) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thomas11411/python/tree/master/3034-points-that-intersect-with-cars) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
