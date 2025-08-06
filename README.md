@@ -8,6 +8,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Thomas11411/python/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Thomas11411/python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Thomas11411/python/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Thomas11411/python/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Thomas11411/python/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -269,6 +270,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Prefix Sum
 |  |
 | ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Thomas11411/python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Thomas11411/python/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Thomas11411/python/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Thomas11411/python/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -276,6 +278,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Sliding Window
 |  |
 | ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Thomas11411/python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Thomas11411/python/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Thomas11411/python/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Thomas11411/python/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -306,6 +309,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Bit Manipulation
 |  |
 | ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Thomas11411/python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Thomas11411/python/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Thomas11411/python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Thomas11411/python/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -319,4 +323,8 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Thomas11411/python/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Thomas11411/python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
