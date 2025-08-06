@@ -148,6 +148,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1755-defuse-the-bomb](https://github.com/Thomas11411/python/tree/master/1755-defuse-the-bomb) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Thomas11411/python/tree/master/1760-check-array-formation-through-concatenation) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Thomas11411/python/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1783-ways-to-make-a-fair-array](https://github.com/Thomas11411/python/tree/master/1783-ways-to-make-a-fair-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1003,6 +1004,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Thomas11411/python/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Thomas11411/python/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Thomas11411/python/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1783-ways-to-make-a-fair-array](https://github.com/Thomas11411/python/tree/master/1783-ways-to-make-a-fair-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thomas11411/python/tree/master/3034-points-that-intersect-with-cars) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
