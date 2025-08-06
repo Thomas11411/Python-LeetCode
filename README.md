@@ -179,6 +179,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Thomas11411/python/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thomas11411/python/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Thomas11411/python/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Thomas11411/python/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/Thomas11411/python/tree/master/1944-truncate-sentence) |
 | [1945-finding-the-users-active-minutes](https://github.com/Thomas11411/python/tree/master/1945-finding-the-users-active-minutes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Thomas11411/python/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -915,6 +916,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1880-largest-merge-of-two-strings](https://github.com/Thomas11411/python/tree/master/1880-largest-merge-of-two-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Thomas11411/python/tree/master/1917-maximum-average-pass-ratio) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Thomas11411/python/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Thomas11411/python/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
