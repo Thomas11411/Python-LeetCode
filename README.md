@@ -548,6 +548,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1619-path-crossing](https://github.com/Thomas11411/python/tree/master/1619-path-crossing) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Thomas11411/python/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/Thomas11411/python/tree/master/1651-shuffle-string) |
+| [1666-make-the-string-great](https://github.com/Thomas11411/python/tree/master/1666-make-the-string-great) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -903,6 +904,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Thomas11411/python/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Thomas11411/python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Thomas11411/python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1666-make-the-string-great](https://github.com/Thomas11411/python/tree/master/1666-make-the-string-great) |
 | [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/Thomas11411/python/tree/master/3447-clear-digits) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
