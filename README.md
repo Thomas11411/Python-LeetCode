@@ -193,6 +193,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1985-maximum-subarray-min-product](https://github.com/Thomas11411/python/tree/master/1985-maximum-subarray-min-product) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Thomas11411/python/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Thomas11411/python/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Thomas11411/python/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Thomas11411/python/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Thomas11411/python/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -544,6 +545,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thomas11411/python/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1945-finding-the-users-active-minutes](https://github.com/Thomas11411/python/tree/master/1945-finding-the-users-active-minutes) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Thomas11411/python/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Thomas11411/python/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1170,6 +1172,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Thomas11411/python/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1983-maximum-population-year](https://github.com/Thomas11411/python/tree/master/1983-maximum-population-year) |
 | [1985-maximum-subarray-min-product](https://github.com/Thomas11411/python/tree/master/1985-maximum-subarray-min-product) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Thomas11411/python/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thomas11411/python/tree/master/3034-points-that-intersect-with-cars) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
