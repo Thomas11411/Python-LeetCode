@@ -74,6 +74,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Thomas11411/python/tree/master/0009-palindrome-number) |
+| [3371-harshad-number](https://github.com/Thomas11411/python/tree/master/3371-harshad-number) |
 | [3373-maximum-prime-difference](https://github.com/Thomas11411/python/tree/master/3373-maximum-prime-difference) |
 | [3388-right-triangles](https://github.com/Thomas11411/python/tree/master/3388-right-triangles) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Thomas11411/python/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
