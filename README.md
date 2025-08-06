@@ -10,6 +10,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Thomas11411/python/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thomas11411/python/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Thomas11411/python/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
 | [2892-check-if-array-is-good](https://github.com/Thomas11411/python/tree/master/2892-check-if-array-is-good) |
@@ -447,6 +448,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/Thomas11411/python/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Thomas11411/python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Thomas11411/python/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -496,6 +498,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thomas11411/python/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Thomas11411/python/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Thomas11411/python/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -514,6 +517,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Ordered Set
 |  |
 | ------- |
+| [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Thomas11411/python/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Thomas11411/python/tree/master/3790-fruits-into-baskets-ii) |
 ## Recursion
@@ -555,6 +559,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Queue
 |  |
 | ------- |
+| [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Thomas11411/python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
@@ -580,4 +585,8 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
