@@ -316,6 +316,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Thomas11411/python/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Thomas11411/python/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/Thomas11411/python/tree/master/0740-delete-and-earn) |
+| [0782-jewels-and-stones](https://github.com/Thomas11411/python/tree/master/0782-jewels-and-stones) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -391,6 +392,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0567-permutation-in-string](https://github.com/Thomas11411/python/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Thomas11411/python/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Thomas11411/python/tree/master/0692-top-k-frequent-words) |
+| [0782-jewels-and-stones](https://github.com/Thomas11411/python/tree/master/0782-jewels-and-stones) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
