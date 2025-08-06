@@ -9,6 +9,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/Thomas11411/python/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Thomas11411/python/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Thomas11411/python/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3324-split-the-array](https://github.com/Thomas11411/python/tree/master/3324-split-the-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Thomas11411/python/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Thomas11411/python/tree/master/3334-apple-redistribution-into-boxes) |
@@ -233,6 +234,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Simulation
 |  |
 | ------- |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Thomas11411/python/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Thomas11411/python/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Thomas11411/python/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Thomas11411/python/tree/master/3447-clear-digits) |
