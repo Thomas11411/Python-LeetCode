@@ -19,6 +19,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Thomas11411/python/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3790-fruits-into-baskets-ii](https://github.com/Thomas11411/python/tree/master/3790-fruits-into-baskets-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/3799-unique-3-digit-even-numbers) |
 | [3822-fill-a-special-grid](https://github.com/Thomas11411/python/tree/master/3822-fill-a-special-grid) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -74,6 +75,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Thomas11411/python/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Thomas11411/python/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/3799-unique-3-digit-even-numbers) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Thomas11411/python/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Thomas11411/python/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -173,6 +175,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Enumeration
 |  |
 | ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/3799-unique-3-digit-even-numbers) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Thomas11411/python/tree/master/3849-equal-sum-grid-partition-i) |
 ## Prefix Sum
 |  |
@@ -195,4 +198,8 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Thomas11411/python/tree/master/3790-fruits-into-baskets-ii) |
+## Recursion
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
