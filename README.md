@@ -21,6 +21,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0049-group-anagrams](https://github.com/Thomas11411/python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Thomas11411/python/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Thomas11411/python/tree/master/0063-unique-paths-ii) |
+| [0078-subsets](https://github.com/Thomas11411/python/tree/master/0078-subsets) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -602,6 +603,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Thomas11411/python/tree/master/0078-subsets) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Thomas11411/python/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Thomas11411/python/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Thomas11411/python/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -641,6 +643,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0046-permutations](https://github.com/Thomas11411/python/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Thomas11411/python/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Thomas11411/python/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Thomas11411/python/tree/master/0078-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thomas11411/python/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Rolling Hash
