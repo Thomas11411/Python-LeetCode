@@ -205,6 +205,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2055-describe-the-painting](https://github.com/Thomas11411/python/tree/master/2055-describe-the-painting) |
 | [2058-concatenation-of-array](https://github.com/Thomas11411/python/tree/master/2058-concatenation-of-array) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Thomas11411/python/tree/master/2066-add-minimum-number-of-rungs) |
+| [2078-maximum-compatibility-score-sum](https://github.com/Thomas11411/python/tree/master/2078-maximum-compatibility-score-sum) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1314,6 +1315,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thomas11411/python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Thomas11411/python/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Thomas11411/python/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2078-maximum-compatibility-score-sum](https://github.com/Thomas11411/python/tree/master/2078-maximum-compatibility-score-sum) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Thomas11411/python/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Thomas11411/python/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Thomas11411/python/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -1362,6 +1364,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1761-count-sorted-vowel-strings](https://github.com/Thomas11411/python/tree/master/1761-count-sorted-vowel-strings) |
 | [1764-maximum-repeating-substring](https://github.com/Thomas11411/python/tree/master/1764-maximum-repeating-substring) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Thomas11411/python/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2078-maximum-compatibility-score-sum](https://github.com/Thomas11411/python/tree/master/2078-maximum-compatibility-score-sum) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
@@ -1397,6 +1400,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1160-letter-tile-possibilities](https://github.com/Thomas11411/python/tree/master/1160-letter-tile-possibilities) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Thomas11411/python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Thomas11411/python/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2078-maximum-compatibility-score-sum](https://github.com/Thomas11411/python/tree/master/2078-maximum-compatibility-score-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thomas11411/python/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Rolling Hash
@@ -1480,4 +1484,8 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/Thomas11411/python/tree/master/1028-interval-list-intersections) |
+## Bitmask
+|  |
+| ------- |
+| [2078-maximum-compatibility-score-sum](https://github.com/Thomas11411/python/tree/master/2078-maximum-compatibility-score-sum) |
 <!---LeetCode Topics End-->
