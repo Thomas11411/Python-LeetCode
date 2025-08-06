@@ -11,6 +11,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Math
 |  |
 | ------- |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Thomas11411/python/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3936-split-array-by-prime-indices](https://github.com/Thomas11411/python/tree/master/3936-split-array-by-prime-indices) |
 ## Number Theory
 |  |
