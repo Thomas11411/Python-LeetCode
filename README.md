@@ -207,6 +207,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2066-add-minimum-number-of-rungs](https://github.com/Thomas11411/python/tree/master/2066-add-minimum-number-of-rungs) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Thomas11411/python/tree/master/2078-maximum-compatibility-score-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Thomas11411/python/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Thomas11411/python/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -993,6 +994,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2039-sum-game](https://github.com/Thomas11411/python/tree/master/2039-sum-game) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Thomas11411/python/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Thomas11411/python/tree/master/2066-add-minimum-number-of-rungs) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Thomas11411/python/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1143,6 +1145,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Thomas11411/python/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1788-stone-game-vi](https://github.com/Thomas11411/python/tree/master/1788-stone-game-vi) |
 | [1917-maximum-average-pass-ratio](https://github.com/Thomas11411/python/tree/master/1917-maximum-average-pass-ratio) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Thomas11411/python/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/Thomas11411/python/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Thomas11411/python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
