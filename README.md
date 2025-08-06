@@ -156,6 +156,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1792-find-the-most-competitive-subsequence](https://github.com/Thomas11411/python/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Thomas11411/python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Thomas11411/python/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1803-average-waiting-time](https://github.com/Thomas11411/python/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/Thomas11411/python/tree/master/1813-maximum-erasure-value) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -681,6 +682,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [1642-water-bottles](https://github.com/Thomas11411/python/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Thomas11411/python/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1803-average-waiting-time](https://github.com/Thomas11411/python/tree/master/1803-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/Thomas11411/python/tree/master/1806-count-of-matches-in-tournament) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
