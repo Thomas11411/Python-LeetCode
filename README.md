@@ -86,6 +86,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Thomas11411/python/tree/master/0009-palindrome-number) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Thomas11411/python/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3321-type-of-triangle](https://github.com/Thomas11411/python/tree/master/3321-type-of-triangle) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Thomas11411/python/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Thomas11411/python/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -191,6 +192,7 @@ The Python code I wrote to solve problems on LeetCode
 ## String
 |  |
 | ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Thomas11411/python/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thomas11411/python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Thomas11411/python/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/Thomas11411/python/tree/master/3312-number-of-changing-keys) |
@@ -293,6 +295,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Greedy
 |  |
 | ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Thomas11411/python/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thomas11411/python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Thomas11411/python/tree/master/3334-apple-redistribution-into-boxes) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Thomas11411/python/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
