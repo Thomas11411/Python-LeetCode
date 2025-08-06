@@ -825,6 +825,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0318-maximum-product-of-word-lengths](https://github.com/Thomas11411/python/tree/master/0318-maximum-product-of-word-lengths) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Thomas11411/python/tree/master/0693-binary-number-with-alternating-bits) |
 | [0800-letter-case-permutation](https://github.com/Thomas11411/python/tree/master/0800-letter-case-permutation) |
+| [1054-complement-of-base-10-integer](https://github.com/Thomas11411/python/tree/master/1054-complement-of-base-10-integer) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Thomas11411/python/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Thomas11411/python/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Thomas11411/python/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
