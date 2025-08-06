@@ -12,6 +12,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2844-sum-of-squares-of-special-elements](https://github.com/Thomas11411/python/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thomas11411/python/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
+| [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Thomas11411/python/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
 | [2892-check-if-array-is-good](https://github.com/Thomas11411/python/tree/master/2892-check-if-array-is-good) |
@@ -127,6 +128,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0009-palindrome-number](https://github.com/Thomas11411/python/tree/master/0009-palindrome-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
+| [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Thomas11411/python/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Thomas11411/python/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -167,6 +169,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Number Theory
 |  |
 | ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
 | [3373-maximum-prime-difference](https://github.com/Thomas11411/python/tree/master/3373-maximum-prime-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thomas11411/python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3936-split-array-by-prime-indices](https://github.com/Thomas11411/python/tree/master/3936-split-array-by-prime-indices) |
@@ -476,6 +479,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Thomas11411/python/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
 | [3221-find-the-peaks](https://github.com/Thomas11411/python/tree/master/3221-find-the-peaks) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Thomas11411/python/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Thomas11411/python/tree/master/3398-make-a-square-with-the-same-color) |
