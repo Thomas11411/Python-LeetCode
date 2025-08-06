@@ -510,6 +510,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1848-sum-of-unique-elements](https://github.com/Thomas11411/python/tree/master/1848-sum-of-unique-elements) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Thomas11411/python/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Thomas11411/python/tree/master/1904-second-largest-digit-in-a-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Thomas11411/python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Thomas11411/python/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thomas11411/python/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -651,6 +652,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Thomas11411/python/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/Thomas11411/python/tree/master/1899-count-items-matching-a-rule) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Thomas11411/python/tree/master/1904-second-largest-digit-in-a-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Thomas11411/python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Thomas11411/python/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thomas11411/python/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
@@ -975,6 +977,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1823-determine-if-string-halves-are-alike](https://github.com/Thomas11411/python/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Thomas11411/python/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/Thomas11411/python/tree/master/1848-sum-of-unique-elements) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Thomas11411/python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
