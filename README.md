@@ -165,6 +165,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0070-climbing-stairs](https://github.com/Thomas11411/python/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Thomas11411/python/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Thomas11411/python/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Thomas11411/python/tree/master/0279-perfect-squares) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -225,6 +226,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0127-word-ladder](https://github.com/Thomas11411/python/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Thomas11411/python/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/Thomas11411/python/tree/master/0279-perfect-squares) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Thomas11411/python/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Union Find
@@ -679,6 +681,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thomas11411/python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Thomas11411/python/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/Thomas11411/python/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Thomas11411/python/tree/master/0279-perfect-squares) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
