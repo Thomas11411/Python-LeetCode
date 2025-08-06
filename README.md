@@ -138,6 +138,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thomas11411/python/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Thomas11411/python/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3468-find-the-encrypted-string](https://github.com/Thomas11411/python/tree/master/3468-find-the-encrypted-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Thomas11411/python/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Thomas11411/python/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3533-snake-in-matrix](https://github.com/Thomas11411/python/tree/master/3533-snake-in-matrix) |
