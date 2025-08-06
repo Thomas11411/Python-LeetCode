@@ -640,6 +640,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0040-combination-sum-ii](https://github.com/Thomas11411/python/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Thomas11411/python/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Thomas11411/python/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/Thomas11411/python/tree/master/0077-combinations) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thomas11411/python/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Rolling Hash
