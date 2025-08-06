@@ -17,6 +17,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0039-combination-sum](https://github.com/Thomas11411/python/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Thomas11411/python/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Thomas11411/python/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Thomas11411/python/tree/master/0047-permutations-ii) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -381,6 +382,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0015-3sum](https://github.com/Thomas11411/python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Thomas11411/python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Thomas11411/python/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Thomas11411/python/tree/master/0047-permutations-ii) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -619,6 +621,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0039-combination-sum](https://github.com/Thomas11411/python/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Thomas11411/python/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Thomas11411/python/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Thomas11411/python/tree/master/0047-permutations-ii) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thomas11411/python/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Rolling Hash
