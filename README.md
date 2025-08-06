@@ -173,6 +173,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Thomas11411/python/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/Thomas11411/python/tree/master/1899-count-items-matching-a-rule) |
 | [1917-maximum-average-pass-ratio](https://github.com/Thomas11411/python/tree/master/1917-maximum-average-pass-ratio) |
+| [1923-sentence-similarity-iii](https://github.com/Thomas11411/python/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Thomas11411/python/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Thomas11411/python/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thomas11411/python/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -657,6 +658,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1904-second-largest-digit-in-a-string](https://github.com/Thomas11411/python/tree/master/1904-second-largest-digit-in-a-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Thomas11411/python/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Thomas11411/python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1923-sentence-similarity-iii](https://github.com/Thomas11411/python/tree/master/1923-sentence-similarity-iii) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Thomas11411/python/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thomas11411/python/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
@@ -954,6 +956,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Thomas11411/python/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/Thomas11411/python/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/Thomas11411/python/tree/master/1894-merge-strings-alternately) |
+| [1923-sentence-similarity-iii](https://github.com/Thomas11411/python/tree/master/1923-sentence-similarity-iii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
