@@ -39,6 +39,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0260-single-number-iii](https://github.com/Thomas11411/python/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Thomas11411/python/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Thomas11411/python/tree/master/0318-maximum-product-of-word-lengths) |
+| [0347-top-k-frequent-elements](https://github.com/Thomas11411/python/tree/master/0347-top-k-frequent-elements) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -267,6 +268,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0229-majority-element-ii](https://github.com/Thomas11411/python/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Thomas11411/python/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Thomas11411/python/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Thomas11411/python/tree/master/0347-top-k-frequent-elements) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -441,6 +443,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0215-kth-largest-element-in-an-array](https://github.com/Thomas11411/python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Thomas11411/python/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Thomas11411/python/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Thomas11411/python/tree/master/0347-top-k-frequent-elements) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -529,6 +532,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0169-majority-element](https://github.com/Thomas11411/python/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Thomas11411/python/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Thomas11411/python/tree/master/0347-top-k-frequent-elements) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -568,6 +572,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0215-kth-largest-element-in-an-array](https://github.com/Thomas11411/python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Thomas11411/python/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Thomas11411/python/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Thomas11411/python/tree/master/0347-top-k-frequent-elements) |
 | [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/Thomas11411/python/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Thomas11411/python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -587,6 +592,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0053-maximum-subarray](https://github.com/Thomas11411/python/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Thomas11411/python/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thomas11411/python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Thomas11411/python/tree/master/0347-top-k-frequent-elements) |
 | [3822-fill-a-special-grid](https://github.com/Thomas11411/python/tree/master/3822-fill-a-special-grid) |
 ## Counting Sort
 |  |
@@ -756,4 +762,9 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thomas11411/python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Thomas11411/python/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Thomas11411/python/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
