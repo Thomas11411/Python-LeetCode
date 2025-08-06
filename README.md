@@ -37,6 +37,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0238-product-of-array-except-self](https://github.com/Thomas11411/python/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Thomas11411/python/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Thomas11411/python/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/Thomas11411/python/tree/master/0287-find-the-duplicate-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -470,6 +471,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Thomas11411/python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Thomas11411/python/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/Thomas11411/python/tree/master/0287-find-the-duplicate-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3427-special-array-ii](https://github.com/Thomas11411/python/tree/master/3427-special-array-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
@@ -511,6 +513,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0016-3sum-closest](https://github.com/Thomas11411/python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Thomas11411/python/tree/master/0018-4sum) |
 | [0202-happy-number](https://github.com/Thomas11411/python/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Thomas11411/python/tree/master/0287-find-the-duplicate-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -661,6 +664,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0136-single-number](https://github.com/Thomas11411/python/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Thomas11411/python/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Thomas11411/python/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/Thomas11411/python/tree/master/0287-find-the-duplicate-number) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Thomas11411/python/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Thomas11411/python/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Thomas11411/python/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
