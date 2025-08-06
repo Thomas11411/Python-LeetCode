@@ -518,6 +518,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1160-letter-tile-possibilities](https://github.com/Thomas11411/python/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/Thomas11411/python/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Thomas11411/python/tree/master/1256-rank-transform-of-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Thomas11411/python/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/Thomas11411/python/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Thomas11411/python/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Thomas11411/python/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -647,6 +648,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1160-letter-tile-possibilities](https://github.com/Thomas11411/python/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/Thomas11411/python/tree/master/1250-longest-common-subsequence) |
 | [1260-day-of-the-year](https://github.com/Thomas11411/python/tree/master/1260-day-of-the-year) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Thomas11411/python/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/Thomas11411/python/tree/master/1297-maximum-number-of-balloons) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Thomas11411/python/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Thomas11411/python/tree/master/1321-get-equal-substrings-within-budget) |
