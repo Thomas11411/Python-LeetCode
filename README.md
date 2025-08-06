@@ -124,6 +124,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Thomas11411/python/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Thomas11411/python/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Thomas11411/python/tree/master/1580-shuffle-the-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Thomas11411/python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -421,6 +422,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1547-destination-city](https://github.com/Thomas11411/python/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thomas11411/python/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Thomas11411/python/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Thomas11411/python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -672,6 +674,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thomas11411/python/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Thomas11411/python/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Thomas11411/python/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Thomas11411/python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -740,6 +743,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1448-maximum-69-number](https://github.com/Thomas11411/python/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Thomas11411/python/tree/master/1464-reduce-array-size-to-the-half) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Thomas11411/python/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Thomas11411/python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -810,6 +814,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Thomas11411/python/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Thomas11411/python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Thomas11411/python/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Thomas11411/python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
