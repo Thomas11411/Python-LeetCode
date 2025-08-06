@@ -507,6 +507,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Thomas11411/python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Thomas11411/python/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1524-string-matching-in-an-array](https://github.com/Thomas11411/python/tree/master/1524-string-matching-in-an-array) |
+| [1532-reformat-the-string](https://github.com/Thomas11411/python/tree/master/1532-reformat-the-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
