@@ -243,6 +243,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1395-minimum-time-visiting-all-points](https://github.com/Thomas11411/python/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Thomas11411/python/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Thomas11411/python/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/Thomas11411/python/tree/master/1448-maximum-69-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -671,6 +672,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1341-split-a-string-in-balanced-strings](https://github.com/Thomas11411/python/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Thomas11411/python/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Thomas11411/python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1448-maximum-69-number](https://github.com/Thomas11411/python/tree/master/1448-maximum-69-number) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
