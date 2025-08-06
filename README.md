@@ -158,6 +158,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0062-unique-paths](https://github.com/Thomas11411/python/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Thomas11411/python/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Thomas11411/python/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Thomas11411/python/tree/master/0202-happy-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -252,6 +253,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0128-longest-consecutive-sequence](https://github.com/Thomas11411/python/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Thomas11411/python/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Thomas11411/python/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Thomas11411/python/tree/master/0202-happy-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -493,6 +495,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0015-3sum](https://github.com/Thomas11411/python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Thomas11411/python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Thomas11411/python/tree/master/0018-4sum) |
+| [0202-happy-number](https://github.com/Thomas11411/python/tree/master/0202-happy-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
