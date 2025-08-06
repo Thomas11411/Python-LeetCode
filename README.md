@@ -30,6 +30,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0136-single-number](https://github.com/Thomas11411/python/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Thomas11411/python/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Thomas11411/python/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/Thomas11411/python/tree/master/0169-majority-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -245,6 +246,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0127-word-ladder](https://github.com/Thomas11411/python/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Thomas11411/python/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Thomas11411/python/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/Thomas11411/python/tree/master/0169-majority-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -411,6 +413,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0018-4sum](https://github.com/Thomas11411/python/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Thomas11411/python/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Thomas11411/python/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Thomas11411/python/tree/master/0169-majority-element) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -492,6 +495,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Thomas11411/python/tree/master/0169-majority-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -545,6 +549,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Thomas11411/python/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Thomas11411/python/tree/master/0169-majority-element) |
 | [3822-fill-a-special-grid](https://github.com/Thomas11411/python/tree/master/3822-fill-a-special-grid) |
 ## Counting Sort
 |  |
