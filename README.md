@@ -117,6 +117,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Thomas11411/python/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Thomas11411/python/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-diagonal-traverse-ii](https://github.com/Thomas11411/python/tree/master/1539-diagonal-traverse-ii) |
+| [1547-destination-city](https://github.com/Thomas11411/python/tree/master/1547-destination-city) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -409,6 +410,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Thomas11411/python/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thomas11411/python/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Thomas11411/python/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1547-destination-city](https://github.com/Thomas11411/python/tree/master/1547-destination-city) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -513,6 +515,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1532-reformat-the-string](https://github.com/Thomas11411/python/tree/master/1532-reformat-the-string) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Thomas11411/python/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Thomas11411/python/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1547-destination-city](https://github.com/Thomas11411/python/tree/master/1547-destination-city) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
