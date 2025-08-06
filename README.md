@@ -8,6 +8,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Thomas11411/python/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Thomas11411/python/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/Thomas11411/python/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Thomas11411/python/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3311-ant-on-the-boundary](https://github.com/Thomas11411/python/tree/master/3311-ant-on-the-boundary) |
