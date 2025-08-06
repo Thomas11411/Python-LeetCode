@@ -69,6 +69,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0878-shifting-letters](https://github.com/Thomas11411/python/tree/master/0878-shifting-letters) |
 | [0941-sort-array-by-parity](https://github.com/Thomas11411/python/tree/master/0941-sort-array-by-parity) |
 | [0967-minimum-falling-path-sum](https://github.com/Thomas11411/python/tree/master/0967-minimum-falling-path-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/Thomas11411/python/tree/master/1014-k-closest-points-to-origin) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -202,6 +203,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Thomas11411/python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thomas11411/python/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Thomas11411/python/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/Thomas11411/python/tree/master/1014-k-closest-points-to-origin) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -529,6 +531,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0628-maximum-product-of-three-numbers](https://github.com/Thomas11411/python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Thomas11411/python/tree/master/0692-top-k-frequent-words) |
 | [0941-sort-array-by-parity](https://github.com/Thomas11411/python/tree/master/0941-sort-array-by-parity) |
+| [1014-k-closest-points-to-origin](https://github.com/Thomas11411/python/tree/master/1014-k-closest-points-to-origin) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -687,6 +690,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0506-relative-ranks](https://github.com/Thomas11411/python/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Thomas11411/python/tree/master/0692-top-k-frequent-words) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Thomas11411/python/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1014-k-closest-points-to-origin](https://github.com/Thomas11411/python/tree/master/1014-k-closest-points-to-origin) |
 | [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/Thomas11411/python/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Thomas11411/python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -708,6 +712,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0169-majority-element](https://github.com/Thomas11411/python/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thomas11411/python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Thomas11411/python/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Thomas11411/python/tree/master/1014-k-closest-points-to-origin) |
 | [3822-fill-a-special-grid](https://github.com/Thomas11411/python/tree/master/3822-fill-a-special-grid) |
 ## Counting Sort
 |  |
@@ -908,6 +913,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thomas11411/python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Thomas11411/python/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Thomas11411/python/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -926,4 +932,8 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Thomas11411/python/tree/master/0803-cheapest-flights-within-k-stops) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Thomas11411/python/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
