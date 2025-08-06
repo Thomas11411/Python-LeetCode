@@ -7,6 +7,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
+| [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3194-find-words-containing-character](https://github.com/Thomas11411/python/tree/master/3194-find-words-containing-character) |
 | [3202-high-access-employees](https://github.com/Thomas11411/python/tree/master/3202-high-access-employees) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Thomas11411/python/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -156,6 +157,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Matrix
 |  |
 | ------- |
+| [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Thomas11411/python/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Thomas11411/python/tree/master/3398-make-a-square-with-the-same-color) |
