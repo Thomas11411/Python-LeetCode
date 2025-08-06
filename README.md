@@ -7,6 +7,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Thomas11411/python/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/Thomas11411/python/tree/master/3373-maximum-prime-difference) |
 | [3388-right-triangles](https://github.com/Thomas11411/python/tree/master/3388-right-triangles) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Thomas11411/python/tree/master/3397-find-the-integer-added-to-array-i) |
