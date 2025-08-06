@@ -88,6 +88,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1222-remove-covered-intervals](https://github.com/Thomas11411/python/tree/master/1222-remove-covered-intervals) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Thomas11411/python/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Thomas11411/python/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1256-rank-transform-of-an-array](https://github.com/Thomas11411/python/tree/master/1256-rank-transform-of-an-array) |
 | [1287-distance-between-bus-stops](https://github.com/Thomas11411/python/tree/master/1287-distance-between-bus-stops) |
 | [1306-minimum-absolute-difference](https://github.com/Thomas11411/python/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Thomas11411/python/tree/master/1319-unique-number-of-occurrences) |
@@ -378,6 +379,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Thomas11411/python/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Thomas11411/python/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/Thomas11411/python/tree/master/1217-relative-sort-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Thomas11411/python/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Thomas11411/python/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Thomas11411/python/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Thomas11411/python/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -608,6 +610,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1137-height-checker](https://github.com/Thomas11411/python/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Thomas11411/python/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/Thomas11411/python/tree/master/1222-remove-covered-intervals) |
+| [1256-rank-transform-of-an-array](https://github.com/Thomas11411/python/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Thomas11411/python/tree/master/1306-minimum-absolute-difference) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Thomas11411/python/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Thomas11411/python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
