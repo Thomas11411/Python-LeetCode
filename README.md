@@ -186,6 +186,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1950-sign-of-the-product-of-an-array](https://github.com/Thomas11411/python/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Thomas11411/python/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/Thomas11411/python/tree/master/1961-maximum-ice-cream-bars) |
+| [1972-rotating-the-box](https://github.com/Thomas11411/python/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Thomas11411/python/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1983-maximum-population-year](https://github.com/Thomas11411/python/tree/master/1983-maximum-population-year) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Thomas11411/python/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -456,6 +457,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Thomas11411/python/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1791-richest-customer-wealth](https://github.com/Thomas11411/python/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/Thomas11411/python/tree/master/1876-map-of-highest-peak) |
+| [1972-rotating-the-box](https://github.com/Thomas11411/python/tree/master/1972-rotating-the-box) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Thomas11411/python/tree/master/3330-modify-the-matrix) |
@@ -684,7 +686,6 @@ The Python code I wrote to solve problems on LeetCode
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thomas11411/python/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1944-truncate-sentence](https://github.com/Thomas11411/python/tree/master/1944-truncate-sentence) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Thomas11411/python/tree/master/1967-longest-substring-of-all-vowels-in-order) |
-| [1970-sorting-the-sentence](https://github.com/Thomas11411/python/tree/master/1970-sorting-the-sentence) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -844,7 +845,6 @@ The Python code I wrote to solve problems on LeetCode
 | [1829-maximum-units-on-a-truck](https://github.com/Thomas11411/python/tree/master/1829-maximum-units-on-a-truck) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Thomas11411/python/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1961-maximum-ice-cream-bars](https://github.com/Thomas11411/python/tree/master/1961-maximum-ice-cream-bars) |
-| [1970-sorting-the-sentence](https://github.com/Thomas11411/python/tree/master/1970-sorting-the-sentence) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -987,6 +987,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1880-largest-merge-of-two-strings](https://github.com/Thomas11411/python/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/Thomas11411/python/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/Thomas11411/python/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/Thomas11411/python/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Thomas11411/python/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
