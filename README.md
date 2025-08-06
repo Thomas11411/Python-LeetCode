@@ -7,6 +7,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/Thomas11411/python/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Thomas11411/python/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Thomas11411/python/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Thomas11411/python/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -181,6 +182,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Sorting
 |  |
 | ------- |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/Thomas11411/python/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Thomas11411/python/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Thomas11411/python/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3778-transform-array-by-parity](https://github.com/Thomas11411/python/tree/master/3778-transform-array-by-parity) |
@@ -199,6 +201,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Greedy
 |  |
 | ------- |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/Thomas11411/python/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Thomas11411/python/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Thomas11411/python/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Thomas11411/python/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
@@ -302,6 +305,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/Thomas11411/python/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3518-maximum-multiplication-score](https://github.com/Thomas11411/python/tree/master/3518-maximum-multiplication-score) |
 ## Game Theory
 |  |
