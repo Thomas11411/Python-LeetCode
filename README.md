@@ -15,6 +15,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Thomas11411/python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Thomas11411/python/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Thomas11411/python/tree/master/0040-combination-sum-ii) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -615,6 +616,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Thomas11411/python/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Thomas11411/python/tree/master/0040-combination-sum-ii) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thomas11411/python/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Rolling Hash
