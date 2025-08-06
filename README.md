@@ -82,6 +82,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1127-last-stone-weight](https://github.com/Thomas11411/python/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Thomas11411/python/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Thomas11411/python/tree/master/1138-grumpy-bookstore-owner) |
+| [1217-relative-sort-array](https://github.com/Thomas11411/python/tree/master/1217-relative-sort-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -344,6 +345,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0782-jewels-and-stones](https://github.com/Thomas11411/python/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/Thomas11411/python/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Thomas11411/python/tree/master/1160-letter-tile-possibilities) |
+| [1217-relative-sort-array](https://github.com/Thomas11411/python/tree/master/1217-relative-sort-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -556,6 +558,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1018-largest-perimeter-triangle](https://github.com/Thomas11411/python/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Thomas11411/python/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Thomas11411/python/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Thomas11411/python/tree/master/1217-relative-sort-array) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -751,6 +754,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Thomas11411/python/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Thomas11411/python/tree/master/1217-relative-sort-array) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Thomas11411/python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
