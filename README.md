@@ -84,6 +84,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1137-height-checker](https://github.com/Thomas11411/python/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Thomas11411/python/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/Thomas11411/python/tree/master/1217-relative-sort-array) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Thomas11411/python/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1287-distance-between-bus-stops](https://github.com/Thomas11411/python/tree/master/1287-distance-between-bus-stops) |
 | [1306-minimum-absolute-difference](https://github.com/Thomas11411/python/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Thomas11411/python/tree/master/1319-unique-number-of-occurrences) |
