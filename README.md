@@ -8,6 +8,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Thomas11411/python/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3707-find-the-most-common-response](https://github.com/Thomas11411/python/tree/master/3707-find-the-most-common-response) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Thomas11411/python/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Thomas11411/python/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -56,6 +57,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Thomas11411/python/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3707-find-the-most-common-response](https://github.com/Thomas11411/python/tree/master/3707-find-the-most-common-response) |
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3885-count-special-triplets](https://github.com/Thomas11411/python/tree/master/3885-count-special-triplets) |
@@ -65,6 +67,7 @@ The Python code I wrote to solve problems on LeetCode
 ## String
 |  |
 | ------- |
+| [3707-find-the-most-common-response](https://github.com/Thomas11411/python/tree/master/3707-find-the-most-common-response) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Thomas11411/python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3893-generate-tag-for-video-caption](https://github.com/Thomas11411/python/tree/master/3893-generate-tag-for-video-caption) |
@@ -107,6 +110,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Counting
 |  |
 | ------- |
+| [3707-find-the-most-common-response](https://github.com/Thomas11411/python/tree/master/3707-find-the-most-common-response) |
 | [3885-count-special-triplets](https://github.com/Thomas11411/python/tree/master/3885-count-special-triplets) |
 ## Brainteaser
 |  |
