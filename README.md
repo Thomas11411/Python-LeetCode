@@ -165,6 +165,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Thomas11411/python/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Thomas11411/python/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Thomas11411/python/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [1876-map-of-highest-peak](https://github.com/Thomas11411/python/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Thomas11411/python/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -396,6 +397,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0803-cheapest-flights-within-k-stops](https://github.com/Thomas11411/python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/Thomas11411/python/tree/master/1036-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/Thomas11411/python/tree/master/1428-jump-game-iii) |
+| [1876-map-of-highest-peak](https://github.com/Thomas11411/python/tree/master/1876-map-of-highest-peak) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Thomas11411/python/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Union Find
@@ -423,6 +425,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Thomas11411/python/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Thomas11411/python/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1791-richest-customer-wealth](https://github.com/Thomas11411/python/tree/master/1791-richest-customer-wealth) |
+| [1876-map-of-highest-peak](https://github.com/Thomas11411/python/tree/master/1876-map-of-highest-peak) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Thomas11411/python/tree/master/3330-modify-the-matrix) |
