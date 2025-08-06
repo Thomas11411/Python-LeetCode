@@ -348,6 +348,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Thomas11411/python/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Thomas11411/python/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Thomas11411/python/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1965-sum-of-digits-in-base-k](https://github.com/Thomas11411/python/tree/master/1965-sum-of-digits-in-base-k) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
