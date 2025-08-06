@@ -8,6 +8,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Thomas11411/python/tree/master/3334-apple-redistribution-into-boxes) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Thomas11411/python/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Thomas11411/python/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Thomas11411/python/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Thomas11411/python/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -224,6 +225,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Simulation
 |  |
 | ------- |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Thomas11411/python/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Thomas11411/python/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Thomas11411/python/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Thomas11411/python/tree/master/3511-find-the-winning-player-in-coin-game) |
