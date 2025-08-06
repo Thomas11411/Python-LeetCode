@@ -47,6 +47,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Thomas11411/python/tree/master/0009-palindrome-number) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Thomas11411/python/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/Thomas11411/python/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Thomas11411/python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Thomas11411/python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -118,6 +119,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Thomas11411/python/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3541-report-spam-message](https://github.com/Thomas11411/python/tree/master/3541-report-spam-message) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Thomas11411/python/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Thomas11411/python/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3567-convert-date-to-binary](https://github.com/Thomas11411/python/tree/master/3567-convert-date-to-binary) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Thomas11411/python/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
