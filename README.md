@@ -346,6 +346,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0345-reverse-vowels-of-a-string](https://github.com/Thomas11411/python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Thomas11411/python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Thomas11411/python/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Thomas11411/python/tree/master/0392-is-subsequence) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -544,6 +545,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0345-reverse-vowels-of-a-string](https://github.com/Thomas11411/python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Thomas11411/python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thomas11411/python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Thomas11411/python/tree/master/0392-is-subsequence) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -724,6 +726,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0139-word-break](https://github.com/Thomas11411/python/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/Thomas11411/python/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Thomas11411/python/tree/master/0279-perfect-squares) |
+| [0392-is-subsequence](https://github.com/Thomas11411/python/tree/master/0392-is-subsequence) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
