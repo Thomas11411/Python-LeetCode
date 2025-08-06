@@ -200,6 +200,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Thomas11411/python/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Thomas11411/python/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Thomas11411/python/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2058-concatenation-of-array](https://github.com/Thomas11411/python/tree/master/2058-concatenation-of-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -789,6 +790,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Thomas11411/python/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Thomas11411/python/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Thomas11411/python/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2058-concatenation-of-array](https://github.com/Thomas11411/python/tree/master/2058-concatenation-of-array) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Thomas11411/python/tree/master/2886-faulty-keyboard) |
