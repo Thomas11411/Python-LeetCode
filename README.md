@@ -160,6 +160,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1803-average-waiting-time](https://github.com/Thomas11411/python/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/Thomas11411/python/tree/master/1813-maximum-erasure-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/Thomas11411/python/tree/master/1829-maximum-units-on-a-truck) |
+| [1833-find-the-highest-altitude](https://github.com/Thomas11411/python/tree/master/1833-find-the-highest-altitude) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Thomas11411/python/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -1051,6 +1052,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Thomas11411/python/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Thomas11411/python/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Thomas11411/python/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1833-find-the-highest-altitude](https://github.com/Thomas11411/python/tree/master/1833-find-the-highest-altitude) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thomas11411/python/tree/master/3034-points-that-intersect-with-cars) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
