@@ -127,6 +127,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Thomas11411/python/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Thomas11411/python/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Thomas11411/python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Thomas11411/python/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -680,6 +681,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Thomas11411/python/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Thomas11411/python/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Thomas11411/python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Thomas11411/python/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
