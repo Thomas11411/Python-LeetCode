@@ -87,6 +87,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Thomas11411/python/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1222-remove-covered-intervals](https://github.com/Thomas11411/python/tree/master/1222-remove-covered-intervals) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Thomas11411/python/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Thomas11411/python/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1287-distance-between-bus-stops](https://github.com/Thomas11411/python/tree/master/1287-distance-between-bus-stops) |
 | [1306-minimum-absolute-difference](https://github.com/Thomas11411/python/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Thomas11411/python/tree/master/1319-unique-number-of-occurrences) |
