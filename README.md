@@ -169,6 +169,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1876-map-of-highest-peak](https://github.com/Thomas11411/python/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Thomas11411/python/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Thomas11411/python/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/Thomas11411/python/tree/master/1917-maximum-average-pass-ratio) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -874,6 +875,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Thomas11411/python/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Thomas11411/python/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/Thomas11411/python/tree/master/1880-largest-merge-of-two-strings) |
+| [1917-maximum-average-pass-ratio](https://github.com/Thomas11411/python/tree/master/1917-maximum-average-pass-ratio) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1009,6 +1011,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1539-diagonal-traverse-ii](https://github.com/Thomas11411/python/tree/master/1539-diagonal-traverse-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Thomas11411/python/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1788-stone-game-vi](https://github.com/Thomas11411/python/tree/master/1788-stone-game-vi) |
+| [1917-maximum-average-pass-ratio](https://github.com/Thomas11411/python/tree/master/1917-maximum-average-pass-ratio) |
 | [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/Thomas11411/python/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Thomas11411/python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1275,7 +1278,6 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Thomas11411/python/tree/master/0803-cheapest-flights-within-k-stops) |
-| [1916-find-center-of-star-graph](https://github.com/Thomas11411/python/tree/master/1916-find-center-of-star-graph) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Thomas11411/python/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Monotonic Stack
 |  |
