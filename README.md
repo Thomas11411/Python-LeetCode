@@ -136,6 +136,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1677-matrix-diagonal-sum](https://github.com/Thomas11411/python/tree/master/1677-matrix-diagonal-sum) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Thomas11411/python/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Thomas11411/python/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Thomas11411/python/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -381,6 +382,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Thomas11411/python/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Thomas11411/python/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Thomas11411/python/tree/master/1677-matrix-diagonal-sum) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Thomas11411/python/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Thomas11411/python/tree/master/3330-modify-the-matrix) |
