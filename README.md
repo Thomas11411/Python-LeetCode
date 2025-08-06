@@ -616,6 +616,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1812-reformat-phone-number](https://github.com/Thomas11411/python/tree/master/1812-reformat-phone-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Thomas11411/python/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Thomas11411/python/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/Thomas11411/python/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -850,6 +851,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1792-find-the-most-competitive-subsequence](https://github.com/Thomas11411/python/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Thomas11411/python/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/Thomas11411/python/tree/master/1829-maximum-units-on-a-truck) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/Thomas11411/python/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
