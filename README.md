@@ -12,6 +12,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Thomas11411/python/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/Thomas11411/python/tree/master/3463-alternating-groups-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Thomas11411/python/tree/master/3469-maximum-height-of-a-triangle) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Thomas11411/python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Thomas11411/python/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Thomas11411/python/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -197,6 +198,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Sorting
 |  |
 | ------- |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Thomas11411/python/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Thomas11411/python/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Thomas11411/python/tree/master/3510-maximize-the-total-height-of-unique-towers) |
@@ -229,6 +231,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Two Pointers
 |  |
 | ------- |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Thomas11411/python/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Counting
 |  |
