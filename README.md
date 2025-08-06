@@ -146,6 +146,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0009-palindrome-number](https://github.com/Thomas11411/python/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Thomas11411/python/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Thomas11411/python/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Thomas11411/python/tree/master/0070-climbing-stairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -616,6 +617,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0053-maximum-subarray](https://github.com/Thomas11411/python/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Thomas11411/python/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Thomas11411/python/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Thomas11411/python/tree/master/0070-climbing-stairs) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
@@ -664,4 +666,8 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Thomas11411/python/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
