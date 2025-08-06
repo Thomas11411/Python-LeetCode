@@ -12,6 +12,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Thomas11411/python/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Thomas11411/python/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Thomas11411/python/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Thomas11411/python/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/Thomas11411/python/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3194-find-words-containing-character](https://github.com/Thomas11411/python/tree/master/3194-find-words-containing-character) |
