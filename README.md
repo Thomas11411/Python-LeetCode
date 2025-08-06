@@ -188,6 +188,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1961-maximum-ice-cream-bars](https://github.com/Thomas11411/python/tree/master/1961-maximum-ice-cream-bars) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Thomas11411/python/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1983-maximum-population-year](https://github.com/Thomas11411/python/tree/master/1983-maximum-population-year) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Thomas11411/python/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -892,6 +893,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1646-kth-missing-positive-number](https://github.com/Thomas11411/python/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Thomas11411/python/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Thomas11411/python/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Thomas11411/python/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3427-special-array-ii](https://github.com/Thomas11411/python/tree/master/3427-special-array-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
@@ -982,6 +984,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1880-largest-merge-of-two-strings](https://github.com/Thomas11411/python/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/Thomas11411/python/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/Thomas11411/python/tree/master/1923-sentence-similarity-iii) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Thomas11411/python/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
