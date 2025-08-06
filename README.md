@@ -7,6 +7,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
+| [3194-find-words-containing-character](https://github.com/Thomas11411/python/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Thomas11411/python/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3221-find-the-peaks](https://github.com/Thomas11411/python/tree/master/3221-find-the-peaks) |
@@ -212,6 +213,7 @@ The Python code I wrote to solve problems on LeetCode
 ## String
 |  |
 | ------- |
+| [3194-find-words-containing-character](https://github.com/Thomas11411/python/tree/master/3194-find-words-containing-character) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Thomas11411/python/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thomas11411/python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
