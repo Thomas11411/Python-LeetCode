@@ -111,6 +111,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Thomas11411/python/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3541-report-spam-message](https://github.com/Thomas11411/python/tree/master/3541-report-spam-message) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Thomas11411/python/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Thomas11411/python/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Thomas11411/python/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/Thomas11411/python/tree/master/3636-check-balanced-string) |
@@ -136,6 +137,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Simulation
 |  |
 | ------- |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Thomas11411/python/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Thomas11411/python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/Thomas11411/python/tree/master/3651-transformed-array) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Thomas11411/python/tree/master/3708-zigzag-grid-traversal-with-skip) |
