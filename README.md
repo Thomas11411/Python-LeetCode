@@ -7,6 +7,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thomas11411/python/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Thomas11411/python/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Thomas11411/python/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/Thomas11411/python/tree/master/3308-apply-operations-to-make-string-empty) |
@@ -155,6 +156,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thomas11411/python/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Thomas11411/python/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thomas11411/python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/Thomas11411/python/tree/master/3308-apply-operations-to-make-string-empty) |
@@ -272,6 +274,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Sorting
 |  |
 | ------- |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thomas11411/python/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thomas11411/python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/Thomas11411/python/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3321-type-of-triangle](https://github.com/Thomas11411/python/tree/master/3321-type-of-triangle) |
