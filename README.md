@@ -210,6 +210,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Thomas11411/python/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Thomas11411/python/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Thomas11411/python/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Thomas11411/python/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -909,6 +910,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Thomas11411/python/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2055-describe-the-painting](https://github.com/Thomas11411/python/tree/master/2055-describe-the-painting) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Thomas11411/python/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Thomas11411/python/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -1279,6 +1281,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1813-maximum-erasure-value](https://github.com/Thomas11411/python/tree/master/1813-maximum-erasure-value) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Thomas11411/python/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Thomas11411/python/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Thomas11411/python/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thomas11411/python/tree/master/2856-count-complete-subarrays-in-an-array) |
