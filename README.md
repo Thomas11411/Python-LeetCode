@@ -41,6 +41,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0009-palindrome-number](https://github.com/Thomas11411/python/tree/master/0009-palindrome-number) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Thomas11411/python/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Thomas11411/python/tree/master/3817-maximum-containers-on-a-ship) |
+| [3830-find-closest-person](https://github.com/Thomas11411/python/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/Thomas11411/python/tree/master/3859-maximum-product-of-two-digits) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Thomas11411/python/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
