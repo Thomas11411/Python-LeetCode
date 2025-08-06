@@ -149,6 +149,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1760-check-array-formation-through-concatenation](https://github.com/Thomas11411/python/tree/master/1760-check-array-formation-through-concatenation) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Thomas11411/python/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Thomas11411/python/tree/master/1783-ways-to-make-a-fair-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Thomas11411/python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Thomas11411/python/tree/master/1791-richest-customer-wealth) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Thomas11411/python/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Thomas11411/python/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -468,6 +469,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Thomas11411/python/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1752-arithmetic-subarrays](https://github.com/Thomas11411/python/tree/master/1752-arithmetic-subarrays) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Thomas11411/python/tree/master/1760-check-array-formation-through-concatenation) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Thomas11411/python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Thomas11411/python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -594,6 +596,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1764-maximum-repeating-substring](https://github.com/Thomas11411/python/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Thomas11411/python/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Thomas11411/python/tree/master/1782-smallest-string-with-a-given-numeric-value) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Thomas11411/python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -893,6 +896,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Thomas11411/python/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Thomas11411/python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/Thomas11411/python/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Thomas11411/python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -1101,6 +1105,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1435-xor-queries-of-a-subarray](https://github.com/Thomas11411/python/tree/master/1435-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Thomas11411/python/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Thomas11411/python/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Thomas11411/python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Thomas11411/python/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Thomas11411/python/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Thomas11411/python/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
