@@ -280,6 +280,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thomas11411/python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Thomas11411/python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Thomas11411/python/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Thomas11411/python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -348,6 +349,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0383-ransom-note](https://github.com/Thomas11411/python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Thomas11411/python/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Thomas11411/python/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Thomas11411/python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -660,6 +662,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Thomas11411/python/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Thomas11411/python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thomas11411/python/tree/master/2856-count-complete-subarrays-in-an-array) |
