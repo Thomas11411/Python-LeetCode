@@ -197,6 +197,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Thomas11411/python/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Thomas11411/python/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Thomas11411/python/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Thomas11411/python/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Thomas11411/python/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
