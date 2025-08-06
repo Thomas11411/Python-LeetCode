@@ -171,6 +171,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0202-happy-number](https://github.com/Thomas11411/python/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Thomas11411/python/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Thomas11411/python/tree/master/0279-perfect-squares) |
+| [0367-valid-perfect-square](https://github.com/Thomas11411/python/tree/master/0367-valid-perfect-square) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -487,6 +488,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0287-find-the-duplicate-number](https://github.com/Thomas11411/python/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Thomas11411/python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thomas11411/python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Thomas11411/python/tree/master/0367-valid-perfect-square) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3427-special-array-ii](https://github.com/Thomas11411/python/tree/master/3427-special-array-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
