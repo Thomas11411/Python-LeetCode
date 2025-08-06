@@ -143,6 +143,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Thomas11411/python/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Thomas11411/python/tree/master/0062-unique-paths) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -496,6 +497,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Thomas11411/python/tree/master/0062-unique-paths) |
 | [3388-right-triangles](https://github.com/Thomas11411/python/tree/master/3388-right-triangles) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thomas11411/python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Thomas11411/python/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
@@ -607,6 +609,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Thomas11411/python/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Thomas11411/python/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Thomas11411/python/tree/master/0062-unique-paths) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
