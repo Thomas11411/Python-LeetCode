@@ -162,7 +162,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1829-maximum-units-on-a-truck](https://github.com/Thomas11411/python/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/Thomas11411/python/tree/master/1833-find-the-highest-altitude) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Thomas11411/python/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
-| [1866-restore-the-array-from-adjacent-pairs](https://github.com/Thomas11411/python/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Thomas11411/python/tree/master/1848-sum-of-unique-elements) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -380,7 +380,6 @@ The Python code I wrote to solve problems on LeetCode
 | [0803-cheapest-flights-within-k-stops](https://github.com/Thomas11411/python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Thomas11411/python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/Thomas11411/python/tree/master/1428-jump-game-iii) |
-| [1866-restore-the-array-from-adjacent-pairs](https://github.com/Thomas11411/python/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -490,7 +489,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1798-max-number-of-k-sum-pairs](https://github.com/Thomas11411/python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/Thomas11411/python/tree/master/1813-maximum-erasure-value) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Thomas11411/python/tree/master/1844-maximum-number-of-balls-in-a-box) |
-| [1866-restore-the-array-from-adjacent-pairs](https://github.com/Thomas11411/python/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Thomas11411/python/tree/master/1848-sum-of-unique-elements) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -934,6 +933,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thomas11411/python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Thomas11411/python/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Thomas11411/python/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [1848-sum-of-unique-elements](https://github.com/Thomas11411/python/tree/master/1848-sum-of-unique-elements) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
