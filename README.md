@@ -41,6 +41,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
+| [3931-process-string-with-special-operations-i](https://github.com/Thomas11411/python/tree/master/3931-process-string-with-special-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -49,4 +50,5 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
+| [3931-process-string-with-special-operations-i](https://github.com/Thomas11411/python/tree/master/3931-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
