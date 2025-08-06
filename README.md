@@ -144,6 +144,7 @@ The Python code I wrote to solve problems on LeetCode
 ## String
 |  |
 | ------- |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Thomas11411/python/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Thomas11411/python/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thomas11411/python/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Thomas11411/python/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -182,6 +183,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Simulation
 |  |
 | ------- |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Thomas11411/python/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Thomas11411/python/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Thomas11411/python/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3533-snake-in-matrix](https://github.com/Thomas11411/python/tree/master/3533-snake-in-matrix) |
