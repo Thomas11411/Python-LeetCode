@@ -8,6 +8,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thomas11411/python/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Thomas11411/python/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Thomas11411/python/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Thomas11411/python/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -276,6 +277,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thomas11411/python/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Thomas11411/python/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thomas11411/python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/Thomas11411/python/tree/master/3308-apply-operations-to-make-string-empty) |
@@ -303,6 +305,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Greedy
 |  |
 | ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Thomas11411/python/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Thomas11411/python/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thomas11411/python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
