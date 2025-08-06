@@ -78,6 +78,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Thomas11411/python/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Thomas11411/python/tree/master/1063-best-sightseeing-pair) |
 | [1105-uncrossed-lines](https://github.com/Thomas11411/python/tree/master/1105-uncrossed-lines) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Thomas11411/python/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Thomas11411/python/tree/master/1121-partition-array-for-maximum-sum) |
 | [1127-last-stone-weight](https://github.com/Thomas11411/python/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Thomas11411/python/tree/master/1137-height-checker) |
@@ -346,6 +347,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0740-delete-and-earn](https://github.com/Thomas11411/python/tree/master/0740-delete-and-earn) |
 | [0782-jewels-and-stones](https://github.com/Thomas11411/python/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/Thomas11411/python/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Thomas11411/python/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Thomas11411/python/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/Thomas11411/python/tree/master/1217-relative-sort-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -432,6 +434,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Thomas11411/python/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/Thomas11411/python/tree/master/0961-long-pressed-name) |
 | [1044-find-common-characters](https://github.com/Thomas11411/python/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Thomas11411/python/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Thomas11411/python/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Thomas11411/python/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Thomas11411/python/tree/master/1160-letter-tile-possibilities) |
@@ -680,6 +683,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0387-first-unique-character-in-a-string](https://github.com/Thomas11411/python/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Thomas11411/python/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Thomas11411/python/tree/master/0692-top-k-frequent-words) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Thomas11411/python/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Thomas11411/python/tree/master/1160-letter-tile-possibilities) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
