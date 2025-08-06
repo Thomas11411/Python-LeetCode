@@ -145,6 +145,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1741-sort-array-by-increasing-frequency](https://github.com/Thomas11411/python/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1751-slowest-key](https://github.com/Thomas11411/python/tree/master/1751-slowest-key) |
 | [1752-arithmetic-subarrays](https://github.com/Thomas11411/python/tree/master/1752-arithmetic-subarrays) |
+| [1760-check-array-formation-through-concatenation](https://github.com/Thomas11411/python/tree/master/1760-check-array-formation-through-concatenation) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -458,6 +459,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1741-sort-array-by-increasing-frequency](https://github.com/Thomas11411/python/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Thomas11411/python/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1752-arithmetic-subarrays](https://github.com/Thomas11411/python/tree/master/1752-arithmetic-subarrays) |
+| [1760-check-array-formation-through-concatenation](https://github.com/Thomas11411/python/tree/master/1760-check-array-formation-through-concatenation) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
