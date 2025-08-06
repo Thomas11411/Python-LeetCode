@@ -75,6 +75,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Thomas11411/python/tree/master/0009-palindrome-number) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Thomas11411/python/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3371-harshad-number](https://github.com/Thomas11411/python/tree/master/3371-harshad-number) |
 | [3373-maximum-prime-difference](https://github.com/Thomas11411/python/tree/master/3373-maximum-prime-difference) |
 | [3388-right-triangles](https://github.com/Thomas11411/python/tree/master/3388-right-triangles) |
@@ -171,6 +172,7 @@ The Python code I wrote to solve problems on LeetCode
 ## String
 |  |
 | ------- |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Thomas11411/python/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Thomas11411/python/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Thomas11411/python/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Thomas11411/python/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
@@ -280,6 +282,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Counting
 |  |
 | ------- |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Thomas11411/python/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3388-right-triangles](https://github.com/Thomas11411/python/tree/master/3388-right-triangles) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Thomas11411/python/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Thomas11411/python/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
