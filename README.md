@@ -86,6 +86,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1217-relative-sort-array](https://github.com/Thomas11411/python/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Thomas11411/python/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1222-remove-covered-intervals](https://github.com/Thomas11411/python/tree/master/1222-remove-covered-intervals) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/Thomas11411/python/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1287-distance-between-bus-stops](https://github.com/Thomas11411/python/tree/master/1287-distance-between-bus-stops) |
 | [1306-minimum-absolute-difference](https://github.com/Thomas11411/python/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Thomas11411/python/tree/master/1319-unique-number-of-occurrences) |
@@ -322,6 +323,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0777-toeplitz-matrix](https://github.com/Thomas11411/python/tree/master/0777-toeplitz-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Thomas11411/python/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Thomas11411/python/tree/master/1036-rotting-oranges) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/Thomas11411/python/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Thomas11411/python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
@@ -934,6 +936,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1063-best-sightseeing-pair](https://github.com/Thomas11411/python/tree/master/1063-best-sightseeing-pair) |
 | [1105-uncrossed-lines](https://github.com/Thomas11411/python/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Thomas11411/python/tree/master/1121-partition-array-for-maximum-sum) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/Thomas11411/python/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/Thomas11411/python/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Thomas11411/python/tree/master/1250-longest-common-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Thomas11411/python/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
