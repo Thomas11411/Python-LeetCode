@@ -7,6 +7,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
+| [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Thomas11411/python/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thomas11411/python/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -200,6 +201,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thomas11411/python/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/Thomas11411/python/tree/master/2892-check-if-array-is-good) |
@@ -347,6 +349,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Sorting
 |  |
 | ------- |
+| [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2887-sort-vowels-in-a-string](https://github.com/Thomas11411/python/tree/master/2887-sort-vowels-in-a-string) |
 | [2892-check-if-array-is-good](https://github.com/Thomas11411/python/tree/master/2892-check-if-array-is-good) |
@@ -498,6 +501,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Sliding Window
 |  |
 | ------- |
+| [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thomas11411/python/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
