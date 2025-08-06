@@ -219,6 +219,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1014-k-closest-points-to-origin](https://github.com/Thomas11411/python/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Thomas11411/python/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/Thomas11411/python/tree/master/1236-n-th-tribonacci-number) |
+| [1260-day-of-the-year](https://github.com/Thomas11411/python/tree/master/1260-day-of-the-year) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -435,6 +436,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Thomas11411/python/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Thomas11411/python/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/Thomas11411/python/tree/master/1250-longest-common-subsequence) |
+| [1260-day-of-the-year](https://github.com/Thomas11411/python/tree/master/1260-day-of-the-year) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
