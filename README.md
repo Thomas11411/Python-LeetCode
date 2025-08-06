@@ -393,6 +393,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Thomas11411/python/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Thomas11411/python/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/Thomas11411/python/tree/master/0782-jewels-and-stones) |
+| [0800-letter-case-permutation](https://github.com/Thomas11411/python/tree/master/0800-letter-case-permutation) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -779,6 +780,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0287-find-the-duplicate-number](https://github.com/Thomas11411/python/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Thomas11411/python/tree/master/0318-maximum-product-of-word-lengths) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Thomas11411/python/tree/master/0693-binary-number-with-alternating-bits) |
+| [0800-letter-case-permutation](https://github.com/Thomas11411/python/tree/master/0800-letter-case-permutation) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Thomas11411/python/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Thomas11411/python/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Thomas11411/python/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -835,6 +837,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0077-combinations](https://github.com/Thomas11411/python/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Thomas11411/python/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Thomas11411/python/tree/master/0090-subsets-ii) |
+| [0800-letter-case-permutation](https://github.com/Thomas11411/python/tree/master/0800-letter-case-permutation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thomas11411/python/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Rolling Hash
