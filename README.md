@@ -7,6 +7,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Thomas11411/python/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Thomas11411/python/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Thomas11411/python/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Thomas11411/python/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -65,6 +66,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Thomas11411/python/tree/master/0009-palindrome-number) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Thomas11411/python/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Thomas11411/python/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Thomas11411/python/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Thomas11411/python/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -119,6 +121,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Thomas11411/python/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Thomas11411/python/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Thomas11411/python/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Thomas11411/python/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -246,6 +249,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Counting
 |  |
 | ------- |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Thomas11411/python/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Thomas11411/python/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Thomas11411/python/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Thomas11411/python/tree/master/3455-minimum-length-of-string-after-operations) |
