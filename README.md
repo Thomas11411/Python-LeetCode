@@ -691,6 +691,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Thomas11411/python/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Thomas11411/python/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Thomas11411/python/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2010-check-if-word-equals-summation-of-two-words](https://github.com/Thomas11411/python/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
