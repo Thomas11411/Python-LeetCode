@@ -9,6 +9,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0001-two-sum](https://github.com/Thomas11411/python/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Thomas11411/python/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Thomas11411/python/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Thomas11411/python/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -371,6 +372,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Thomas11411/python/tree/master/0015-3sum) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -439,6 +441,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Thomas11411/python/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Thomas11411/python/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Thomas11411/python/tree/master/0015-3sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
