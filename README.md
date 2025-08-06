@@ -55,6 +55,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0554-brick-wall](https://github.com/Thomas11411/python/tree/master/0554-brick-wall) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Thomas11411/python/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thomas11411/python/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Thomas11411/python/tree/master/0643-maximum-average-subarray-i) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -702,6 +703,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0239-sliding-window-maximum](https://github.com/Thomas11411/python/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Thomas11411/python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Thomas11411/python/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Thomas11411/python/tree/master/0643-maximum-average-subarray-i) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thomas11411/python/tree/master/2856-count-complete-subarrays-in-an-array) |
