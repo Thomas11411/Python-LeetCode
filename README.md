@@ -52,6 +52,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0506-relative-ranks](https://github.com/Thomas11411/python/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Thomas11411/python/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Thomas11411/python/tree/master/0540-single-element-in-a-sorted-array) |
+| [0554-brick-wall](https://github.com/Thomas11411/python/tree/master/0554-brick-wall) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -296,6 +297,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thomas11411/python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thomas11411/python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Thomas11411/python/tree/master/0451-sort-characters-by-frequency) |
+| [0554-brick-wall](https://github.com/Thomas11411/python/tree/master/0554-brick-wall) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
