@@ -99,6 +99,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Thomas11411/python/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Thomas11411/python/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/Thomas11411/python/tree/master/3519-find-the-number-of-winning-players) |
 | [3541-report-spam-message](https://github.com/Thomas11411/python/tree/master/3541-report-spam-message) |
@@ -123,6 +124,7 @@ The Python code I wrote to solve problems on LeetCode
 ## String
 |  |
 | ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Thomas11411/python/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Thomas11411/python/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3533-snake-in-matrix](https://github.com/Thomas11411/python/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/Thomas11411/python/tree/master/3540-hash-divided-string) |
@@ -204,6 +206,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Counting
 |  |
 | ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Thomas11411/python/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3519-find-the-number-of-winning-players](https://github.com/Thomas11411/python/tree/master/3519-find-the-number-of-winning-players) |
 | [3707-find-the-most-common-response](https://github.com/Thomas11411/python/tree/master/3707-find-the-most-common-response) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Thomas11411/python/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
