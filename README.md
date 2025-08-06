@@ -603,6 +603,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Thomas11411/python/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thomas11411/python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Thomas11411/python/tree/master/1797-goal-parser-interpretation) |
+| [1812-reformat-phone-number](https://github.com/Thomas11411/python/tree/master/1812-reformat-phone-number) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
