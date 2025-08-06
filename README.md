@@ -364,6 +364,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0392-is-subsequence](https://github.com/Thomas11411/python/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Thomas11411/python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Thomas11411/python/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/Thomas11411/python/tree/master/0516-longest-palindromic-subsequence) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -755,6 +756,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0279-perfect-squares](https://github.com/Thomas11411/python/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Thomas11411/python/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Thomas11411/python/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/Thomas11411/python/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/Thomas11411/python/tree/master/1013-fibonacci-number) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
