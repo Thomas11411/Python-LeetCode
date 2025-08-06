@@ -28,6 +28,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thomas11411/python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Thomas11411/python/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Thomas11411/python/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Thomas11411/python/tree/master/0137-single-number-ii) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -619,6 +620,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0078-subsets](https://github.com/Thomas11411/python/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Thomas11411/python/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Thomas11411/python/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Thomas11411/python/tree/master/0137-single-number-ii) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Thomas11411/python/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Thomas11411/python/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Thomas11411/python/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
