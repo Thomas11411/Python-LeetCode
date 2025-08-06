@@ -7,6 +7,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
+| [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Thomas11411/python/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -128,6 +129,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0009-palindrome-number](https://github.com/Thomas11411/python/tree/master/0009-palindrome-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
+| [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Thomas11411/python/tree/master/2955-account-balance-after-rounded-purchase) |
@@ -170,6 +172,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Number Theory
 |  |
 | ------- |
+| [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
 | [3373-maximum-prime-difference](https://github.com/Thomas11411/python/tree/master/3373-maximum-prime-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thomas11411/python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -205,6 +208,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thomas11411/python/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -424,6 +428,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Counting
 |  |
 | ------- |
+| [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Thomas11411/python/tree/master/3242-count-elements-with-maximum-frequency) |
