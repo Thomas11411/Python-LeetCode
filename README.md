@@ -14,6 +14,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Thomas11411/python/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Thomas11411/python/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Thomas11411/python/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3885-count-special-triplets](https://github.com/Thomas11411/python/tree/master/3885-count-special-triplets) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Thomas11411/python/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -24,6 +25,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0009-palindrome-number](https://github.com/Thomas11411/python/tree/master/0009-palindrome-number) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Thomas11411/python/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Thomas11411/python/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/Thomas11411/python/tree/master/3879-find-minimum-log-transportation-cost) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Thomas11411/python/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Thomas11411/python/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
