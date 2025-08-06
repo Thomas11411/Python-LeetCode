@@ -9,6 +9,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
 | [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Thomas11411/python/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Thomas11411/python/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Thomas11411/python/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -228,6 +229,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Thomas11411/python/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Thomas11411/python/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Thomas11411/python/tree/master/3194-find-words-containing-character) |
@@ -345,6 +347,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Thomas11411/python/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Thomas11411/python/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -495,6 +498,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Thomas11411/python/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Thomas11411/python/tree/master/3494-minimum-cost-for-cutting-cake-i) |
