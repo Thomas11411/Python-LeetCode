@@ -65,6 +65,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0777-toeplitz-matrix](https://github.com/Thomas11411/python/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Thomas11411/python/tree/master/0792-binary-search) |
 | [0831-largest-sum-of-averages](https://github.com/Thomas11411/python/tree/master/0831-largest-sum-of-averages) |
+| [0841-shortest-distance-to-a-character](https://github.com/Thomas11411/python/tree/master/0841-shortest-distance-to-a-character) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -398,6 +399,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0782-jewels-and-stones](https://github.com/Thomas11411/python/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/Thomas11411/python/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/Thomas11411/python/tree/master/0812-rotate-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/Thomas11411/python/tree/master/0841-shortest-distance-to-a-character) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -611,6 +613,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0392-is-subsequence](https://github.com/Thomas11411/python/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Thomas11411/python/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Thomas11411/python/tree/master/0567-permutation-in-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/Thomas11411/python/tree/master/0841-shortest-distance-to-a-character) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
