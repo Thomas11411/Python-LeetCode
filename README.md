@@ -9,6 +9,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Thomas11411/python/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Thomas11411/python/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Thomas11411/python/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Thomas11411/python/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Thomas11411/python/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/Thomas11411/python/tree/master/3463-alternating-groups-i) |
@@ -120,6 +121,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Thomas11411/python/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Thomas11411/python/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Thomas11411/python/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Thomas11411/python/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Thomas11411/python/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Thomas11411/python/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -335,6 +337,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Bit Manipulation
 |  |
 | ------- |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Thomas11411/python/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thomas11411/python/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Thomas11411/python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Thomas11411/python/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
