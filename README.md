@@ -169,6 +169,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1876-map-of-highest-peak](https://github.com/Thomas11411/python/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Thomas11411/python/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Thomas11411/python/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Thomas11411/python/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Thomas11411/python/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Thomas11411/python/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thomas11411/python/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -645,6 +646,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Thomas11411/python/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Thomas11411/python/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Thomas11411/python/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Thomas11411/python/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Thomas11411/python/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Thomas11411/python/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thomas11411/python/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -1098,6 +1100,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1783-ways-to-make-a-fair-array](https://github.com/Thomas11411/python/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Thomas11411/python/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/Thomas11411/python/tree/master/1833-find-the-highest-altitude) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Thomas11411/python/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thomas11411/python/tree/master/3034-points-that-intersect-with-cars) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
