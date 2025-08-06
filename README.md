@@ -57,6 +57,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0628-maximum-product-of-three-numbers](https://github.com/Thomas11411/python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Thomas11411/python/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Thomas11411/python/tree/master/0692-top-k-frequent-words) |
+| [0792-binary-search](https://github.com/Thomas11411/python/tree/master/0792-binary-search) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -542,6 +543,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0367-valid-perfect-square](https://github.com/Thomas11411/python/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Thomas11411/python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Thomas11411/python/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/Thomas11411/python/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3427-special-array-ii](https://github.com/Thomas11411/python/tree/master/3427-special-array-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
