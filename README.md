@@ -193,6 +193,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1985-maximum-subarray-min-product](https://github.com/Thomas11411/python/tree/master/1985-maximum-subarray-min-product) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Thomas11411/python/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Thomas11411/python/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Thomas11411/python/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -460,6 +461,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1791-richest-customer-wealth](https://github.com/Thomas11411/python/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/Thomas11411/python/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/Thomas11411/python/tree/master/1972-rotating-the-box) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Thomas11411/python/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Thomas11411/python/tree/master/3330-modify-the-matrix) |
