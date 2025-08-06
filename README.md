@@ -7,6 +7,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Thomas11411/python/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3234-double-modular-exponentiation](https://github.com/Thomas11411/python/tree/master/3234-double-modular-exponentiation) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thomas11411/python/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Thomas11411/python/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -160,6 +161,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Thomas11411/python/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thomas11411/python/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Thomas11411/python/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thomas11411/python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -406,6 +408,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Sliding Window
 |  |
 | ------- |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Thomas11411/python/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Thomas11411/python/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3463-alternating-groups-i](https://github.com/Thomas11411/python/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Thomas11411/python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
