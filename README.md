@@ -206,6 +206,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2058-concatenation-of-array](https://github.com/Thomas11411/python/tree/master/2058-concatenation-of-array) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Thomas11411/python/tree/master/2066-add-minimum-number-of-rungs) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Thomas11411/python/tree/master/2078-maximum-compatibility-score-sum) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Thomas11411/python/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Thomas11411/python/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Thomas11411/python/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -900,6 +901,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Thomas11411/python/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Thomas11411/python/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2055-describe-the-painting](https://github.com/Thomas11411/python/tree/master/2055-describe-the-painting) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Thomas11411/python/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -995,6 +997,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2039-sum-game](https://github.com/Thomas11411/python/tree/master/2039-sum-game) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Thomas11411/python/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Thomas11411/python/tree/master/2066-add-minimum-number-of-rungs) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Thomas11411/python/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Thomas11411/python/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Thomas11411/python/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
