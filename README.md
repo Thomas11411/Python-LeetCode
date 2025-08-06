@@ -218,6 +218,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1013-fibonacci-number](https://github.com/Thomas11411/python/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Thomas11411/python/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Thomas11411/python/tree/master/1018-largest-perimeter-triangle) |
+| [1236-n-th-tribonacci-number](https://github.com/Thomas11411/python/tree/master/1236-n-th-tribonacci-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -885,6 +886,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1063-best-sightseeing-pair](https://github.com/Thomas11411/python/tree/master/1063-best-sightseeing-pair) |
 | [1105-uncrossed-lines](https://github.com/Thomas11411/python/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Thomas11411/python/tree/master/1121-partition-array-for-maximum-sum) |
+| [1236-n-th-tribonacci-number](https://github.com/Thomas11411/python/tree/master/1236-n-th-tribonacci-number) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
@@ -953,6 +955,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0070-climbing-stairs](https://github.com/Thomas11411/python/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Thomas11411/python/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Thomas11411/python/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Thomas11411/python/tree/master/1236-n-th-tribonacci-number) |
 ## Quickselect
 |  |
 | ------- |
