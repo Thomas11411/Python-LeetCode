@@ -142,6 +142,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Thomas11411/python/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Thomas11411/python/tree/master/1720-crawler-log-folder) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Thomas11411/python/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1751-slowest-key](https://github.com/Thomas11411/python/tree/master/1751-slowest-key) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -571,6 +572,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Thomas11411/python/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Thomas11411/python/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/Thomas11411/python/tree/master/1720-crawler-log-folder) |
+| [1751-slowest-key](https://github.com/Thomas11411/python/tree/master/1751-slowest-key) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
