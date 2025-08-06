@@ -259,6 +259,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0169-majority-element](https://github.com/Thomas11411/python/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Thomas11411/python/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Thomas11411/python/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Thomas11411/python/tree/master/0242-valid-anagram) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -320,6 +321,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0065-valid-number](https://github.com/Thomas11411/python/tree/master/0065-valid-number) |
 | [0127-word-ladder](https://github.com/Thomas11411/python/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Thomas11411/python/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/Thomas11411/python/tree/master/0242-valid-anagram) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -428,6 +430,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0169-majority-element](https://github.com/Thomas11411/python/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thomas11411/python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Thomas11411/python/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Thomas11411/python/tree/master/0242-valid-anagram) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
