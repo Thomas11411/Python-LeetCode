@@ -8,6 +8,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
 | [3373-maximum-prime-difference](https://github.com/Thomas11411/python/tree/master/3373-maximum-prime-difference) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/Thomas11411/python/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Thomas11411/python/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Thomas11411/python/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Thomas11411/python/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -116,6 +117,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Matrix
 |  |
 | ------- |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/Thomas11411/python/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Thomas11411/python/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Thomas11411/python/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Thomas11411/python/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
