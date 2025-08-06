@@ -644,6 +644,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1880-largest-merge-of-two-strings](https://github.com/Thomas11411/python/tree/master/1880-largest-merge-of-two-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Thomas11411/python/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Thomas11411/python/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1894-merge-strings-alternately](https://github.com/Thomas11411/python/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Thomas11411/python/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Thomas11411/python/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thomas11411/python/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -939,6 +940,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Thomas11411/python/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Thomas11411/python/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/Thomas11411/python/tree/master/1880-largest-merge-of-two-strings) |
+| [1894-merge-strings-alternately](https://github.com/Thomas11411/python/tree/master/1894-merge-strings-alternately) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
