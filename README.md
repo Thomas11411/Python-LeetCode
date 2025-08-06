@@ -185,6 +185,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1945-finding-the-users-active-minutes](https://github.com/Thomas11411/python/tree/master/1945-finding-the-users-active-minutes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Thomas11411/python/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/Thomas11411/python/tree/master/1961-maximum-ice-cream-bars) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/Thomas11411/python/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
