@@ -112,6 +112,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thomas11411/python/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Thomas11411/python/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Thomas11411/python/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1524-string-matching-in-an-array](https://github.com/Thomas11411/python/tree/master/1524-string-matching-in-an-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -503,6 +504,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Thomas11411/python/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Thomas11411/python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Thomas11411/python/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1524-string-matching-in-an-array](https://github.com/Thomas11411/python/tree/master/1524-string-matching-in-an-array) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -1044,6 +1046,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Thomas11411/python/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Thomas11411/python/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Thomas11411/python/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
