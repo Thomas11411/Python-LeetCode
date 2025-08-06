@@ -11,6 +11,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Thomas11411/python/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Thomas11411/python/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/Thomas11411/python/tree/master/3463-alternating-groups-i) |
+| [3469-maximum-height-of-a-triangle](https://github.com/Thomas11411/python/tree/master/3469-maximum-height-of-a-triangle) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Thomas11411/python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Thomas11411/python/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Thomas11411/python/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -274,6 +275,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Enumeration
 |  |
 | ------- |
+| [3469-maximum-height-of-a-triangle](https://github.com/Thomas11411/python/tree/master/3469-maximum-height-of-a-triangle) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Thomas11411/python/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/3799-unique-3-digit-even-numbers) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Thomas11411/python/tree/master/3849-equal-sum-grid-partition-i) |
