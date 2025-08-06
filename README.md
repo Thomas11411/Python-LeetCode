@@ -168,6 +168,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Thomas11411/python/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+| [3379-score-of-a-string](https://github.com/Thomas11411/python/tree/master/3379-score-of-a-string) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Thomas11411/python/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Thomas11411/python/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Thomas11411/python/tree/master/3412-permutation-difference-between-two-strings) |
