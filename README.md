@@ -321,6 +321,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1806-count-of-matches-in-tournament](https://github.com/Thomas11411/python/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Thomas11411/python/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Thomas11411/python/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Thomas11411/python/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -626,6 +627,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Thomas11411/python/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1880-largest-merge-of-two-strings](https://github.com/Thomas11411/python/tree/master/1880-largest-merge-of-two-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Thomas11411/python/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Thomas11411/python/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
