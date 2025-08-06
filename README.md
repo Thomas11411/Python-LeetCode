@@ -24,6 +24,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0078-subsets](https://github.com/Thomas11411/python/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Thomas11411/python/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Thomas11411/python/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Thomas11411/python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -624,6 +625,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0062-unique-paths](https://github.com/Thomas11411/python/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Thomas11411/python/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Thomas11411/python/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Thomas11411/python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
