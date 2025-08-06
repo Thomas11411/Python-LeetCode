@@ -760,6 +760,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0260-single-number-iii](https://github.com/Thomas11411/python/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Thomas11411/python/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Thomas11411/python/tree/master/0318-maximum-product-of-word-lengths) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Thomas11411/python/tree/master/0693-binary-number-with-alternating-bits) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Thomas11411/python/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Thomas11411/python/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Thomas11411/python/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
