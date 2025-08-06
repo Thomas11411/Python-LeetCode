@@ -7,6 +7,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Thomas11411/python/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Thomas11411/python/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Thomas11411/python/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Thomas11411/python/tree/master/3351-maximize-happiness-of-selected-children) |
