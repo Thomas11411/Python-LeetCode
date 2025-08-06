@@ -7,6 +7,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Thomas11411/python/tree/master/3644-minimum-positive-sum-subarray) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Thomas11411/python/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3707-find-the-most-common-response](https://github.com/Thomas11411/python/tree/master/3707-find-the-most-common-response) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Thomas11411/python/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -157,10 +158,12 @@ The Python code I wrote to solve problems on LeetCode
 ## Prefix Sum
 |  |
 | ------- |
+| [3644-minimum-positive-sum-subarray](https://github.com/Thomas11411/python/tree/master/3644-minimum-positive-sum-subarray) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Thomas11411/python/tree/master/3849-equal-sum-grid-partition-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Thomas11411/python/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Thomas11411/python/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Thomas11411/python/tree/master/3644-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
