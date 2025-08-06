@@ -289,6 +289,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Bit Manipulation
 |  |
 | ------- |
+| [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Thomas11411/python/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Thomas11411/python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Thomas11411/python/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
