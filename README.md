@@ -528,6 +528,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1933-number-of-different-integers-in-a-string](https://github.com/Thomas11411/python/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thomas11411/python/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1945-finding-the-users-active-minutes](https://github.com/Thomas11411/python/tree/master/1945-finding-the-users-active-minutes) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Thomas11411/python/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -675,6 +676,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1933-number-of-different-integers-in-a-string](https://github.com/Thomas11411/python/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thomas11411/python/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1944-truncate-sentence](https://github.com/Thomas11411/python/tree/master/1944-truncate-sentence) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Thomas11411/python/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
