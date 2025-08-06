@@ -118,6 +118,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Thomas11411/python/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3540-hash-divided-string](https://github.com/Thomas11411/python/tree/master/3540-hash-divided-string) |
 | [3541-report-spam-message](https://github.com/Thomas11411/python/tree/master/3541-report-spam-message) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Thomas11411/python/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Thomas11411/python/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -147,6 +148,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Simulation
 |  |
 | ------- |
+| [3540-hash-divided-string](https://github.com/Thomas11411/python/tree/master/3540-hash-divided-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Thomas11411/python/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Thomas11411/python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/Thomas11411/python/tree/master/3651-transformed-array) |
