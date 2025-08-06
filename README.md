@@ -135,6 +135,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [3388-right-triangles](https://github.com/Thomas11411/python/tree/master/3388-right-triangles) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Thomas11411/python/tree/master/3405-count-the-number-of-special-characters-ii) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Thomas11411/python/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Thomas11411/python/tree/master/3412-permutation-difference-between-two-strings) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Thomas11411/python/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Thomas11411/python/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -167,6 +168,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Thomas11411/python/tree/master/3405-count-the-number-of-special-characters-ii) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Thomas11411/python/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Thomas11411/python/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Thomas11411/python/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Thomas11411/python/tree/master/3447-clear-digits) |
