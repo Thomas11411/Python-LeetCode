@@ -49,6 +49,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thomas11411/python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Thomas11411/python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Thomas11411/python/tree/master/0463-island-perimeter) |
+| [0506-relative-ranks](https://github.com/Thomas11411/python/tree/master/0506-relative-ranks) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -478,6 +479,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0435-non-overlapping-intervals](https://github.com/Thomas11411/python/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Thomas11411/python/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Thomas11411/python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0506-relative-ranks](https://github.com/Thomas11411/python/tree/master/0506-relative-ranks) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -621,6 +623,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Thomas11411/python/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Thomas11411/python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Thomas11411/python/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Thomas11411/python/tree/master/0506-relative-ranks) |
 | [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/Thomas11411/python/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Thomas11411/python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
