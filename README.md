@@ -393,6 +393,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1319-unique-number-of-occurrences](https://github.com/Thomas11411/python/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Thomas11411/python/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Thomas11411/python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Thomas11411/python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Thomas11411/python/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Thomas11411/python/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Thomas11411/python/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -494,6 +495,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Thomas11411/python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Thomas11411/python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Thomas11411/python/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Thomas11411/python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Thomas11411/python/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -894,6 +896,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1138-grumpy-bookstore-owner](https://github.com/Thomas11411/python/tree/master/1138-grumpy-bookstore-owner) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Thomas11411/python/tree/master/1321-get-equal-substrings-within-budget) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Thomas11411/python/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Thomas11411/python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thomas11411/python/tree/master/2856-count-complete-subarrays-in-an-array) |
