@@ -376,6 +376,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2037-count-square-sum-triples](https://github.com/Thomas11411/python/tree/master/2037-count-square-sum-triples) |
 | [2039-sum-game](https://github.com/Thomas11411/python/tree/master/2039-sum-game) |
 | [2050-count-good-numbers](https://github.com/Thomas11411/python/tree/master/2050-count-good-numbers) |
+| [2083-three-divisors](https://github.com/Thomas11411/python/tree/master/2083-three-divisors) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -422,6 +423,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [1543-simplified-fractions](https://github.com/Thomas11411/python/tree/master/1543-simplified-fractions) |
+| [2083-three-divisors](https://github.com/Thomas11411/python/tree/master/2083-three-divisors) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
 | [3373-maximum-prime-difference](https://github.com/Thomas11411/python/tree/master/3373-maximum-prime-difference) |
@@ -1188,6 +1190,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Thomas11411/python/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Thomas11411/python/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2037-count-square-sum-triples](https://github.com/Thomas11411/python/tree/master/2037-count-square-sum-triples) |
+| [2083-three-divisors](https://github.com/Thomas11411/python/tree/master/2083-three-divisors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Thomas11411/python/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
 | [3221-find-the-peaks](https://github.com/Thomas11411/python/tree/master/3221-find-the-peaks) |
