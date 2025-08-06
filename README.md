@@ -8,6 +8,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [0001-two-sum](https://github.com/Thomas11411/python/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Thomas11411/python/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Thomas11411/python/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -270,6 +271,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Thomas11411/python/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Thomas11411/python/tree/master/0014-longest-common-prefix) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -333,6 +335,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Thomas11411/python/tree/master/0014-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Thomas11411/python/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
 ## Simulation
