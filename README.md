@@ -31,6 +31,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0137-single-number-ii](https://github.com/Thomas11411/python/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Thomas11411/python/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Thomas11411/python/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Thomas11411/python/tree/master/0200-number-of-islands) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -210,22 +211,26 @@ The Python code I wrote to solve problems on LeetCode
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Thomas11411/python/tree/master/0200-number-of-islands) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Thomas11411/python/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/Thomas11411/python/tree/master/0200-number-of-islands) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Thomas11411/python/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Thomas11411/python/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Thomas11411/python/tree/master/0200-number-of-islands) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Thomas11411/python/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/Thomas11411/python/tree/master/0200-number-of-islands) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Thomas11411/python/tree/master/3330-modify-the-matrix) |
