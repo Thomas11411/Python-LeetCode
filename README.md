@@ -7,6 +7,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Thomas11411/python/tree/master/0035-search-insert-position) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Thomas11411/python/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3194-find-words-containing-character](https://github.com/Thomas11411/python/tree/master/3194-find-words-containing-character) |
 | [3202-high-access-employees](https://github.com/Thomas11411/python/tree/master/3202-high-access-employees) |
@@ -331,6 +332,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Greedy
 |  |
 | ------- |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Thomas11411/python/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Thomas11411/python/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
