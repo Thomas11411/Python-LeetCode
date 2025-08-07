@@ -445,6 +445,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2238-a-number-after-a-double-reversal](https://github.com/Thomas11411/python/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Thomas11411/python/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Thomas11411/python/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/Thomas11411/python/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Thomas11411/python/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Thomas11411/python/tree/master/2288-count-operations-to-obtain-zero) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1170,6 +1171,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Thomas11411/python/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Thomas11411/python/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Thomas11411/python/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/Thomas11411/python/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Thomas11411/python/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
@@ -1629,6 +1631,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Thomas11411/python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Thomas11411/python/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Thomas11411/python/tree/master/2078-maximum-compatibility-score-sum) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/Thomas11411/python/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thomas11411/python/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Rolling Hash
