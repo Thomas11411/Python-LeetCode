@@ -1040,6 +1040,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2487-optimal-partition-of-string](https://github.com/Thomas11411/python/tree/master/2487-optimal-partition-of-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Thomas11411/python/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/Thomas11411/python/tree/master/2502-sort-the-people) |
+| [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Thomas11411/python/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Thomas11411/python/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2547-odd-string-difference](https://github.com/Thomas11411/python/tree/master/2547-odd-string-difference) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Thomas11411/python/tree/master/2550-words-within-two-edits-of-dictionary) |
@@ -1432,6 +1433,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2475-largest-palindromic-number](https://github.com/Thomas11411/python/tree/master/2475-largest-palindromic-number) |
 | [2487-optimal-partition-of-string](https://github.com/Thomas11411/python/tree/master/2487-optimal-partition-of-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Thomas11411/python/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Thomas11411/python/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Thomas11411/python/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
@@ -1926,6 +1928,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Thomas11411/python/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2444-longest-ideal-subsequence](https://github.com/Thomas11411/python/tree/master/2444-longest-ideal-subsequence) |
 | [2504-find-all-good-indices](https://github.com/Thomas11411/python/tree/master/2504-find-all-good-indices) |
+| [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Thomas11411/python/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Thomas11411/python/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Thomas11411/python/tree/master/2586-longest-square-streak-in-an-array) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
