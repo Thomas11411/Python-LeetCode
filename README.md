@@ -349,6 +349,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Thomas11411/python/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2634-minimum-common-value](https://github.com/Thomas11411/python/tree/master/2634-minimum-common-value) |
 | [2636-maximum-subsequence-score](https://github.com/Thomas11411/python/tree/master/2636-maximum-subsequence-score) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Thomas11411/python/tree/master/2639-separate-the-digits-in-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Thomas11411/python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -1185,6 +1186,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2585-delete-greatest-value-in-each-row](https://github.com/Thomas11411/python/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Thomas11411/python/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Thomas11411/python/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Thomas11411/python/tree/master/2639-separate-the-digits-in-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Thomas11411/python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
