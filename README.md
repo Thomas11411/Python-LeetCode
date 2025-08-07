@@ -234,6 +234,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2181-smallest-index-with-equal-value](https://github.com/Thomas11411/python/tree/master/2181-smallest-index-with-equal-value) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Thomas11411/python/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Thomas11411/python/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Thomas11411/python/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Thomas11411/python/tree/master/2195-time-needed-to-buy-tickets) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Thomas11411/python/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -1091,6 +1092,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2154-minimum-moves-to-convert-string](https://github.com/Thomas11411/python/tree/master/2154-minimum-moves-to-convert-string) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Thomas11411/python/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Thomas11411/python/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Thomas11411/python/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Thomas11411/python/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
