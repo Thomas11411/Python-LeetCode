@@ -263,6 +263,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Thomas11411/python/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Thomas11411/python/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Thomas11411/python/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Thomas11411/python/tree/master/2294-minimum-time-to-complete-trips) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1120,6 +1121,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2179-most-beautiful-item-for-each-query](https://github.com/Thomas11411/python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Thomas11411/python/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Thomas11411/python/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Thomas11411/python/tree/master/2294-minimum-time-to-complete-trips) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3427-special-array-ii](https://github.com/Thomas11411/python/tree/master/3427-special-array-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
