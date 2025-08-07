@@ -251,6 +251,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2232-adding-spaces-to-a-string](https://github.com/Thomas11411/python/tree/master/2232-adding-spaces-to-a-string) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Thomas11411/python/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Thomas11411/python/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2249-count-the-hidden-sequences](https://github.com/Thomas11411/python/tree/master/2249-count-the-hidden-sequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Thomas11411/python/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -1403,6 +1404,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2102-find-the-middle-index-in-array](https://github.com/Thomas11411/python/tree/master/2102-find-the-middle-index-in-array) |
 | [2165-plates-between-candles](https://github.com/Thomas11411/python/tree/master/2165-plates-between-candles) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Thomas11411/python/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2249-count-the-hidden-sequences](https://github.com/Thomas11411/python/tree/master/2249-count-the-hidden-sequences) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thomas11411/python/tree/master/3034-points-that-intersect-with-cars) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
