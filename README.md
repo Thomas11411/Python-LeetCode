@@ -613,6 +613,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Thomas11411/python/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2159-two-out-of-three](https://github.com/Thomas11411/python/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Thomas11411/python/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Thomas11411/python/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Thomas11411/python/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -787,6 +788,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2163-kth-distinct-string-in-an-array](https://github.com/Thomas11411/python/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2165-plates-between-candles](https://github.com/Thomas11411/python/tree/master/2165-plates-between-candles) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Thomas11411/python/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Thomas11411/python/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Thomas11411/python/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2187-vowels-of-all-substrings](https://github.com/Thomas11411/python/tree/master/2187-vowels-of-all-substrings) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
@@ -1174,6 +1176,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Thomas11411/python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Thomas11411/python/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Thomas11411/python/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Thomas11411/python/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
