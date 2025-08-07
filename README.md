@@ -243,6 +243,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Thomas11411/python/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/Thomas11411/python/tree/master/2227-sum-of-subarray-ranges) |
+| [2228-watering-plants-ii](https://github.com/Thomas11411/python/tree/master/2228-watering-plants-ii) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -899,6 +900,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2155-find-missing-observations](https://github.com/Thomas11411/python/tree/master/2155-find-missing-observations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Thomas11411/python/tree/master/2195-time-needed-to-buy-tickets) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Thomas11411/python/tree/master/2197-decode-the-slanted-ciphertext) |
+| [2228-watering-plants-ii](https://github.com/Thomas11411/python/tree/master/2228-watering-plants-ii) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Thomas11411/python/tree/master/2886-faulty-keyboard) |
@@ -1169,6 +1171,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Thomas11411/python/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Thomas11411/python/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Thomas11411/python/tree/master/2128-reverse-prefix-of-word) |
+| [2228-watering-plants-ii](https://github.com/Thomas11411/python/tree/master/2228-watering-plants-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
