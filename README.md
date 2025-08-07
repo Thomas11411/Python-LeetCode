@@ -729,6 +729,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2388-replace-elements-in-an-array](https://github.com/Thomas11411/python/tree/master/2388-replace-elements-in-an-array) |
 | [2406-decode-the-message](https://github.com/Thomas11411/python/tree/master/2406-decode-the-message) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Thomas11411/python/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/Thomas11411/python/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/Thomas11411/python/tree/master/2433-best-poker-hand) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Thomas11411/python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -936,6 +937,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2391-strong-password-checker-ii](https://github.com/Thomas11411/python/tree/master/2391-strong-password-checker-ii) |
 | [2401-count-asterisks](https://github.com/Thomas11411/python/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Thomas11411/python/tree/master/2406-decode-the-message) |
+| [2427-first-letter-to-appear-twice](https://github.com/Thomas11411/python/tree/master/2427-first-letter-to-appear-twice) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -1409,6 +1411,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Thomas11411/python/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2378-sender-with-largest-word-count](https://github.com/Thomas11411/python/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Thomas11411/python/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/Thomas11411/python/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/Thomas11411/python/tree/master/2433-best-poker-hand) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
@@ -1685,6 +1688,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2078-maximum-compatibility-score-sum](https://github.com/Thomas11411/python/tree/master/2078-maximum-compatibility-score-sum) |
 | [2159-two-out-of-three](https://github.com/Thomas11411/python/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Thomas11411/python/tree/master/2308-divide-array-into-equal-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/Thomas11411/python/tree/master/2427-first-letter-to-appear-twice) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Thomas11411/python/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Thomas11411/python/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Thomas11411/python/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
