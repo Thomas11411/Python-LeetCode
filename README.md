@@ -346,6 +346,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Thomas11411/python/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Thomas11411/python/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Thomas11411/python/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Thomas11411/python/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2634-minimum-common-value](https://github.com/Thomas11411/python/tree/master/2634-minimum-common-value) |
 | [2636-maximum-subsequence-score](https://github.com/Thomas11411/python/tree/master/2636-maximum-subsequence-score) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -688,6 +689,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Thomas11411/python/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Thomas11411/python/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Thomas11411/python/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Thomas11411/python/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Thomas11411/python/tree/master/3330-modify-the-matrix) |
@@ -1308,6 +1310,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2585-delete-greatest-value-in-each-row](https://github.com/Thomas11411/python/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Thomas11411/python/tree/master/2586-longest-square-streak-in-an-array) |
 | [2603-reward-top-k-students](https://github.com/Thomas11411/python/tree/master/2603-reward-top-k-students) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Thomas11411/python/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2636-maximum-subsequence-score](https://github.com/Thomas11411/python/tree/master/2636-maximum-subsequence-score) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
