@@ -322,6 +322,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Thomas11411/python/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-range-product-queries-of-powers](https://github.com/Thomas11411/python/tree/master/2529-range-product-queries-of-powers) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Thomas11411/python/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Thomas11411/python/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Thomas11411/python/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2547-odd-string-difference](https://github.com/Thomas11411/python/tree/master/2547-odd-string-difference) |
 | [2548-destroy-sequential-targets](https://github.com/Thomas11411/python/tree/master/2548-destroy-sequential-targets) |
@@ -522,6 +523,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2491-smallest-even-multiple](https://github.com/Thomas11411/python/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Thomas11411/python/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Thomas11411/python/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Thomas11411/python/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Thomas11411/python/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
