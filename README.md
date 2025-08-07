@@ -304,6 +304,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2447-merge-similar-items](https://github.com/Thomas11411/python/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/Thomas11411/python/tree/master/2448-count-number-of-bad-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Thomas11411/python/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Thomas11411/python/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2465-shifting-letters-ii](https://github.com/Thomas11411/python/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Thomas11411/python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2483-task-scheduler-ii](https://github.com/Thomas11411/python/tree/master/2483-task-scheduler-ii) |
@@ -1320,6 +1321,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2418-minimum-sum-of-squared-difference](https://github.com/Thomas11411/python/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thomas11411/python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Thomas11411/python/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Thomas11411/python/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
