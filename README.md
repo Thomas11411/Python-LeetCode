@@ -580,6 +580,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Thomas11411/python/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Thomas11411/python/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Thomas11411/python/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Thomas11411/python/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -1506,6 +1507,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Thomas11411/python/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Thomas11411/python/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Thomas11411/python/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Thomas11411/python/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
