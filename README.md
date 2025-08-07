@@ -406,6 +406,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Thomas11411/python/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2155-find-missing-observations](https://github.com/Thomas11411/python/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Thomas11411/python/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2187-vowels-of-all-substrings](https://github.com/Thomas11411/python/tree/master/2187-vowels-of-all-substrings) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -786,6 +787,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2165-plates-between-candles](https://github.com/Thomas11411/python/tree/master/2165-plates-between-candles) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Thomas11411/python/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Thomas11411/python/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2187-vowels-of-all-substrings](https://github.com/Thomas11411/python/tree/master/2187-vowels-of-all-substrings) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -1201,6 +1203,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0062-unique-paths](https://github.com/Thomas11411/python/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/Thomas11411/python/tree/master/1761-count-sorted-vowel-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Thomas11411/python/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2187-vowels-of-all-substrings](https://github.com/Thomas11411/python/tree/master/2187-vowels-of-all-substrings) |
 | [3388-right-triangles](https://github.com/Thomas11411/python/tree/master/3388-right-triangles) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thomas11411/python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Thomas11411/python/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
@@ -1468,6 +1471,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2078-maximum-compatibility-score-sum](https://github.com/Thomas11411/python/tree/master/2078-maximum-compatibility-score-sum) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Thomas11411/python/tree/master/2118-maximum-earnings-from-taxi) |
 | [2164-two-best-non-overlapping-events](https://github.com/Thomas11411/python/tree/master/2164-two-best-non-overlapping-events) |
+| [2187-vowels-of-all-substrings](https://github.com/Thomas11411/python/tree/master/2187-vowels-of-all-substrings) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
