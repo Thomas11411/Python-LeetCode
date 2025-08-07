@@ -354,6 +354,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2679-count-distinct-numbers-on-board](https://github.com/Thomas11411/python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thomas11411/python/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Thomas11411/python/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2698-find-the-array-concatenation-value](https://github.com/Thomas11411/python/tree/master/2698-find-the-array-concatenation-value) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1194,6 +1195,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2639-separate-the-digits-in-an-array](https://github.com/Thomas11411/python/tree/master/2639-separate-the-digits-in-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Thomas11411/python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Thomas11411/python/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2698-find-the-array-concatenation-value](https://github.com/Thomas11411/python/tree/master/2698-find-the-array-concatenation-value) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Thomas11411/python/tree/master/2886-faulty-keyboard) |
@@ -1552,6 +1554,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Thomas11411/python/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Thomas11411/python/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Thomas11411/python/tree/master/2634-minimum-common-value) |
+| [2698-find-the-array-concatenation-value](https://github.com/Thomas11411/python/tree/master/2698-find-the-array-concatenation-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
