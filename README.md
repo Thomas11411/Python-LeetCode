@@ -370,6 +370,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2714-left-and-right-sum-differences](https://github.com/Thomas11411/python/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/Thomas11411/python/tree/master/2722-prime-in-diagonal) |
 | [2727-number-of-senior-citizens](https://github.com/Thomas11411/python/tree/master/2727-number-of-senior-citizens) |
+| [2728-sum-in-a-matrix](https://github.com/Thomas11411/python/tree/master/2728-sum-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Thomas11411/python/tree/master/2737-row-with-maximum-ones) |
 | [2751-sliding-subarray-beauty](https://github.com/Thomas11411/python/tree/master/2751-sliding-subarray-beauty) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Thomas11411/python/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -730,6 +731,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Thomas11411/python/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Thomas11411/python/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2722-prime-in-diagonal](https://github.com/Thomas11411/python/tree/master/2722-prime-in-diagonal) |
+| [2728-sum-in-a-matrix](https://github.com/Thomas11411/python/tree/master/2728-sum-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Thomas11411/python/tree/master/2737-row-with-maximum-ones) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
@@ -1240,6 +1242,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Thomas11411/python/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Thomas11411/python/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2698-find-the-array-concatenation-value](https://github.com/Thomas11411/python/tree/master/2698-find-the-array-concatenation-value) |
+| [2728-sum-in-a-matrix](https://github.com/Thomas11411/python/tree/master/2728-sum-in-a-matrix) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Thomas11411/python/tree/master/2886-faulty-keyboard) |
@@ -1377,6 +1380,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Thomas11411/python/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Thomas11411/python/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Thomas11411/python/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2728-sum-in-a-matrix](https://github.com/Thomas11411/python/tree/master/2728-sum-in-a-matrix) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -1755,6 +1759,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Thomas11411/python/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Thomas11411/python/tree/master/2636-maximum-subsequence-score) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Thomas11411/python/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2728-sum-in-a-matrix](https://github.com/Thomas11411/python/tree/master/2728-sum-in-a-matrix) |
 | [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/Thomas11411/python/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Thomas11411/python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
