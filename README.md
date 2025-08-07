@@ -351,6 +351,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2636-maximum-subsequence-score](https://github.com/Thomas11411/python/tree/master/2636-maximum-subsequence-score) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Thomas11411/python/tree/master/2639-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Thomas11411/python/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2651-count-ways-to-group-overlapping-ranges](https://github.com/Thomas11411/python/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Thomas11411/python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thomas11411/python/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Thomas11411/python/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1340,6 +1341,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2636-maximum-subsequence-score](https://github.com/Thomas11411/python/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Thomas11411/python/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2650-split-with-minimum-sum](https://github.com/Thomas11411/python/tree/master/2650-split-with-minimum-sum) |
+| [2651-count-ways-to-group-overlapping-ranges](https://github.com/Thomas11411/python/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Thomas11411/python/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Thomas11411/python/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
