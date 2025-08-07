@@ -321,6 +321,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Thomas11411/python/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Thomas11411/python/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-range-product-queries-of-powers](https://github.com/Thomas11411/python/tree/master/2529-range-product-queries-of-powers) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/Thomas11411/python/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -996,6 +997,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2487-optimal-partition-of-string](https://github.com/Thomas11411/python/tree/master/2487-optimal-partition-of-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Thomas11411/python/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/Thomas11411/python/tree/master/2502-sort-the-people) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/Thomas11411/python/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
