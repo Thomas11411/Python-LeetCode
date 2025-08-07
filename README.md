@@ -887,6 +887,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2292-counting-words-with-a-given-prefix](https://github.com/Thomas11411/python/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Thomas11411/python/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/Thomas11411/python/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Thomas11411/python/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Thomas11411/python/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Thomas11411/python/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
@@ -1220,6 +1221,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Thomas11411/python/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Thomas11411/python/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/Thomas11411/python/tree/master/2329-maximum-product-after-k-increments) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Thomas11411/python/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Thomas11411/python/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
@@ -1464,6 +1466,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2215-finding-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/2215-finding-3-digit-even-numbers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Thomas11411/python/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/Thomas11411/python/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Thomas11411/python/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Thomas11411/python/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Thomas11411/python/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
