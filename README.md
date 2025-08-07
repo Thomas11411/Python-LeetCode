@@ -286,6 +286,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Thomas11411/python/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2358-number-of-ways-to-split-array](https://github.com/Thomas11411/python/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Thomas11411/python/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Thomas11411/python/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1114,6 +1115,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Thomas11411/python/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Thomas11411/python/tree/master/2331-intersection-of-multiple-arrays) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Thomas11411/python/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Thomas11411/python/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -1239,6 +1241,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2329-maximum-product-after-k-increments](https://github.com/Thomas11411/python/tree/master/2329-maximum-product-after-k-increments) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Thomas11411/python/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Thomas11411/python/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Thomas11411/python/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
