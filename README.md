@@ -295,6 +295,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Thomas11411/python/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Thomas11411/python/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Thomas11411/python/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Thomas11411/python/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-best-poker-hand](https://github.com/Thomas11411/python/tree/master/2433-best-poker-hand) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Thomas11411/python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -488,6 +489,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2324-find-triangular-sum-of-an-array](https://github.com/Thomas11411/python/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Thomas11411/python/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2383-add-two-integers](https://github.com/Thomas11411/python/tree/master/2383-add-two-integers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Thomas11411/python/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
