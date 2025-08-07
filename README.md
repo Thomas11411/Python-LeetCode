@@ -876,6 +876,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Thomas11411/python/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Thomas11411/python/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Thomas11411/python/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/Thomas11411/python/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -1443,6 +1444,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2122-count-special-quadruplets](https://github.com/Thomas11411/python/tree/master/2122-count-special-quadruplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/2215-finding-3-digit-even-numbers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Thomas11411/python/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/Thomas11411/python/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Thomas11411/python/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
 | [3221-find-the-peaks](https://github.com/Thomas11411/python/tree/master/3221-find-the-peaks) |
