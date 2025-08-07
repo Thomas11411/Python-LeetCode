@@ -275,6 +275,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Thomas11411/python/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Thomas11411/python/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Thomas11411/python/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2329-maximum-product-after-k-increments](https://github.com/Thomas11411/python/tree/master/2329-maximum-product-after-k-increments) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1205,6 +1206,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Thomas11411/python/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Thomas11411/python/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Thomas11411/python/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2329-maximum-product-after-k-increments](https://github.com/Thomas11411/python/tree/master/2329-maximum-product-after-k-increments) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1383,6 +1385,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Thomas11411/python/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Thomas11411/python/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Thomas11411/python/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2329-maximum-product-after-k-increments](https://github.com/Thomas11411/python/tree/master/2329-maximum-product-after-k-increments) |
 | [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/Thomas11411/python/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Thomas11411/python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
