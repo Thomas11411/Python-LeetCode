@@ -881,6 +881,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2292-counting-words-with-a-given-prefix](https://github.com/Thomas11411/python/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Thomas11411/python/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/Thomas11411/python/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/Thomas11411/python/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -980,6 +981,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2288-count-operations-to-obtain-zero](https://github.com/Thomas11411/python/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Thomas11411/python/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Thomas11411/python/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/Thomas11411/python/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Thomas11411/python/tree/master/2886-faulty-keyboard) |
