@@ -1098,6 +1098,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Thomas11411/python/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thomas11411/python/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Thomas11411/python/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Thomas11411/python/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
