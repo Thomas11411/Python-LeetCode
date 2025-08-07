@@ -215,6 +215,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Thomas11411/python/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Thomas11411/python/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Thomas11411/python/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2118-maximum-earnings-from-taxi](https://github.com/Thomas11411/python/tree/master/2118-maximum-earnings-from-taxi) |
 | [2122-count-special-quadruplets](https://github.com/Thomas11411/python/tree/master/2122-count-special-quadruplets) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Thomas11411/python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -587,6 +588,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2055-describe-the-painting](https://github.com/Thomas11411/python/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Thomas11411/python/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Thomas11411/python/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2118-maximum-earnings-from-taxi](https://github.com/Thomas11411/python/tree/master/2118-maximum-earnings-from-taxi) |
 | [2122-count-special-quadruplets](https://github.com/Thomas11411/python/tree/master/2122-count-special-quadruplets) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Thomas11411/python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -926,6 +928,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Thomas11411/python/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Thomas11411/python/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Thomas11411/python/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2118-maximum-earnings-from-taxi](https://github.com/Thomas11411/python/tree/master/2118-maximum-earnings-from-taxi) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -979,6 +982,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Thomas11411/python/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Thomas11411/python/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Thomas11411/python/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2118-maximum-earnings-from-taxi](https://github.com/Thomas11411/python/tree/master/2118-maximum-earnings-from-taxi) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3427-special-array-ii](https://github.com/Thomas11411/python/tree/master/3427-special-array-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
@@ -1416,6 +1420,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1764-maximum-repeating-substring](https://github.com/Thomas11411/python/tree/master/1764-maximum-repeating-substring) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Thomas11411/python/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Thomas11411/python/tree/master/2078-maximum-compatibility-score-sum) |
+| [2118-maximum-earnings-from-taxi](https://github.com/Thomas11411/python/tree/master/2118-maximum-earnings-from-taxi) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
