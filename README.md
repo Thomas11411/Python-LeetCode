@@ -547,6 +547,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Thomas11411/python/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Thomas11411/python/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Thomas11411/python/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Thomas11411/python/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -602,6 +603,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Thomas11411/python/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Thomas11411/python/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Thomas11411/python/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Thomas11411/python/tree/master/2610-closest-prime-numbers-in-range) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
 | [3373-maximum-prime-difference](https://github.com/Thomas11411/python/tree/master/3373-maximum-prime-difference) |
