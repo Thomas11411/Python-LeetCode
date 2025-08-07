@@ -230,6 +230,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2164-two-best-non-overlapping-events](https://github.com/Thomas11411/python/tree/master/2164-two-best-non-overlapping-events) |
 | [2165-plates-between-candles](https://github.com/Thomas11411/python/tree/master/2165-plates-between-candles) |
 | [2181-smallest-index-with-equal-value](https://github.com/Thomas11411/python/tree/master/2181-smallest-index-with-equal-value) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Thomas11411/python/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1022,6 +1023,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2118-maximum-earnings-from-taxi](https://github.com/Thomas11411/python/tree/master/2118-maximum-earnings-from-taxi) |
 | [2164-two-best-non-overlapping-events](https://github.com/Thomas11411/python/tree/master/2164-two-best-non-overlapping-events) |
 | [2165-plates-between-candles](https://github.com/Thomas11411/python/tree/master/2165-plates-between-candles) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Thomas11411/python/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3427-special-array-ii](https://github.com/Thomas11411/python/tree/master/3427-special-array-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
@@ -1071,6 +1073,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Thomas11411/python/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Thomas11411/python/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Thomas11411/python/tree/master/2154-minimum-moves-to-convert-string) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Thomas11411/python/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
