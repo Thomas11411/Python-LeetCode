@@ -829,6 +829,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Thomas11411/python/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Thomas11411/python/tree/master/2232-adding-spaces-to-a-string) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Thomas11411/python/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Thomas11411/python/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
