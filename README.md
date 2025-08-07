@@ -1121,6 +1121,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2331-intersection-of-multiple-arrays](https://github.com/Thomas11411/python/tree/master/2331-intersection-of-multiple-arrays) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Thomas11411/python/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Thomas11411/python/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Thomas11411/python/tree/master/2379-maximum-total-importance-of-roads) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -1247,6 +1248,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Thomas11411/python/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Thomas11411/python/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Thomas11411/python/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Thomas11411/python/tree/master/2379-maximum-total-importance-of-roads) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1430,6 +1432,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Thomas11411/python/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Thomas11411/python/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2329-maximum-product-after-k-increments](https://github.com/Thomas11411/python/tree/master/2329-maximum-product-after-k-increments) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Thomas11411/python/tree/master/2379-maximum-total-importance-of-roads) |
 | [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/Thomas11411/python/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Thomas11411/python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1761,6 +1764,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2121-find-if-path-exists-in-graph](https://github.com/Thomas11411/python/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Thomas11411/python/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Thomas11411/python/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Thomas11411/python/tree/master/2379-maximum-total-importance-of-roads) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Thomas11411/python/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Monotonic Stack
 |  |
