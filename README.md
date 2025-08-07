@@ -337,6 +337,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2585-delete-greatest-value-in-each-row](https://github.com/Thomas11411/python/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Thomas11411/python/tree/master/2586-longest-square-streak-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Thomas11411/python/tree/master/2594-count-pairs-of-similar-strings) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Thomas11411/python/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2603-reward-top-k-students](https://github.com/Thomas11411/python/tree/master/2603-reward-top-k-students) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Thomas11411/python/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -1042,6 +1043,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2576-minimum-penalty-for-a-shop](https://github.com/Thomas11411/python/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/Thomas11411/python/tree/master/2580-circular-sentence) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Thomas11411/python/tree/master/2594-count-pairs-of-similar-strings) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Thomas11411/python/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2603-reward-top-k-students](https://github.com/Thomas11411/python/tree/master/2603-reward-top-k-students) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
