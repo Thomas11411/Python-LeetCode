@@ -340,6 +340,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2594-count-pairs-of-similar-strings](https://github.com/Thomas11411/python/tree/master/2594-count-pairs-of-similar-strings) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Thomas11411/python/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2603-reward-top-k-students](https://github.com/Thomas11411/python/tree/master/2603-reward-top-k-students) |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Thomas11411/python/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Thomas11411/python/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Thomas11411/python/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Thomas11411/python/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -549,6 +550,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2571-find-the-pivot-integer](https://github.com/Thomas11411/python/tree/master/2571-find-the-pivot-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Thomas11411/python/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Thomas11411/python/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Thomas11411/python/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Thomas11411/python/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Thomas11411/python/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Thomas11411/python/tree/master/2610-closest-prime-numbers-in-range) |
@@ -1449,6 +1451,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Thomas11411/python/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Thomas11411/python/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Thomas11411/python/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Thomas11411/python/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Thomas11411/python/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
