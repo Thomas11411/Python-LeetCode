@@ -306,6 +306,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2454-largest-local-values-in-a-matrix](https://github.com/Thomas11411/python/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Thomas11411/python/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2465-shifting-letters-ii](https://github.com/Thomas11411/python/tree/master/2465-shifting-letters-ii) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Thomas11411/python/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Thomas11411/python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2483-task-scheduler-ii](https://github.com/Thomas11411/python/tree/master/2483-task-scheduler-ii) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -1188,6 +1189,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2418-minimum-sum-of-squared-difference](https://github.com/Thomas11411/python/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thomas11411/python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/Thomas11411/python/tree/master/2447-merge-similar-items) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Thomas11411/python/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Thomas11411/python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1252,6 +1254,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2294-minimum-time-to-complete-trips](https://github.com/Thomas11411/python/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Thomas11411/python/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Thomas11411/python/tree/master/2418-minimum-sum-of-squared-difference) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Thomas11411/python/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3427-special-array-ii](https://github.com/Thomas11411/python/tree/master/3427-special-array-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
@@ -1324,6 +1327,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thomas11411/python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Thomas11411/python/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Thomas11411/python/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Thomas11411/python/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2475-largest-palindromic-number](https://github.com/Thomas11411/python/tree/master/2475-largest-palindromic-number) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
@@ -1630,6 +1634,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2342-minimum-average-difference](https://github.com/Thomas11411/python/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Thomas11411/python/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Thomas11411/python/tree/master/2465-shifting-letters-ii) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Thomas11411/python/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thomas11411/python/tree/master/3034-points-that-intersect-with-cars) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
