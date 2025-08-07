@@ -836,6 +836,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2235-capitalize-the-title](https://github.com/Thomas11411/python/tree/master/2235-capitalize-the-title) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Thomas11411/python/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Thomas11411/python/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Thomas11411/python/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -927,6 +928,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2228-watering-plants-ii](https://github.com/Thomas11411/python/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/Thomas11411/python/tree/master/2232-adding-spaces-to-a-string) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Thomas11411/python/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Thomas11411/python/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Thomas11411/python/tree/master/2886-faulty-keyboard) |
