@@ -357,6 +357,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2698-find-the-array-concatenation-value](https://github.com/Thomas11411/python/tree/master/2698-find-the-array-concatenation-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Thomas11411/python/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Thomas11411/python/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/Thomas11411/python/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2714-left-and-right-sum-differences](https://github.com/Thomas11411/python/tree/master/2714-left-and-right-sum-differences) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -571,6 +572,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2679-count-distinct-numbers-on-board](https://github.com/Thomas11411/python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Thomas11411/python/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Thomas11411/python/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/Thomas11411/python/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -1084,6 +1086,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Thomas11411/python/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2603-reward-top-k-students](https://github.com/Thomas11411/python/tree/master/2603-reward-top-k-students) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thomas11411/python/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/Thomas11411/python/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
