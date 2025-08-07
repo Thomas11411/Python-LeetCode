@@ -322,6 +322,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Thomas11411/python/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-range-product-queries-of-powers](https://github.com/Thomas11411/python/tree/master/2529-range-product-queries-of-powers) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Thomas11411/python/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Thomas11411/python/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -518,6 +519,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2491-smallest-even-multiple](https://github.com/Thomas11411/python/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Thomas11411/python/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Thomas11411/python/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Thomas11411/python/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -569,6 +571,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Thomas11411/python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2491-smallest-even-multiple](https://github.com/Thomas11411/python/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Thomas11411/python/tree/master/2507-number-of-common-factors) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Thomas11411/python/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
 | [3373-maximum-prime-difference](https://github.com/Thomas11411/python/tree/master/3373-maximum-prime-difference) |
