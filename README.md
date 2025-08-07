@@ -360,6 +360,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2679-count-distinct-numbers-on-board](https://github.com/Thomas11411/python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thomas11411/python/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Thomas11411/python/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2694-find-the-maximum-divisibility-score](https://github.com/Thomas11411/python/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2698-find-the-array-concatenation-value](https://github.com/Thomas11411/python/tree/master/2698-find-the-array-concatenation-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Thomas11411/python/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Thomas11411/python/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
