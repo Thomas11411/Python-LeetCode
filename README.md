@@ -97,6 +97,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1319-unique-number-of-occurrences](https://github.com/Thomas11411/python/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Thomas11411/python/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Thomas11411/python/tree/master/1333-sort-the-jumbled-numbers) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Thomas11411/python/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Thomas11411/python/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Thomas11411/python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Thomas11411/python/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -1124,6 +1125,7 @@ The Python code I wrote to solve problems on LeetCode
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Thomas11411/python/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/Thomas11411/python/tree/master/0792-binary-search) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Thomas11411/python/tree/master/1321-get-equal-substrings-within-budget) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Thomas11411/python/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Thomas11411/python/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Thomas11411/python/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Thomas11411/python/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
