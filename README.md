@@ -237,6 +237,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Thomas11411/python/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Thomas11411/python/tree/master/2195-time-needed-to-buy-tickets) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Thomas11411/python/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Thomas11411/python/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -983,6 +984,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Thomas11411/python/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Thomas11411/python/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Thomas11411/python/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Thomas11411/python/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -1041,6 +1043,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2165-plates-between-candles](https://github.com/Thomas11411/python/tree/master/2165-plates-between-candles) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Thomas11411/python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Thomas11411/python/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Thomas11411/python/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3427-special-array-ii](https://github.com/Thomas11411/python/tree/master/3427-special-array-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
