@@ -343,6 +343,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Thomas11411/python/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Thomas11411/python/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Thomas11411/python/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Thomas11411/python/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1443,6 +1444,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Thomas11411/python/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Thomas11411/python/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Thomas11411/python/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Thomas11411/python/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1654,6 +1656,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2553-total-cost-to-hire-k-workers](https://github.com/Thomas11411/python/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Thomas11411/python/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2603-reward-top-k-students](https://github.com/Thomas11411/python/tree/master/2603-reward-top-k-students) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Thomas11411/python/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/Thomas11411/python/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Thomas11411/python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
