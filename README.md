@@ -1875,6 +1875,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Thomas11411/python/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2444-longest-ideal-subsequence](https://github.com/Thomas11411/python/tree/master/2444-longest-ideal-subsequence) |
 | [2504-find-all-good-indices](https://github.com/Thomas11411/python/tree/master/2504-find-all-good-indices) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Thomas11411/python/tree/master/2562-count-ways-to-build-good-strings) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
