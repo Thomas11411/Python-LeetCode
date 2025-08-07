@@ -298,6 +298,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2428-equal-row-and-column-pairs](https://github.com/Thomas11411/python/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Thomas11411/python/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-best-poker-hand](https://github.com/Thomas11411/python/tree/master/2433-best-poker-hand) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thomas11411/python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Thomas11411/python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -734,6 +735,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2427-first-letter-to-appear-twice](https://github.com/Thomas11411/python/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/Thomas11411/python/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/Thomas11411/python/tree/master/2433-best-poker-hand) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thomas11411/python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Thomas11411/python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -1045,6 +1047,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2388-replace-elements-in-an-array](https://github.com/Thomas11411/python/tree/master/2388-replace-elements-in-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Thomas11411/python/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/Thomas11411/python/tree/master/2428-equal-row-and-column-pairs) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thomas11411/python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Thomas11411/python/tree/master/2886-faulty-keyboard) |
@@ -1161,6 +1164,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Thomas11411/python/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Thomas11411/python/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Thomas11411/python/tree/master/2418-minimum-sum-of-squared-difference) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thomas11411/python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Thomas11411/python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1294,6 +1298,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Thomas11411/python/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Thomas11411/python/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Thomas11411/python/tree/master/2418-minimum-sum-of-squared-difference) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thomas11411/python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1485,6 +1490,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2379-maximum-total-importance-of-roads](https://github.com/Thomas11411/python/tree/master/2379-maximum-total-importance-of-roads) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Thomas11411/python/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Thomas11411/python/tree/master/2418-minimum-sum-of-squared-difference) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thomas11411/python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Thomas11411/python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/Thomas11411/python/tree/master/3226-minimum-number-game) |
