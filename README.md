@@ -798,6 +798,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Thomas11411/python/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2187-vowels-of-all-substrings](https://github.com/Thomas11411/python/tree/master/2187-vowels-of-all-substrings) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Thomas11411/python/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Thomas11411/python/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Thomas11411/python/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -1089,6 +1090,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Thomas11411/python/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Thomas11411/python/tree/master/2154-minimum-moves-to-convert-string) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Thomas11411/python/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Thomas11411/python/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Thomas11411/python/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
@@ -1493,6 +1495,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2118-maximum-earnings-from-taxi](https://github.com/Thomas11411/python/tree/master/2118-maximum-earnings-from-taxi) |
 | [2164-two-best-non-overlapping-events](https://github.com/Thomas11411/python/tree/master/2164-two-best-non-overlapping-events) |
 | [2187-vowels-of-all-substrings](https://github.com/Thomas11411/python/tree/master/2187-vowels-of-all-substrings) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Thomas11411/python/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
