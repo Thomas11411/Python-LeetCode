@@ -93,6 +93,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1287-distance-between-bus-stops](https://github.com/Thomas11411/python/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/Thomas11411/python/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/Thomas11411/python/tree/master/1306-minimum-absolute-difference) |
+| [1310-watering-plants](https://github.com/Thomas11411/python/tree/master/1310-watering-plants) |
 | [1319-unique-number-of-occurrences](https://github.com/Thomas11411/python/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Thomas11411/python/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Thomas11411/python/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -867,6 +868,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Simulation
 |  |
 | ------- |
+| [1310-watering-plants](https://github.com/Thomas11411/python/tree/master/1310-watering-plants) |
 | [1642-water-bottles](https://github.com/Thomas11411/python/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Thomas11411/python/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/Thomas11411/python/tree/master/1803-average-waiting-time) |
