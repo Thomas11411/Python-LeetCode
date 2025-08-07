@@ -100,6 +100,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Thomas11411/python/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Thomas11411/python/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Thomas11411/python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Thomas11411/python/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Thomas11411/python/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Thomas11411/python/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Thomas11411/python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -638,6 +639,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1297-maximum-number-of-balloons](https://github.com/Thomas11411/python/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Thomas11411/python/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Thomas11411/python/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Thomas11411/python/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Thomas11411/python/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Thomas11411/python/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Thomas11411/python/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -799,6 +801,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1321-get-equal-substrings-within-budget](https://github.com/Thomas11411/python/tree/master/1321-get-equal-substrings-within-budget) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Thomas11411/python/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Thomas11411/python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Thomas11411/python/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Thomas11411/python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Thomas11411/python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Thomas11411/python/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -1059,6 +1062,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1256-rank-transform-of-an-array](https://github.com/Thomas11411/python/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Thomas11411/python/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Thomas11411/python/tree/master/1333-sort-the-jumbled-numbers) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Thomas11411/python/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Thomas11411/python/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Thomas11411/python/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Thomas11411/python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
