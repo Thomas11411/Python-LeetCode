@@ -589,6 +589,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2715-k-items-with-the-maximum-sum](https://github.com/Thomas11411/python/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2722-prime-in-diagonal](https://github.com/Thomas11411/python/tree/master/2722-prime-in-diagonal) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Thomas11411/python/tree/master/2748-calculate-delayed-arrival-time) |
+| [2752-sum-multiples](https://github.com/Thomas11411/python/tree/master/2752-sum-multiples) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
