@@ -355,6 +355,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Thomas11411/python/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Thomas11411/python/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Thomas11411/python/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/Thomas11411/python/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Thomas11411/python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thomas11411/python/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Thomas11411/python/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -716,6 +717,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2585-delete-greatest-value-in-each-row](https://github.com/Thomas11411/python/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Thomas11411/python/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Thomas11411/python/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/Thomas11411/python/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2722-prime-in-diagonal](https://github.com/Thomas11411/python/tree/master/2722-prime-in-diagonal) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
