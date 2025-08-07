@@ -303,6 +303,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Thomas11411/python/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2447-merge-similar-items](https://github.com/Thomas11411/python/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/Thomas11411/python/tree/master/2448-count-number-of-bad-pairs) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Thomas11411/python/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Thomas11411/python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2483-task-scheduler-ii](https://github.com/Thomas11411/python/tree/master/2483-task-scheduler-ii) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -617,6 +618,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Thomas11411/python/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Thomas11411/python/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/Thomas11411/python/tree/master/2428-equal-row-and-column-pairs) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Thomas11411/python/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Thomas11411/python/tree/master/3330-modify-the-matrix) |
