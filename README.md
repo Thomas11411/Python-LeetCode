@@ -240,6 +240,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Thomas11411/python/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Thomas11411/python/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Thomas11411/python/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2211-k-radius-subarray-averages](https://github.com/Thomas11411/python/tree/master/2211-k-radius-subarray-averages) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Thomas11411/python/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/Thomas11411/python/tree/master/2227-sum-of-subarray-ranges) |
@@ -1411,6 +1412,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Thomas11411/python/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Thomas11411/python/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Thomas11411/python/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2211-k-radius-subarray-averages](https://github.com/Thomas11411/python/tree/master/2211-k-radius-subarray-averages) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thomas11411/python/tree/master/2856-count-complete-subarrays-in-an-array) |
