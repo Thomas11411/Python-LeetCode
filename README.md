@@ -2215,5 +2215,6 @@ The Python code I wrote to solve problems on LeetCode
 ## Database
 |  |
 | ------- |
+| [3932-find-covid-recovery-patients](https://github.com/Thomas11411/python/tree/master/3932-find-covid-recovery-patients) |
 | [3943-find-overbooked-employees](https://github.com/Thomas11411/python/tree/master/3943-find-overbooked-employees) |
 <!---LeetCode Topics End-->
