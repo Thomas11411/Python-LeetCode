@@ -267,6 +267,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2294-minimum-time-to-complete-trips](https://github.com/Thomas11411/python/tree/master/2294-minimum-time-to-complete-trips) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Thomas11411/python/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Thomas11411/python/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Thomas11411/python/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Thomas11411/python/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
