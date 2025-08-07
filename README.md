@@ -327,6 +327,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2547-odd-string-difference](https://github.com/Thomas11411/python/tree/master/2547-odd-string-difference) |
 | [2548-destroy-sequential-targets](https://github.com/Thomas11411/python/tree/master/2548-destroy-sequential-targets) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Thomas11411/python/tree/master/2550-words-within-two-edits-of-dictionary) |
+| [2551-apply-operations-to-an-array](https://github.com/Thomas11411/python/tree/master/2551-apply-operations-to-an-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -524,7 +525,6 @@ The Python code I wrote to solve problems on LeetCode
 | [2507-number-of-common-factors](https://github.com/Thomas11411/python/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Thomas11411/python/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Thomas11411/python/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
-| [2544-minimum-addition-to-make-integer-beautiful](https://github.com/Thomas11411/python/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Thomas11411/python/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
@@ -1119,6 +1119,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thomas11411/python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/Thomas11411/python/tree/master/2470-removing-stars-from-a-string) |
 | [2483-task-scheduler-ii](https://github.com/Thomas11411/python/tree/master/2483-task-scheduler-ii) |
+| [2551-apply-operations-to-an-array](https://github.com/Thomas11411/python/tree/master/2551-apply-operations-to-an-array) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Thomas11411/python/tree/master/2886-faulty-keyboard) |
@@ -1382,7 +1383,6 @@ The Python code I wrote to solve problems on LeetCode
 | [2475-largest-palindromic-number](https://github.com/Thomas11411/python/tree/master/2475-largest-palindromic-number) |
 | [2487-optimal-partition-of-string](https://github.com/Thomas11411/python/tree/master/2487-optimal-partition-of-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Thomas11411/python/tree/master/2497-maximum-matching-of-players-with-trainers) |
-| [2544-minimum-addition-to-make-integer-beautiful](https://github.com/Thomas11411/python/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1453,6 +1453,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2442-number-of-arithmetic-triplets](https://github.com/Thomas11411/python/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Thomas11411/python/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Thomas11411/python/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2551-apply-operations-to-an-array](https://github.com/Thomas11411/python/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
