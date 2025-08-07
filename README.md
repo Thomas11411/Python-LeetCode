@@ -291,6 +291,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Thomas11411/python/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2388-replace-elements-in-an-array](https://github.com/Thomas11411/python/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Thomas11411/python/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/Thomas11411/python/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -596,6 +597,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2132-convert-1d-array-into-2d-array](https://github.com/Thomas11411/python/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Thomas11411/python/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Thomas11411/python/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/Thomas11411/python/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Thomas11411/python/tree/master/3330-modify-the-matrix) |
