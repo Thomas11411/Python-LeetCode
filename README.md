@@ -243,6 +243,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2210-find-target-indices-after-sorting-array](https://github.com/Thomas11411/python/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Thomas11411/python/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/2215-finding-3-digit-even-numbers) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Thomas11411/python/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2227-sum-of-subarray-ranges](https://github.com/Thomas11411/python/tree/master/2227-sum-of-subarray-ranges) |
 | [2228-watering-plants-ii](https://github.com/Thomas11411/python/tree/master/2228-watering-plants-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Thomas11411/python/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -819,6 +820,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2190-count-common-words-with-one-occurrence](https://github.com/Thomas11411/python/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Thomas11411/python/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Thomas11411/python/tree/master/2197-decode-the-slanted-ciphertext) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Thomas11411/python/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/Thomas11411/python/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Thomas11411/python/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Thomas11411/python/tree/master/2232-adding-spaces-to-a-string) |
