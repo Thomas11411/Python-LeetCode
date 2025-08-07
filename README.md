@@ -253,6 +253,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Thomas11411/python/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2249-count-the-hidden-sequences](https://github.com/Thomas11411/python/tree/master/2249-count-the-hidden-sequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Thomas11411/python/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Thomas11411/python/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Thomas11411/python/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Thomas11411/python/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thomas11411/python/tree/master/2271-rearrange-array-elements-by-sign) |
