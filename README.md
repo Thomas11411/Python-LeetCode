@@ -287,6 +287,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2358-number-of-ways-to-split-array](https://github.com/Thomas11411/python/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Thomas11411/python/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Thomas11411/python/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2378-sender-with-largest-word-count](https://github.com/Thomas11411/python/tree/master/2378-sender-with-largest-word-count) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -707,6 +708,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2339-k-divisible-elements-subarrays](https://github.com/Thomas11411/python/tree/master/2339-k-divisible-elements-subarrays) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Thomas11411/python/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Thomas11411/python/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2378-sender-with-largest-word-count](https://github.com/Thomas11411/python/tree/master/2378-sender-with-largest-word-count) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -906,6 +908,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Thomas11411/python/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Thomas11411/python/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Thomas11411/python/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2378-sender-with-largest-word-count](https://github.com/Thomas11411/python/tree/master/2378-sender-with-largest-word-count) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -1361,6 +1364,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2331-intersection-of-multiple-arrays](https://github.com/Thomas11411/python/tree/master/2331-intersection-of-multiple-arrays) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Thomas11411/python/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Thomas11411/python/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2378-sender-with-largest-word-count](https://github.com/Thomas11411/python/tree/master/2378-sender-with-largest-word-count) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
