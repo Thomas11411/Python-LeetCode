@@ -218,6 +218,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2118-maximum-earnings-from-taxi](https://github.com/Thomas11411/python/tree/master/2118-maximum-earnings-from-taxi) |
 | [2122-count-special-quadruplets](https://github.com/Thomas11411/python/tree/master/2122-count-special-quadruplets) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Thomas11411/python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Thomas11411/python/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Thomas11411/python/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Thomas11411/python/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -502,6 +503,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1876-map-of-highest-peak](https://github.com/Thomas11411/python/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/Thomas11411/python/tree/master/1972-rotating-the-box) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Thomas11411/python/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Thomas11411/python/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Thomas11411/python/tree/master/3330-modify-the-matrix) |
@@ -842,6 +844,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2048-build-array-from-permutation](https://github.com/Thomas11411/python/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Thomas11411/python/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Thomas11411/python/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Thomas11411/python/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Thomas11411/python/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
