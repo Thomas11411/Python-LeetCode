@@ -282,6 +282,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2341-count-prefixes-of-a-given-string](https://github.com/Thomas11411/python/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2342-minimum-average-difference](https://github.com/Thomas11411/python/tree/master/2342-minimum-average-difference) |
 | [2350-find-closest-number-to-zero](https://github.com/Thomas11411/python/tree/master/2350-find-closest-number-to-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/Thomas11411/python/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Thomas11411/python/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -1516,6 +1517,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2249-count-the-hidden-sequences](https://github.com/Thomas11411/python/tree/master/2249-count-the-hidden-sequences) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Thomas11411/python/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2342-minimum-average-difference](https://github.com/Thomas11411/python/tree/master/2342-minimum-average-difference) |
+| [2358-number-of-ways-to-split-array](https://github.com/Thomas11411/python/tree/master/2358-number-of-ways-to-split-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thomas11411/python/tree/master/3034-points-that-intersect-with-cars) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
