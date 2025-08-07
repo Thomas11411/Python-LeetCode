@@ -524,6 +524,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2507-number-of-common-factors](https://github.com/Thomas11411/python/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Thomas11411/python/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Thomas11411/python/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2544-minimum-addition-to-make-integer-beautiful](https://github.com/Thomas11411/python/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Thomas11411/python/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
@@ -1381,6 +1382,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2475-largest-palindromic-number](https://github.com/Thomas11411/python/tree/master/2475-largest-palindromic-number) |
 | [2487-optimal-partition-of-string](https://github.com/Thomas11411/python/tree/master/2487-optimal-partition-of-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Thomas11411/python/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2544-minimum-addition-to-make-integer-beautiful](https://github.com/Thomas11411/python/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
