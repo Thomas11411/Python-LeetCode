@@ -318,6 +318,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2504-find-all-good-indices](https://github.com/Thomas11411/python/tree/master/2504-find-all-good-indices) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Thomas11411/python/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Thomas11411/python/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Thomas11411/python/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2529-range-product-queries-of-powers](https://github.com/Thomas11411/python/tree/master/2529-range-product-queries-of-powers) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -774,6 +775,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2486-most-frequent-even-element](https://github.com/Thomas11411/python/tree/master/2486-most-frequent-even-element) |
 | [2487-optimal-partition-of-string](https://github.com/Thomas11411/python/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/Thomas11411/python/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Thomas11411/python/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1220,6 +1222,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Thomas11411/python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Thomas11411/python/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Thomas11411/python/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Thomas11411/python/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -1429,6 +1432,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Thomas11411/python/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Thomas11411/python/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Thomas11411/python/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Thomas11411/python/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
