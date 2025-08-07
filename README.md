@@ -312,6 +312,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2476-check-distances-between-same-letters](https://github.com/Thomas11411/python/tree/master/2476-check-distances-between-same-letters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Thomas11411/python/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2483-task-scheduler-ii](https://github.com/Thomas11411/python/tree/master/2483-task-scheduler-ii) |
+| [2486-most-frequent-even-element](https://github.com/Thomas11411/python/tree/master/2486-most-frequent-even-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -759,6 +760,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2476-check-distances-between-same-letters](https://github.com/Thomas11411/python/tree/master/2476-check-distances-between-same-letters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Thomas11411/python/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2483-task-scheduler-ii](https://github.com/Thomas11411/python/tree/master/2483-task-scheduler-ii) |
+| [2486-most-frequent-even-element](https://github.com/Thomas11411/python/tree/master/2486-most-frequent-even-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1464,6 +1466,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2433-best-poker-hand](https://github.com/Thomas11411/python/tree/master/2433-best-poker-hand) |
 | [2448-count-number-of-bad-pairs](https://github.com/Thomas11411/python/tree/master/2448-count-number-of-bad-pairs) |
 | [2475-largest-palindromic-number](https://github.com/Thomas11411/python/tree/master/2475-largest-palindromic-number) |
+| [2486-most-frequent-even-element](https://github.com/Thomas11411/python/tree/master/2486-most-frequent-even-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
