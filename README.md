@@ -330,6 +330,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2551-apply-operations-to-an-array](https://github.com/Thomas11411/python/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Thomas11411/python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Thomas11411/python/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Thomas11411/python/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2561-number-of-distinct-averages](https://github.com/Thomas11411/python/tree/master/2561-number-of-distinct-averages) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -530,6 +531,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Thomas11411/python/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Thomas11411/python/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2556-convert-the-temperature](https://github.com/Thomas11411/python/tree/master/2556-convert-the-temperature) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Thomas11411/python/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -582,6 +584,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2491-smallest-even-multiple](https://github.com/Thomas11411/python/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Thomas11411/python/tree/master/2507-number-of-common-factors) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Thomas11411/python/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Thomas11411/python/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
 | [3373-maximum-prime-difference](https://github.com/Thomas11411/python/tree/master/3373-maximum-prime-difference) |
