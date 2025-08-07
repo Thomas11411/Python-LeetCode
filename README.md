@@ -647,6 +647,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Thomas11411/python/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Thomas11411/python/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Thomas11411/python/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Thomas11411/python/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1364-tuple-with-same-product](https://github.com/Thomas11411/python/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Thomas11411/python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Thomas11411/python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -813,6 +814,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Thomas11411/python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Thomas11411/python/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Thomas11411/python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Thomas11411/python/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Thomas11411/python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Thomas11411/python/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Thomas11411/python/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -1501,6 +1503,7 @@ The Python code I wrote to solve problems on LeetCode
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/Thomas11411/python/tree/master/1212-sequential-digits) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Thomas11411/python/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Thomas11411/python/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Thomas11411/python/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2037-count-square-sum-triples](https://github.com/Thomas11411/python/tree/master/2037-count-square-sum-triples) |
