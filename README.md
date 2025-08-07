@@ -295,6 +295,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Thomas11411/python/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Thomas11411/python/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Thomas11411/python/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/Thomas11411/python/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Thomas11411/python/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-best-poker-hand](https://github.com/Thomas11411/python/tree/master/2433-best-poker-hand) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Thomas11411/python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -608,6 +609,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Thomas11411/python/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Thomas11411/python/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Thomas11411/python/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2428-equal-row-and-column-pairs](https://github.com/Thomas11411/python/tree/master/2428-equal-row-and-column-pairs) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Thomas11411/python/tree/master/3330-modify-the-matrix) |
@@ -730,6 +732,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2406-decode-the-message](https://github.com/Thomas11411/python/tree/master/2406-decode-the-message) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Thomas11411/python/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Thomas11411/python/tree/master/2427-first-letter-to-appear-twice) |
+| [2428-equal-row-and-column-pairs](https://github.com/Thomas11411/python/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/Thomas11411/python/tree/master/2433-best-poker-hand) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Thomas11411/python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -1041,6 +1044,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Thomas11411/python/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2388-replace-elements-in-an-array](https://github.com/Thomas11411/python/tree/master/2388-replace-elements-in-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Thomas11411/python/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2428-equal-row-and-column-pairs](https://github.com/Thomas11411/python/tree/master/2428-equal-row-and-column-pairs) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Thomas11411/python/tree/master/2886-faulty-keyboard) |
