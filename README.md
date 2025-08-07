@@ -561,6 +561,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Thomas11411/python/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/Thomas11411/python/tree/master/2630-alternating-digit-sum) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Thomas11411/python/tree/master/2679-count-distinct-numbers-on-board) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Thomas11411/python/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -1866,6 +1867,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1013-fibonacci-number](https://github.com/Thomas11411/python/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Thomas11411/python/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Thomas11411/python/tree/master/2050-count-good-numbers) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Thomas11411/python/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Thomas11411/python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/3799-unique-3-digit-even-numbers) |
 ## Linked List
