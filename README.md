@@ -317,6 +317,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2502-sort-the-people](https://github.com/Thomas11411/python/tree/master/2502-sort-the-people) |
 | [2504-find-all-good-indices](https://github.com/Thomas11411/python/tree/master/2504-find-all-good-indices) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Thomas11411/python/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Thomas11411/python/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
