@@ -1081,6 +1081,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Thomas11411/python/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Thomas11411/python/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Thomas11411/python/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Thomas11411/python/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -1380,6 +1381,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2164-two-best-non-overlapping-events](https://github.com/Thomas11411/python/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Thomas11411/python/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Thomas11411/python/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Thomas11411/python/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/Thomas11411/python/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Thomas11411/python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
