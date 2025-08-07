@@ -353,6 +353,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Thomas11411/python/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/Thomas11411/python/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Thomas11411/python/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Thomas11411/python/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Thomas11411/python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thomas11411/python/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Thomas11411/python/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1346,6 +1347,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Thomas11411/python/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2650-split-with-minimum-sum](https://github.com/Thomas11411/python/tree/master/2650-split-with-minimum-sum) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/Thomas11411/python/tree/master/2651-count-ways-to-group-overlapping-ranges) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Thomas11411/python/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Thomas11411/python/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Thomas11411/python/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -1501,6 +1503,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2636-maximum-subsequence-score](https://github.com/Thomas11411/python/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Thomas11411/python/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2650-split-with-minimum-sum](https://github.com/Thomas11411/python/tree/master/2650-split-with-minimum-sum) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Thomas11411/python/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Thomas11411/python/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Thomas11411/python/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
@@ -1841,6 +1844,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2529-range-product-queries-of-powers](https://github.com/Thomas11411/python/tree/master/2529-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/Thomas11411/python/tree/master/2571-find-the-pivot-integer) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Thomas11411/python/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Thomas11411/python/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thomas11411/python/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Thomas11411/python/tree/master/2714-left-and-right-sum-differences) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thomas11411/python/tree/master/3034-points-that-intersect-with-cars) |
