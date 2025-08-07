@@ -957,6 +957,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2406-decode-the-message](https://github.com/Thomas11411/python/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/Thomas11411/python/tree/master/2427-first-letter-to-appear-twice) |
 | [2444-longest-ideal-subsequence](https://github.com/Thomas11411/python/tree/master/2444-longest-ideal-subsequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Thomas11411/python/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -1315,6 +1316,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Thomas11411/python/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Thomas11411/python/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thomas11411/python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Thomas11411/python/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1538,6 +1540,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Thomas11411/python/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Thomas11411/python/tree/master/2128-reverse-prefix-of-word) |
 | [2227-sum-of-subarray-ranges](https://github.com/Thomas11411/python/tree/master/2227-sum-of-subarray-ranges) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Thomas11411/python/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/Thomas11411/python/tree/master/3447-clear-digits) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -1817,6 +1820,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Thomas11411/python/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Thomas11411/python/tree/master/2078-maximum-compatibility-score-sum) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Thomas11411/python/tree/master/2279-maximum-split-of-positive-even-integers) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Thomas11411/python/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thomas11411/python/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Rolling Hash
