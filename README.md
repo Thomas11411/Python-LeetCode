@@ -568,6 +568,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2630-alternating-digit-sum](https://github.com/Thomas11411/python/tree/master/2630-alternating-digit-sum) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Thomas11411/python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Thomas11411/python/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Thomas11411/python/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -1481,6 +1482,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Thomas11411/python/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Thomas11411/python/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Thomas11411/python/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Thomas11411/python/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
