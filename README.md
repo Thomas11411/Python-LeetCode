@@ -314,6 +314,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2483-task-scheduler-ii](https://github.com/Thomas11411/python/tree/master/2483-task-scheduler-ii) |
 | [2486-most-frequent-even-element](https://github.com/Thomas11411/python/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Thomas11411/python/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2502-sort-the-people](https://github.com/Thomas11411/python/tree/master/2502-sort-the-people) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -765,6 +766,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2483-task-scheduler-ii](https://github.com/Thomas11411/python/tree/master/2483-task-scheduler-ii) |
 | [2486-most-frequent-even-element](https://github.com/Thomas11411/python/tree/master/2486-most-frequent-even-element) |
 | [2487-optimal-partition-of-string](https://github.com/Thomas11411/python/tree/master/2487-optimal-partition-of-string) |
+| [2502-sort-the-people](https://github.com/Thomas11411/python/tree/master/2502-sort-the-people) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -981,6 +983,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2476-check-distances-between-same-letters](https://github.com/Thomas11411/python/tree/master/2476-check-distances-between-same-letters) |
 | [2487-optimal-partition-of-string](https://github.com/Thomas11411/python/tree/master/2487-optimal-partition-of-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Thomas11411/python/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
+| [2502-sort-the-people](https://github.com/Thomas11411/python/tree/master/2502-sort-the-people) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -1209,6 +1212,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Thomas11411/python/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Thomas11411/python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Thomas11411/python/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2502-sort-the-people](https://github.com/Thomas11411/python/tree/master/2502-sort-the-people) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
