@@ -219,6 +219,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2122-count-special-quadruplets](https://github.com/Thomas11411/python/tree/master/2122-count-special-quadruplets) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Thomas11411/python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Thomas11411/python/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Thomas11411/python/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Thomas11411/python/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Thomas11411/python/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -595,6 +596,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2118-maximum-earnings-from-taxi](https://github.com/Thomas11411/python/tree/master/2118-maximum-earnings-from-taxi) |
 | [2122-count-special-quadruplets](https://github.com/Thomas11411/python/tree/master/2122-count-special-quadruplets) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Thomas11411/python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Thomas11411/python/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -761,6 +763,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thomas11411/python/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Thomas11411/python/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Thomas11411/python/tree/master/2128-reverse-prefix-of-word) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Thomas11411/python/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Thomas11411/python/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -1134,6 +1137,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Thomas11411/python/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Thomas11411/python/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Thomas11411/python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Thomas11411/python/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
