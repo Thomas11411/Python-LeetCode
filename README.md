@@ -373,6 +373,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2728-sum-in-a-matrix](https://github.com/Thomas11411/python/tree/master/2728-sum-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Thomas11411/python/tree/master/2737-row-with-maximum-ones) |
 | [2751-sliding-subarray-beauty](https://github.com/Thomas11411/python/tree/master/2751-sliding-subarray-beauty) |
+| [2755-extra-characters-in-a-string](https://github.com/Thomas11411/python/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Thomas11411/python/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Thomas11411/python/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2777-find-the-distinct-difference-array](https://github.com/Thomas11411/python/tree/master/2777-find-the-distinct-difference-array) |
@@ -889,6 +890,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2679-count-distinct-numbers-on-board](https://github.com/Thomas11411/python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Thomas11411/python/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-sliding-subarray-beauty](https://github.com/Thomas11411/python/tree/master/2751-sliding-subarray-beauty) |
+| [2755-extra-characters-in-a-string](https://github.com/Thomas11411/python/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Thomas11411/python/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2777-find-the-distinct-difference-array](https://github.com/Thomas11411/python/tree/master/2777-find-the-distinct-difference-array) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Thomas11411/python/tree/master/2791-find-the-losers-of-the-circular-game) |
@@ -1125,6 +1127,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Thomas11411/python/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Thomas11411/python/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2727-number-of-senior-citizens](https://github.com/Thomas11411/python/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Thomas11411/python/tree/master/2755-extra-characters-in-a-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Thomas11411/python/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Thomas11411/python/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -1196,6 +1199,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Thomas11411/python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Thomas11411/python/tree/master/2339-k-divisible-elements-subarrays) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Thomas11411/python/tree/master/2550-words-within-two-edits-of-dictionary) |
+| [2755-extra-characters-in-a-string](https://github.com/Thomas11411/python/tree/master/2755-extra-characters-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Thomas11411/python/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
 ## Simulation
@@ -2063,6 +2067,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Thomas11411/python/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Thomas11411/python/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Thomas11411/python/tree/master/2586-longest-square-streak-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/Thomas11411/python/tree/master/2755-extra-characters-in-a-string) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
