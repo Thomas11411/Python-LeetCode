@@ -1028,6 +1028,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2324-find-triangular-sum-of-an-array](https://github.com/Thomas11411/python/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Thomas11411/python/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2388-replace-elements-in-an-array](https://github.com/Thomas11411/python/tree/master/2388-replace-elements-in-an-array) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Thomas11411/python/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Thomas11411/python/tree/master/2886-faulty-keyboard) |
@@ -1718,6 +1719,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Thomas11411/python/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Thomas11411/python/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Thomas11411/python/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Thomas11411/python/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Thomas11411/python/tree/master/3230-remove-adjacent-almost-equal-characters) |
@@ -1739,6 +1741,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Thomas11411/python/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Thomas11411/python/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Thomas11411/python/tree/master/2195-time-needed-to-buy-tickets) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Thomas11411/python/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Thomas11411/python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
