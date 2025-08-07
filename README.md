@@ -259,6 +259,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thomas11411/python/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Thomas11411/python/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Thomas11411/python/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Thomas11411/python/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1047,6 +1048,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Thomas11411/python/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Thomas11411/python/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Thomas11411/python/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Thomas11411/python/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -1163,6 +1165,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Thomas11411/python/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Thomas11411/python/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Thomas11411/python/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Thomas11411/python/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1391,6 +1394,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2083-three-divisors](https://github.com/Thomas11411/python/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/Thomas11411/python/tree/master/2122-count-special-quadruplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/2215-finding-3-digit-even-numbers) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Thomas11411/python/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Thomas11411/python/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
 | [3221-find-the-peaks](https://github.com/Thomas11411/python/tree/master/3221-find-the-peaks) |
@@ -1428,6 +1432,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2165-plates-between-candles](https://github.com/Thomas11411/python/tree/master/2165-plates-between-candles) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Thomas11411/python/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/Thomas11411/python/tree/master/2249-count-the-hidden-sequences) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Thomas11411/python/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thomas11411/python/tree/master/3034-points-that-intersect-with-cars) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
