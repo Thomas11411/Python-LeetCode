@@ -334,6 +334,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2561-number-of-distinct-averages](https://github.com/Thomas11411/python/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Thomas11411/python/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Thomas11411/python/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Thomas11411/python/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Thomas11411/python/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -662,6 +663,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2428-equal-row-and-column-pairs](https://github.com/Thomas11411/python/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Thomas11411/python/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Thomas11411/python/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Thomas11411/python/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Thomas11411/python/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
@@ -1141,6 +1143,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2483-task-scheduler-ii](https://github.com/Thomas11411/python/tree/master/2483-task-scheduler-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/Thomas11411/python/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Thomas11411/python/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Thomas11411/python/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Thomas11411/python/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -1268,6 +1271,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2561-number-of-distinct-averages](https://github.com/Thomas11411/python/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Thomas11411/python/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Thomas11411/python/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Thomas11411/python/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Thomas11411/python/tree/master/2845-find-the-value-of-the-partition) |
@@ -1616,6 +1620,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thomas11411/python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Thomas11411/python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Thomas11411/python/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Thomas11411/python/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2868-continuous-subarrays](https://github.com/Thomas11411/python/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/Thomas11411/python/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Thomas11411/python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
