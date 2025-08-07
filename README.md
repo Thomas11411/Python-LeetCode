@@ -1127,6 +1127,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2727-number-of-senior-citizens](https://github.com/Thomas11411/python/tree/master/2727-number-of-senior-citizens) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Thomas11411/python/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Thomas11411/python/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Thomas11411/python/tree/master/2886-faulty-keyboard) |
@@ -1544,6 +1545,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Thomas11411/python/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Thomas11411/python/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Thomas11411/python/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Thomas11411/python/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1624,6 +1626,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2699-count-the-number-of-fair-pairs](https://github.com/Thomas11411/python/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Thomas11411/python/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Thomas11411/python/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Thomas11411/python/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
