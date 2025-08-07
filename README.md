@@ -336,6 +336,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Thomas11411/python/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Thomas11411/python/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Thomas11411/python/tree/master/2586-longest-square-streak-in-an-array) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Thomas11411/python/tree/master/2594-count-pairs-of-similar-strings) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Thomas11411/python/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
@@ -812,6 +813,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Thomas11411/python/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Thomas11411/python/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Thomas11411/python/tree/master/2586-longest-square-streak-in-an-array) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Thomas11411/python/tree/master/2594-count-pairs-of-similar-strings) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1035,6 +1037,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Thomas11411/python/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Thomas11411/python/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/Thomas11411/python/tree/master/2580-circular-sentence) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Thomas11411/python/tree/master/2594-count-pairs-of-similar-strings) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -1553,6 +1556,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2486-most-frequent-even-element](https://github.com/Thomas11411/python/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Thomas11411/python/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2548-destroy-sequential-targets](https://github.com/Thomas11411/python/tree/master/2548-destroy-sequential-targets) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Thomas11411/python/tree/master/2594-count-pairs-of-similar-strings) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -1848,6 +1852,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2308-divide-array-into-equal-pairs](https://github.com/Thomas11411/python/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Thomas11411/python/tree/master/2427-first-letter-to-appear-twice) |
 | [2529-range-product-queries-of-powers](https://github.com/Thomas11411/python/tree/master/2529-range-product-queries-of-powers) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Thomas11411/python/tree/master/2594-count-pairs-of-similar-strings) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Thomas11411/python/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Thomas11411/python/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Thomas11411/python/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
