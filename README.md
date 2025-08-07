@@ -1028,6 +1028,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Thomas11411/python/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Thomas11411/python/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Thomas11411/python/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2580-circular-sentence](https://github.com/Thomas11411/python/tree/master/2580-circular-sentence) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
