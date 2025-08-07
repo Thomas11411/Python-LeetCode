@@ -318,6 +318,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2504-find-all-good-indices](https://github.com/Thomas11411/python/tree/master/2504-find-all-good-indices) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Thomas11411/python/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Thomas11411/python/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
+| [2529-range-product-queries-of-powers](https://github.com/Thomas11411/python/tree/master/2529-range-product-queries-of-powers) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1672,6 +1673,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Thomas11411/python/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2504-find-all-good-indices](https://github.com/Thomas11411/python/tree/master/2504-find-all-good-indices) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Thomas11411/python/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2529-range-product-queries-of-powers](https://github.com/Thomas11411/python/tree/master/2529-range-product-queries-of-powers) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thomas11411/python/tree/master/3034-points-that-intersect-with-cars) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Thomas11411/python/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Thomas11411/python/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -1775,6 +1777,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2159-two-out-of-three](https://github.com/Thomas11411/python/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Thomas11411/python/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Thomas11411/python/tree/master/2427-first-letter-to-appear-twice) |
+| [2529-range-product-queries-of-powers](https://github.com/Thomas11411/python/tree/master/2529-range-product-queries-of-powers) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Thomas11411/python/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Thomas11411/python/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Thomas11411/python/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
