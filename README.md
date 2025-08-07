@@ -548,6 +548,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Thomas11411/python/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Thomas11411/python/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Thomas11411/python/tree/master/2610-closest-prime-numbers-in-range) |
+| [2619-categorize-box-according-to-criteria](https://github.com/Thomas11411/python/tree/master/2619-categorize-box-according-to-criteria) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Thomas11411/python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thomas11411/python/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
