@@ -367,6 +367,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Thomas11411/python/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2714-left-and-right-sum-differences](https://github.com/Thomas11411/python/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/Thomas11411/python/tree/master/2722-prime-in-diagonal) |
+| [2737-row-with-maximum-ones](https://github.com/Thomas11411/python/tree/master/2737-row-with-maximum-ones) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -720,6 +721,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Thomas11411/python/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Thomas11411/python/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2722-prime-in-diagonal](https://github.com/Thomas11411/python/tree/master/2722-prime-in-diagonal) |
+| [2737-row-with-maximum-ones](https://github.com/Thomas11411/python/tree/master/2737-row-with-maximum-ones) |
 | [3188-find-champion-i](https://github.com/Thomas11411/python/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Thomas11411/python/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Thomas11411/python/tree/master/3330-modify-the-matrix) |
