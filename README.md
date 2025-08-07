@@ -369,6 +369,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Thomas11411/python/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2714-left-and-right-sum-differences](https://github.com/Thomas11411/python/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/Thomas11411/python/tree/master/2722-prime-in-diagonal) |
+| [2727-number-of-senior-citizens](https://github.com/Thomas11411/python/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/Thomas11411/python/tree/master/2737-row-with-maximum-ones) |
 | [2751-sliding-subarray-beauty](https://github.com/Thomas11411/python/tree/master/2751-sliding-subarray-beauty) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Thomas11411/python/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -1119,6 +1120,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thomas11411/python/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Thomas11411/python/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Thomas11411/python/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
+| [2727-number-of-senior-citizens](https://github.com/Thomas11411/python/tree/master/2727-number-of-senior-citizens) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
