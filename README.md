@@ -277,6 +277,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2324-find-triangular-sum-of-an-array](https://github.com/Thomas11411/python/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/Thomas11411/python/tree/master/2329-maximum-product-after-k-increments) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Thomas11411/python/tree/master/2331-intersection-of-multiple-arrays) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Thomas11411/python/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2350-find-closest-number-to-zero](https://github.com/Thomas11411/python/tree/master/2350-find-closest-number-to-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Thomas11411/python/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -885,6 +886,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2292-counting-words-with-a-given-prefix](https://github.com/Thomas11411/python/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Thomas11411/python/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/Thomas11411/python/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Thomas11411/python/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Thomas11411/python/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
