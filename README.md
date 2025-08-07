@@ -262,6 +262,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Thomas11411/python/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Thomas11411/python/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Thomas11411/python/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Thomas11411/python/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -855,6 +856,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Thomas11411/python/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Thomas11411/python/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Thomas11411/python/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Thomas11411/python/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -1649,6 +1651,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Thomas11411/python/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1764-maximum-repeating-substring](https://github.com/Thomas11411/python/tree/master/1764-maximum-repeating-substring) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Thomas11411/python/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Thomas11411/python/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Thomas11411/python/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
