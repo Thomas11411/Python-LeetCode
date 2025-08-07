@@ -356,6 +356,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Thomas11411/python/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Thomas11411/python/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Thomas11411/python/tree/master/2675-find-the-width-of-columns-of-a-grid) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Thomas11411/python/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Thomas11411/python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thomas11411/python/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Thomas11411/python/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1857,6 +1858,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2571-find-the-pivot-integer](https://github.com/Thomas11411/python/tree/master/2571-find-the-pivot-integer) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Thomas11411/python/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Thomas11411/python/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Thomas11411/python/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thomas11411/python/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Thomas11411/python/tree/master/2714-left-and-right-sum-differences) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thomas11411/python/tree/master/3034-points-that-intersect-with-cars) |
