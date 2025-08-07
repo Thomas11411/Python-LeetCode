@@ -99,6 +99,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1333-sort-the-jumbled-numbers](https://github.com/Thomas11411/python/tree/master/1333-sort-the-jumbled-numbers) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Thomas11411/python/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Thomas11411/python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Thomas11411/python/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Thomas11411/python/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Thomas11411/python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/Thomas11411/python/tree/master/1364-tuple-with-same-product) |
@@ -624,6 +625,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1297-maximum-number-of-balloons](https://github.com/Thomas11411/python/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Thomas11411/python/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Thomas11411/python/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Thomas11411/python/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Thomas11411/python/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Thomas11411/python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Thomas11411/python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -873,7 +875,6 @@ The Python code I wrote to solve problems on LeetCode
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Thomas11411/python/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Thomas11411/python/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Thomas11411/python/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
-| [2345-minimum-number-of-operations-to-convert-time](https://github.com/Thomas11411/python/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
@@ -1033,6 +1034,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1256-rank-transform-of-an-array](https://github.com/Thomas11411/python/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Thomas11411/python/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Thomas11411/python/tree/master/1333-sort-the-jumbled-numbers) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Thomas11411/python/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Thomas11411/python/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Thomas11411/python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Thomas11411/python/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -1199,7 +1201,6 @@ The Python code I wrote to solve problems on LeetCode
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Thomas11411/python/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Thomas11411/python/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Thomas11411/python/tree/master/2310-minimum-operations-to-halve-array-sum) |
-| [2345-minimum-number-of-operations-to-convert-time](https://github.com/Thomas11411/python/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2850-construct-the-longest-new-string](https://github.com/Thomas11411/python/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Thomas11411/python/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Thomas11411/python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1284,6 +1285,7 @@ The Python code I wrote to solve problems on LeetCode
 | [1160-letter-tile-possibilities](https://github.com/Thomas11411/python/tree/master/1160-letter-tile-possibilities) |
 | [1297-maximum-number-of-balloons](https://github.com/Thomas11411/python/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Thomas11411/python/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Thomas11411/python/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Thomas11411/python/tree/master/1364-tuple-with-same-product) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Thomas11411/python/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Thomas11411/python/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
