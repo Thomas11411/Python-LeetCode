@@ -219,6 +219,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2122-count-special-quadruplets](https://github.com/Thomas11411/python/tree/master/2122-count-special-quadruplets) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Thomas11411/python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Thomas11411/python/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Thomas11411/python/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
