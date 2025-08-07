@@ -1126,6 +1126,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Thomas11411/python/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2727-number-of-senior-citizens](https://github.com/Thomas11411/python/tree/master/2727-number-of-senior-citizens) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Thomas11411/python/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Thomas11411/python/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Thomas11411/python/tree/master/2886-faulty-keyboard) |
@@ -1246,6 +1247,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2698-find-the-array-concatenation-value](https://github.com/Thomas11411/python/tree/master/2698-find-the-array-concatenation-value) |
 | [2728-sum-in-a-matrix](https://github.com/Thomas11411/python/tree/master/2728-sum-in-a-matrix) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Thomas11411/python/tree/master/2791-find-the-losers-of-the-circular-game) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Thomas11411/python/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Thomas11411/python/tree/master/2886-faulty-keyboard) |
@@ -1793,6 +1795,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2227-sum-of-subarray-ranges](https://github.com/Thomas11411/python/tree/master/2227-sum-of-subarray-ranges) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Thomas11411/python/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Thomas11411/python/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Thomas11411/python/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/Thomas11411/python/tree/master/3447-clear-digits) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
