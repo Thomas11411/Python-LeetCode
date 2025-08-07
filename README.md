@@ -369,6 +369,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2714-left-and-right-sum-differences](https://github.com/Thomas11411/python/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/Thomas11411/python/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/Thomas11411/python/tree/master/2737-row-with-maximum-ones) |
+| [2751-sliding-subarray-beauty](https://github.com/Thomas11411/python/tree/master/2751-sliding-subarray-beauty) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -879,6 +880,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Thomas11411/python/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Thomas11411/python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Thomas11411/python/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2751-sliding-subarray-beauty](https://github.com/Thomas11411/python/tree/master/2751-sliding-subarray-beauty) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -1904,6 +1906,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Thomas11411/python/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Thomas11411/python/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Thomas11411/python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2751-sliding-subarray-beauty](https://github.com/Thomas11411/python/tree/master/2751-sliding-subarray-beauty) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Thomas11411/python/tree/master/2856-count-complete-subarrays-in-an-array) |
