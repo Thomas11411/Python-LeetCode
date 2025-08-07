@@ -254,6 +254,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2249-count-the-hidden-sequences](https://github.com/Thomas11411/python/tree/master/2249-count-the-hidden-sequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Thomas11411/python/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Thomas11411/python/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Thomas11411/python/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Thomas11411/python/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Thomas11411/python/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thomas11411/python/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -944,6 +945,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2232-adding-spaces-to-a-string](https://github.com/Thomas11411/python/tree/master/2232-adding-spaces-to-a-string) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Thomas11411/python/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Thomas11411/python/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Thomas11411/python/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thomas11411/python/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Thomas11411/python/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Thomas11411/python/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -1232,6 +1234,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2228-watering-plants-ii](https://github.com/Thomas11411/python/tree/master/2228-watering-plants-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Thomas11411/python/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Thomas11411/python/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Thomas11411/python/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thomas11411/python/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
