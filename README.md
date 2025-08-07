@@ -233,6 +233,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2179-most-beautiful-item-for-each-query](https://github.com/Thomas11411/python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2181-smallest-index-with-equal-value](https://github.com/Thomas11411/python/tree/master/2181-smallest-index-with-equal-value) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Thomas11411/python/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Thomas11411/python/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Thomas11411/python/tree/master/2195-time-needed-to-buy-tickets) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Thomas11411/python/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
@@ -619,6 +620,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2163-kth-distinct-string-in-an-array](https://github.com/Thomas11411/python/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Thomas11411/python/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Thomas11411/python/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Thomas11411/python/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/Thomas11411/python/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/Thomas11411/python/tree/master/2834-relocate-marbles) |
@@ -795,6 +797,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Thomas11411/python/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Thomas11411/python/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2187-vowels-of-all-substrings](https://github.com/Thomas11411/python/tree/master/2187-vowels-of-all-substrings) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Thomas11411/python/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Thomas11411/python/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thomas11411/python/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Thomas11411/python/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -1188,6 +1191,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Thomas11411/python/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Thomas11411/python/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Thomas11411/python/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Thomas11411/python/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Thomas11411/python/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Thomas11411/python/tree/master/3220-count-tested-devices-after-test-operations) |
