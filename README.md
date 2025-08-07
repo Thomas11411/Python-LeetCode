@@ -299,6 +299,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2432-number-of-zero-filled-subarrays](https://github.com/Thomas11411/python/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-best-poker-hand](https://github.com/Thomas11411/python/tree/master/2433-best-poker-hand) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thomas11411/python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Thomas11411/python/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/Thomas11411/python/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/Thomas11411/python/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Thomas11411/python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -740,6 +741,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2428-equal-row-and-column-pairs](https://github.com/Thomas11411/python/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/Thomas11411/python/tree/master/2433-best-poker-hand) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thomas11411/python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Thomas11411/python/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/Thomas11411/python/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/Thomas11411/python/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Thomas11411/python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1375,6 +1377,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thomas11411/python/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Thomas11411/python/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Thomas11411/python/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Thomas11411/python/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thomas11411/python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -1568,6 +1571,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Thomas11411/python/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Thomas11411/python/tree/master/2339-k-divisible-elements-subarrays) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Thomas11411/python/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Thomas11411/python/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Thomas11411/python/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
 | [3221-find-the-peaks](https://github.com/Thomas11411/python/tree/master/3221-find-the-peaks) |
