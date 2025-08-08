@@ -2221,6 +2221,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3848-analyze-subscription-conversion](https://github.com/Thomas11411/python/tree/master/3848-analyze-subscription-conversion) |
 | [3898-seasonal-sales-analysis](https://github.com/Thomas11411/python/tree/master/3898-seasonal-sales-analysis) |
 | [3910-find-books-with-no-available-copies](https://github.com/Thomas11411/python/tree/master/3910-find-books-with-no-available-copies) |
+| [3921-find-consistently-improving-employees](https://github.com/Thomas11411/python/tree/master/3921-find-consistently-improving-employees) |
 | [3932-find-covid-recovery-patients](https://github.com/Thomas11411/python/tree/master/3932-find-covid-recovery-patients) |
 | [3942-find-drivers-with-improved-fuel-efficiency](https://github.com/Thomas11411/python/tree/master/3942-find-drivers-with-improved-fuel-efficiency) |
 | [3943-find-overbooked-employees](https://github.com/Thomas11411/python/tree/master/3943-find-overbooked-employees) |
