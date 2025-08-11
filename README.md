@@ -2217,6 +2217,7 @@ The Python code I wrote to solve problems on LeetCode
 | ------- |
 | [3530-odd-and-even-transactions](https://github.com/Thomas11411/python/tree/master/3530-odd-and-even-transactions) |
 | [3782-find-valid-emails](https://github.com/Thomas11411/python/tree/master/3782-find-valid-emails) |
+| [3803-find-products-with-valid-serial-numbers](https://github.com/Thomas11411/python/tree/master/3803-find-products-with-valid-serial-numbers) |
 | [3816-dna-pattern-recognition](https://github.com/Thomas11411/python/tree/master/3816-dna-pattern-recognition) |
 | [3848-analyze-subscription-conversion](https://github.com/Thomas11411/python/tree/master/3848-analyze-subscription-conversion) |
 | [3865-find-product-recommendation-pairs](https://github.com/Thomas11411/python/tree/master/3865-find-product-recommendation-pairs) |
