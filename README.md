@@ -2215,6 +2215,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Database
 |  |
 | ------- |
+| [1827-invalid-tweets](https://github.com/Thomas11411/python/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/Thomas11411/python/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/Thomas11411/python/tree/master/1877-find-followers-count) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Thomas11411/python/tree/master/1892-find-total-time-spent-by-each-employee) |
