@@ -2215,6 +2215,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Database
 |  |
 | ------- |
+| [1523-capital-gainloss](https://github.com/Thomas11411/python/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/Thomas11411/python/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/Thomas11411/python/tree/master/1625-group-sold-products-by-the-date) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Thomas11411/python/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
