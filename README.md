@@ -497,6 +497,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Thomas11411/python/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3934-coupon-code-validator](https://github.com/Thomas11411/python/tree/master/3934-coupon-code-validator) |
 | [3936-split-array-by-prime-indices](https://github.com/Thomas11411/python/tree/master/3936-split-array-by-prime-indices) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Thomas11411/python/tree/master/3973-flip-square-submatrix-vertically) |
 ## Math
 |  |
 | ------- |
@@ -747,6 +748,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3822-fill-a-special-grid](https://github.com/Thomas11411/python/tree/master/3822-fill-a-special-grid) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Thomas11411/python/tree/master/3849-equal-sum-grid-partition-i) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Thomas11411/python/tree/master/3973-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
 | ------- |
@@ -1635,6 +1637,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Thomas11411/python/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thomas11411/python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Thomas11411/python/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Thomas11411/python/tree/master/3973-flip-square-submatrix-vertically) |
 ## Counting
 |  |
 | ------- |
