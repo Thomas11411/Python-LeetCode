@@ -2218,6 +2218,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Database
 |  |
 | ------- |
+| [1452-restaurant-growth](https://github.com/Thomas11411/python/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Thomas11411/python/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Thomas11411/python/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/Thomas11411/python/tree/master/1523-capital-gainloss) |
