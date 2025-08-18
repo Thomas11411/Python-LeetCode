@@ -2218,6 +2218,7 @@ The Python code I wrote to solve problems on LeetCode
 ## Database
 |  |
 | ------- |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/Thomas11411/python/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Thomas11411/python/tree/master/1258-article-views-i) |
 | [1268-market-analysis-i](https://github.com/Thomas11411/python/tree/master/1268-market-analysis-i) |
 | [1278-product-price-at-a-given-date](https://github.com/Thomas11411/python/tree/master/1278-product-price-at-a-given-date) |
