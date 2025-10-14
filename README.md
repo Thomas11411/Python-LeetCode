@@ -948,6 +948,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Thomas11411/python/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
 | [3934-coupon-code-validator](https://github.com/Thomas11411/python/tree/master/3934-coupon-code-validator) |
+| [4053-majority-frequency-characters](https://github.com/Thomas11411/python/tree/master/4053-majority-frequency-characters) |
 ## String
 |  |
 | ------- |
@@ -1192,6 +1193,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Thomas11411/python/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3931-process-string-with-special-operations-i](https://github.com/Thomas11411/python/tree/master/3931-process-string-with-special-operations-i) |
 | [3934-coupon-code-validator](https://github.com/Thomas11411/python/tree/master/3934-coupon-code-validator) |
+| [4053-majority-frequency-characters](https://github.com/Thomas11411/python/tree/master/4053-majority-frequency-characters) |
 ## Trie
 |  |
 | ------- |
@@ -1719,6 +1721,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Thomas11411/python/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Thomas11411/python/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/Thomas11411/python/tree/master/3885-count-special-triplets) |
+| [4053-majority-frequency-characters](https://github.com/Thomas11411/python/tree/master/4053-majority-frequency-characters) |
 ## Brainteaser
 |  |
 | ------- |
