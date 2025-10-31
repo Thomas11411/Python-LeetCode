@@ -498,6 +498,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3934-coupon-code-validator](https://github.com/Thomas11411/python/tree/master/3934-coupon-code-validator) |
 | [3936-split-array-by-prime-indices](https://github.com/Thomas11411/python/tree/master/3936-split-array-by-prime-indices) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Thomas11411/python/tree/master/3973-flip-square-submatrix-vertically) |
+| [4039-compute-decimal-representation](https://github.com/Thomas11411/python/tree/master/4039-compute-decimal-representation) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Thomas11411/python/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -643,6 +644,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Thomas11411/python/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Thomas11411/python/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3936-split-array-by-prime-indices](https://github.com/Thomas11411/python/tree/master/3936-split-array-by-prime-indices) |
+| [4039-compute-decimal-representation](https://github.com/Thomas11411/python/tree/master/4039-compute-decimal-representation) |
 ## Number Theory
 |  |
 | ------- |
