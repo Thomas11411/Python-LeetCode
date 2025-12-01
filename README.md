@@ -476,6 +476,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Thomas11411/python/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3723-sum-of-good-numbers](https://github.com/Thomas11411/python/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Thomas11411/python/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Thomas11411/python/tree/master/3745-maximize-expression-of-three-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Thomas11411/python/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3750-closest-equal-element-queries](https://github.com/Thomas11411/python/tree/master/3750-closest-equal-element-queries) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Thomas11411/python/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -1420,6 +1421,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Thomas11411/python/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Thomas11411/python/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Thomas11411/python/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Thomas11411/python/tree/master/3745-maximize-expression-of-three-elements) |
 | [3778-transform-array-by-parity](https://github.com/Thomas11411/python/tree/master/3778-transform-array-by-parity) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Thomas11411/python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -1577,6 +1579,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Thomas11411/python/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Thomas11411/python/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Thomas11411/python/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Thomas11411/python/tree/master/3745-maximize-expression-of-three-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Thomas11411/python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Thomas11411/python/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Thomas11411/python/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -1861,6 +1864,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3398-make-a-square-with-the-same-color](https://github.com/Thomas11411/python/tree/master/3398-make-a-square-with-the-same-color) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Thomas11411/python/tree/master/3469-maximum-height-of-a-triangle) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Thomas11411/python/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Thomas11411/python/tree/master/3745-maximize-expression-of-three-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/3799-unique-3-digit-even-numbers) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Thomas11411/python/tree/master/3849-equal-sum-grid-partition-i) |
 ## Prefix Sum
