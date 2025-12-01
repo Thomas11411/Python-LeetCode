@@ -477,6 +477,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3723-sum-of-good-numbers](https://github.com/Thomas11411/python/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Thomas11411/python/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3731-find-missing-elements](https://github.com/Thomas11411/python/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Thomas11411/python/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Thomas11411/python/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Thomas11411/python/tree/master/3745-maximize-expression-of-three-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Thomas11411/python/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -636,6 +637,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3626-smallest-divisible-digit-product-i](https://github.com/Thomas11411/python/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Thomas11411/python/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Thomas11411/python/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Thomas11411/python/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thomas11411/python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Thomas11411/python/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/Thomas11411/python/tree/master/3830-find-closest-person) |
