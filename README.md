@@ -485,6 +485,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Thomas11411/python/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Thomas11411/python/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3778-transform-array-by-parity](https://github.com/Thomas11411/python/tree/master/3778-transform-array-by-parity) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Thomas11411/python/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Thomas11411/python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Thomas11411/python/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/3799-unique-3-digit-even-numbers) |
@@ -953,6 +954,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Thomas11411/python/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Thomas11411/python/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Thomas11411/python/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Thomas11411/python/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Thomas11411/python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/3799-unique-3-digit-even-numbers) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -1201,6 +1203,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Thomas11411/python/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thomas11411/python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Thomas11411/python/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Thomas11411/python/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3811-reverse-degree-of-a-string](https://github.com/Thomas11411/python/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Thomas11411/python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -1884,6 +1887,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3626-smallest-divisible-digit-product-i](https://github.com/Thomas11411/python/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Thomas11411/python/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Thomas11411/python/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Thomas11411/python/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/3799-unique-3-digit-even-numbers) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Thomas11411/python/tree/master/3849-equal-sum-grid-partition-i) |
 ## Prefix Sum
