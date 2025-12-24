@@ -1196,6 +1196,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3707-find-the-most-common-response](https://github.com/Thomas11411/python/tree/master/3707-find-the-most-common-response) |
 | [3709-find-special-substring-of-length-k](https://github.com/Thomas11411/python/tree/master/3709-find-special-substring-of-length-k) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Thomas11411/python/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Thomas11411/python/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Thomas11411/python/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Thomas11411/python/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thomas11411/python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1735,6 +1736,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3519-find-the-number-of-winning-players](https://github.com/Thomas11411/python/tree/master/3519-find-the-number-of-winning-players) |
 | [3707-find-the-most-common-response](https://github.com/Thomas11411/python/tree/master/3707-find-the-most-common-response) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Thomas11411/python/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Thomas11411/python/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Thomas11411/python/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/Thomas11411/python/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Thomas11411/python/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -1830,6 +1832,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Thomas11411/python/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3114-beautiful-towers-i](https://github.com/Thomas11411/python/tree/master/3114-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/Thomas11411/python/tree/master/3447-clear-digits) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Thomas11411/python/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Divide and Conquer
 |  |
