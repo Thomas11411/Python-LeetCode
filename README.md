@@ -486,6 +486,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3769-sort-integers-by-binary-reflection](https://github.com/Thomas11411/python/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Thomas11411/python/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3778-transform-array-by-parity](https://github.com/Thomas11411/python/tree/master/3778-transform-array-by-parity) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Thomas11411/python/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Thomas11411/python/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Thomas11411/python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Thomas11411/python/tree/master/3790-fruits-into-baskets-ii) |
@@ -1445,6 +1446,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3745-maximize-expression-of-three-elements](https://github.com/Thomas11411/python/tree/master/3745-maximize-expression-of-three-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Thomas11411/python/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3778-transform-array-by-parity](https://github.com/Thomas11411/python/tree/master/3778-transform-array-by-parity) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Thomas11411/python/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Thomas11411/python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3859-maximum-product-of-two-digits](https://github.com/Thomas11411/python/tree/master/3859-maximum-product-of-two-digits) |
@@ -1602,6 +1604,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Thomas11411/python/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Thomas11411/python/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Thomas11411/python/tree/master/3745-maximize-expression-of-three-elements) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Thomas11411/python/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Thomas11411/python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Thomas11411/python/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Thomas11411/python/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -1815,6 +1818,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Thomas11411/python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Thomas11411/python/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Thomas11411/python/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Thomas11411/python/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Thomas11411/python/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Stack
 |  |
