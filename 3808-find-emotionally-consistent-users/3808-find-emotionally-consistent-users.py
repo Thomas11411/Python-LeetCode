@@ -7,19 +7,17 @@ def find_emotionally_consistent_users(reactions: pd.DataFrame) -> pd.DataFrame:
         cnt = ("reaction", "count")
     ).reset_index()
 
-    top_reaction = (
-        df.loc[df.groupby("user_id")["cnt"].idxmax()]
-    ).reset_index()[["user_id", "reaction"]]
-
-    res = df.groupby(["user_id"]).agg(
-        total = ("cnt", "sum"),
-        max_cnt = ("cnt", "max"),
-    ).reset_index()
+    res = (
+        df.groupby("user_id", as_index=False)
+        .apply(lambda g: pd.Series({
+            "total": g["cnt"].sum(),
+            "max_cnt": g["cnt"].max(),
+            "dominant_reaction": g.loc[g["cnt"].idxmax(), "reaction"]
+        }))
+    )
 
     res["reaction_ratio"] = (res["max_cnt"] / res["total"]).apply(round2)
 
-    res = pd.merge(res, top_reaction, on = "user_id", how = "left")
     res = res.loc[(res.reaction_ratio > 0.6) & (res.total >= 5)]
-    res = res.sort_values(by = ["reaction_ratio", "user_id"], ascending = [False, True])[["user_id", "reaction", "reaction_ratio"]]
-    res.rename(columns = {"reaction": "dominant_reaction"}, inplace=True)
+    res = res.sort_values(by = ["reaction_ratio", "user_id"], ascending = [False, True])[["user_id", "dominant_reaction", "reaction_ratio"]]
     return res
