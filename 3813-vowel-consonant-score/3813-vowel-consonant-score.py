@@ -1,15 +1,10 @@
 class Solution:
     def vowelConsonantScore(self, s: str) -> int:
-        from collections import Counter
-        import math
-
-        d = Counter()
+        a = 0
+        v = 0
 
         for i in s:
-            if i.isalpha():
-                if i in {"a", "e", "i", "o", "u"}:
-                    d["v"] += 1
-                else:
-                    d["c"] += 1
+            a += i.isalpha()
+            v += (i in {"a","e","i","o","u"})
                     
-        return math.floor(d["v"] / d["c"]) if d["c"] > 0 else 0
+        return math.floor(v / (a - v)) if a - v > 0 else 0
