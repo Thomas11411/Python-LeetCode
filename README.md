@@ -1210,6 +1210,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3798-largest-even-number](https://github.com/Thomas11411/python/tree/master/3798-largest-even-number) |
 | [3811-reverse-degree-of-a-string](https://github.com/Thomas11411/python/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Thomas11411/python/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3856-trim-trailing-vowels](https://github.com/Thomas11411/python/tree/master/3856-trim-trailing-vowels) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Thomas11411/python/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Thomas11411/python/tree/master/3872-find-most-frequent-vowel-and-consonant) |
