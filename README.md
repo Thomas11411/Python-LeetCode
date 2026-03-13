@@ -494,6 +494,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3822-fill-a-special-grid](https://github.com/Thomas11411/python/tree/master/3822-fill-a-special-grid) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Thomas11411/python/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3838-weighted-word-mapping](https://github.com/Thomas11411/python/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Thomas11411/python/tree/master/3842-toggle-light-bulbs) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -1214,6 +1215,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3811-reverse-degree-of-a-string](https://github.com/Thomas11411/python/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Thomas11411/python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Thomas11411/python/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Thomas11411/python/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/Thomas11411/python/tree/master/3856-trim-trailing-vowels) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Thomas11411/python/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -1312,6 +1314,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3790-fruits-into-baskets-ii](https://github.com/Thomas11411/python/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Thomas11411/python/tree/master/3811-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Thomas11411/python/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Thomas11411/python/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Thomas11411/python/tree/master/3842-toggle-light-bulbs) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3893-generate-tag-for-video-caption](https://github.com/Thomas11411/python/tree/master/3893-generate-tag-for-video-caption) |
