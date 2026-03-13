@@ -494,6 +494,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3822-fill-a-special-grid](https://github.com/Thomas11411/python/tree/master/3822-fill-a-special-grid) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Thomas11411/python/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3842-toggle-light-bulbs](https://github.com/Thomas11411/python/tree/master/3842-toggle-light-bulbs) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Thomas11411/python/tree/master/3849-equal-sum-grid-partition-i) |
@@ -960,6 +961,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Thomas11411/python/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Thomas11411/python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/3799-unique-3-digit-even-numbers) |
+| [3842-toggle-light-bulbs](https://github.com/Thomas11411/python/tree/master/3842-toggle-light-bulbs) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Thomas11411/python/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Thomas11411/python/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1310,6 +1312,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3790-fruits-into-baskets-ii](https://github.com/Thomas11411/python/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Thomas11411/python/tree/master/3811-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Thomas11411/python/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3842-toggle-light-bulbs](https://github.com/Thomas11411/python/tree/master/3842-toggle-light-bulbs) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3893-generate-tag-for-video-caption](https://github.com/Thomas11411/python/tree/master/3893-generate-tag-for-video-caption) |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
@@ -1452,6 +1455,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3778-transform-array-by-parity](https://github.com/Thomas11411/python/tree/master/3778-transform-array-by-parity) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Thomas11411/python/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Thomas11411/python/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3842-toggle-light-bulbs](https://github.com/Thomas11411/python/tree/master/3842-toggle-light-bulbs) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3859-maximum-product-of-two-digits](https://github.com/Thomas11411/python/tree/master/3859-maximum-product-of-two-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Thomas11411/python/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
