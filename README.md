@@ -501,6 +501,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Thomas11411/python/tree/master/3849-equal-sum-grid-partition-i) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Thomas11411/python/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/Thomas11411/python/tree/master/3861-minimum-capacity-box) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Thomas11411/python/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Thomas11411/python/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -967,6 +968,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3839-number-of-prefix-connected-groups](https://github.com/Thomas11411/python/tree/master/3839-number-of-prefix-connected-groups) |
 | [3842-toggle-light-bulbs](https://github.com/Thomas11411/python/tree/master/3842-toggle-light-bulbs) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Thomas11411/python/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Thomas11411/python/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Thomas11411/python/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/Thomas11411/python/tree/master/3885-count-special-triplets) |
@@ -1770,6 +1772,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Thomas11411/python/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/Thomas11411/python/tree/master/3778-transform-array-by-parity) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Thomas11411/python/tree/master/3839-number-of-prefix-connected-groups) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Thomas11411/python/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Thomas11411/python/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Thomas11411/python/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/Thomas11411/python/tree/master/3885-count-special-triplets) |
