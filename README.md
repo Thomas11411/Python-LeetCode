@@ -656,6 +656,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3817-maximum-containers-on-a-ship](https://github.com/Thomas11411/python/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/Thomas11411/python/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Thomas11411/python/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3859-maximum-product-of-two-digits](https://github.com/Thomas11411/python/tree/master/3859-maximum-product-of-two-digits) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Thomas11411/python/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Thomas11411/python/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -2146,6 +2147,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Thomas11411/python/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3518-maximum-multiplication-score](https://github.com/Thomas11411/python/tree/master/3518-maximum-multiplication-score) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Thomas11411/python/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Thomas11411/python/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Game Theory
 |  |
 | ------- |
