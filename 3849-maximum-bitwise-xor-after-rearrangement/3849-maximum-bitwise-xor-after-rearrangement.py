@@ -1,16 +1,15 @@
 class Solution:
     def maximumXor(self, s: str, t: str) -> str:
-        one = t.count("1")
-        zero = len(s) - one
+        from collections import Counter
+
+        dt = Counter(list(t))
         res = ""
 
-        for i in s:
-            if (i == "1" and zero > 0) or (i == "0" and one > 0):
+        for i,v in enumerate(s):
+            if dt[str(int(v) ^ 1)] > 0: 
                 res += "1"
-                zero -= (i == "1")
-                one -= (i == "0")
+                dt[str(int(v) ^ 1)] -= 1
             else:
                 res += "0"
-                zero -= (i == "0")
-                one -= (i == "1")
+                dt[v] -= 1
         return res
