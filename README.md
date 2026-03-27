@@ -1230,6 +1230,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Thomas11411/python/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Thomas11411/python/tree/master/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Thomas11411/python/tree/master/3839-number-of-prefix-connected-groups) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Thomas11411/python/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3853-merge-close-characters](https://github.com/Thomas11411/python/tree/master/3853-merge-close-characters) |
 | [3856-trim-trailing-vowels](https://github.com/Thomas11411/python/tree/master/3856-trim-trailing-vowels) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -1633,6 +1634,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3745-maximize-expression-of-three-elements](https://github.com/Thomas11411/python/tree/master/3745-maximize-expression-of-three-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Thomas11411/python/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Thomas11411/python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Thomas11411/python/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Thomas11411/python/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Thomas11411/python/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Thomas11411/python/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -2091,6 +2093,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Thomas11411/python/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Thomas11411/python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Thomas11411/python/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Thomas11411/python/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Dynamic Programming
 |  |
 | ------- |
