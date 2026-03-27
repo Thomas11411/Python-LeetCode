@@ -502,6 +502,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3843-first-element-with-unique-frequency](https://github.com/Thomas11411/python/tree/master/3843-first-element-with-unique-frequency) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/Thomas11411/python/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Thomas11411/python/tree/master/3849-equal-sum-grid-partition-i) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Thomas11411/python/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/Thomas11411/python/tree/master/3861-minimum-capacity-box) |
@@ -1328,6 +1329,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Thomas11411/python/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Thomas11411/python/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Thomas11411/python/tree/master/3842-toggle-light-bulbs) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/Thomas11411/python/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3893-generate-tag-for-video-caption](https://github.com/Thomas11411/python/tree/master/3893-generate-tag-for-video-caption) |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
