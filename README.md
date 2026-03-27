@@ -976,6 +976,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3843-first-element-with-unique-frequency](https://github.com/Thomas11411/python/tree/master/3843-first-element-with-unique-frequency) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thomas11411/python/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Thomas11411/python/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3853-merge-close-characters](https://github.com/Thomas11411/python/tree/master/3853-merge-close-characters) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Thomas11411/python/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Thomas11411/python/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/Thomas11411/python/tree/master/3885-count-special-triplets) |
@@ -1229,6 +1230,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Thomas11411/python/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Thomas11411/python/tree/master/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Thomas11411/python/tree/master/3839-number-of-prefix-connected-groups) |
+| [3853-merge-close-characters](https://github.com/Thomas11411/python/tree/master/3853-merge-close-characters) |
 | [3856-trim-trailing-vowels](https://github.com/Thomas11411/python/tree/master/3856-trim-trailing-vowels) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Thomas11411/python/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Thomas11411/python/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
