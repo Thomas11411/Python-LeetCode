@@ -491,6 +491,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Thomas11411/python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Thomas11411/python/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/3799-unique-3-digit-even-numbers) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Thomas11411/python/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3822-fill-a-special-grid](https://github.com/Thomas11411/python/tree/master/3822-fill-a-special-grid) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Thomas11411/python/tree/master/3832-minimum-cost-to-reach-every-position) |
