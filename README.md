@@ -1933,6 +1933,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Thomas11411/python/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Thomas11411/python/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/3799-unique-3-digit-even-numbers) |
+| [3827-count-monobit-integers](https://github.com/Thomas11411/python/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/Thomas11411/python/tree/master/3833-count-dominant-indices) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Thomas11411/python/tree/master/3849-equal-sum-grid-partition-i) |
 ## Prefix Sum
@@ -2095,6 +2096,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Thomas11411/python/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Thomas11411/python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Thomas11411/python/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3827-count-monobit-integers](https://github.com/Thomas11411/python/tree/master/3827-count-monobit-integers) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Thomas11411/python/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Dynamic Programming
 |  |
