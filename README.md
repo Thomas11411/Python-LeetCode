@@ -492,6 +492,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3790-fruits-into-baskets-ii](https://github.com/Thomas11411/python/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/3799-unique-3-digit-even-numbers) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Thomas11411/python/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
+| [3819-rotate-non-negative-elements](https://github.com/Thomas11411/python/tree/master/3819-rotate-non-negative-elements) |
 | [3822-fill-a-special-grid](https://github.com/Thomas11411/python/tree/master/3822-fill-a-special-grid) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Thomas11411/python/tree/master/3832-minimum-cost-to-reach-every-position) |
@@ -1329,6 +1330,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Thomas11411/python/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3790-fruits-into-baskets-ii](https://github.com/Thomas11411/python/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Thomas11411/python/tree/master/3811-reverse-degree-of-a-string) |
+| [3819-rotate-non-negative-elements](https://github.com/Thomas11411/python/tree/master/3819-rotate-non-negative-elements) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Thomas11411/python/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Thomas11411/python/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Thomas11411/python/tree/master/3842-toggle-light-bulbs) |
