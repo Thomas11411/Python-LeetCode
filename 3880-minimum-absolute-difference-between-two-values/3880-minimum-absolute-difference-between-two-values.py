@@ -7,9 +7,8 @@ class Solution:
             if v == 0: continue
             elif v == 1: 
                 one = i
-                res = min(res, abs(one - two))
             else: 
                 two = i
-                res = min(res, abs(one - two))
-                
+            res = min(res, abs(one - two))
+
         return -1 if res == float("inf") else res
