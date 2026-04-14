@@ -653,6 +653,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Thomas11411/python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Thomas11411/python/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Thomas11411/python/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Thomas11411/python/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Thomas11411/python/tree/master/3663-find-the-least-frequent-digit) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Thomas11411/python/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Thomas11411/python/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -692,6 +693,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2831-number-of-beautiful-pairs](https://github.com/Thomas11411/python/tree/master/2831-number-of-beautiful-pairs) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Thomas11411/python/tree/master/2873-prime-pairs-with-target-sum) |
 | [3373-maximum-prime-difference](https://github.com/Thomas11411/python/tree/master/3373-maximum-prime-difference) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Thomas11411/python/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thomas11411/python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3936-split-array-by-prime-indices](https://github.com/Thomas11411/python/tree/master/3936-split-array-by-prime-indices) |
 ## Depth-First Search
