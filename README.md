@@ -469,6 +469,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Thomas11411/python/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Thomas11411/python/tree/master/3644-minimum-positive-sum-subarray) |
 | [3651-transformed-array](https://github.com/Thomas11411/python/tree/master/3651-transformed-array) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/Thomas11411/python/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Thomas11411/python/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Thomas11411/python/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3701-compute-alternating-sum](https://github.com/Thomas11411/python/tree/master/3701-compute-alternating-sum) |
@@ -962,6 +963,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Thomas11411/python/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Thomas11411/python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Thomas11411/python/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/Thomas11411/python/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Thomas11411/python/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3707-find-the-most-common-response](https://github.com/Thomas11411/python/tree/master/3707-find-the-most-common-response) |
 | [3731-find-missing-elements](https://github.com/Thomas11411/python/tree/master/3731-find-missing-elements) |
