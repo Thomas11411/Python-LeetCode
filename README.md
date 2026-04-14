@@ -469,6 +469,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Thomas11411/python/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Thomas11411/python/tree/master/3644-minimum-positive-sum-subarray) |
 | [3651-transformed-array](https://github.com/Thomas11411/python/tree/master/3651-transformed-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Thomas11411/python/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Thomas11411/python/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3701-compute-alternating-sum](https://github.com/Thomas11411/python/tree/master/3701-compute-alternating-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Thomas11411/python/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -1326,6 +1327,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Thomas11411/python/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Thomas11411/python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/Thomas11411/python/tree/master/3651-transformed-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Thomas11411/python/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Thomas11411/python/tree/master/3701-compute-alternating-sum) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Thomas11411/python/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thomas11411/python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -2100,6 +2102,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Thomas11411/python/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Thomas11411/python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Thomas11411/python/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Thomas11411/python/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3827-count-monobit-integers](https://github.com/Thomas11411/python/tree/master/3827-count-monobit-integers) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Thomas11411/python/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Dynamic Programming
