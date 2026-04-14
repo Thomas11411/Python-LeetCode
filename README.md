@@ -1216,6 +1216,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3617-find-the-original-typed-string-i](https://github.com/Thomas11411/python/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/Thomas11411/python/tree/master/3636-check-balanced-string) |
 | [3707-find-the-most-common-response](https://github.com/Thomas11411/python/tree/master/3707-find-the-most-common-response) |
+| [3707-equal-score-substrings](https://github.com/Thomas11411/python/tree/master/3707-equal-score-substrings) |
 | [3709-find-special-substring-of-length-k](https://github.com/Thomas11411/python/tree/master/3709-find-special-substring-of-length-k) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Thomas11411/python/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Thomas11411/python/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -1989,6 +1990,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Thomas11411/python/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Thomas11411/python/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Thomas11411/python/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3707-equal-score-substrings](https://github.com/Thomas11411/python/tree/master/3707-equal-score-substrings) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Thomas11411/python/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Thomas11411/python/tree/master/3849-equal-sum-grid-partition-i) |
 ## Sliding Window
