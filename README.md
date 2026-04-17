@@ -493,6 +493,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Thomas11411/python/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Thomas11411/python/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Thomas11411/python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3788-maximum-score-of-a-split](https://github.com/Thomas11411/python/tree/master/3788-maximum-score-of-a-split) |
 | [3790-fruits-into-baskets-ii](https://github.com/Thomas11411/python/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Thomas11411/python/tree/master/3799-unique-3-digit-even-numbers) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Thomas11411/python/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -2004,6 +2005,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Thomas11411/python/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3707-equal-score-substrings](https://github.com/Thomas11411/python/tree/master/3707-equal-score-substrings) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Thomas11411/python/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3788-maximum-score-of-a-split](https://github.com/Thomas11411/python/tree/master/3788-maximum-score-of-a-split) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Thomas11411/python/tree/master/3849-equal-sum-grid-partition-i) |
 ## Sliding Window
 |  |
