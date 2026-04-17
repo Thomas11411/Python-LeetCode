@@ -479,6 +479,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3707-find-the-most-common-response](https://github.com/Thomas11411/python/tree/master/3707-find-the-most-common-response) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Thomas11411/python/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3723-sum-of-good-numbers](https://github.com/Thomas11411/python/tree/master/3723-sum-of-good-numbers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Thomas11411/python/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Thomas11411/python/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3731-find-missing-elements](https://github.com/Thomas11411/python/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Thomas11411/python/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -1484,6 +1485,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Thomas11411/python/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Thomas11411/python/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Thomas11411/python/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Thomas11411/python/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Thomas11411/python/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Thomas11411/python/tree/master/3745-maximize-expression-of-three-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Thomas11411/python/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -1646,6 +1648,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Thomas11411/python/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Thomas11411/python/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Thomas11411/python/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Thomas11411/python/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Thomas11411/python/tree/master/3745-maximize-expression-of-three-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Thomas11411/python/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Thomas11411/python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
