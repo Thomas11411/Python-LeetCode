@@ -14,7 +14,7 @@ class Solution:
                     res += 2
                 elif i.isnumeric():
                     res += 3
-                elif i in {"!","@","#","$"}:
+                else:
                     res += 5
                 d[i] += 1
         return res
