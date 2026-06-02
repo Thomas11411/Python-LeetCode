@@ -1,20 +1,18 @@
 class Solution:
     def passwordStrength(self, password: str) -> int:
-        from collections import Counter
-
-        d = Counter()
+        d = set()
 
         res = 0
 
-        for i in password:
-            if d[i] == 0:
+        for i in set(password):
+            if d not in d:
                 if i.islower():
                     res += 1
                 elif i.isupper():
                     res += 2
                 elif i.isnumeric():
                     res += 3
-                else:
+                elif i in {"!","@","#","$"}:
                     res += 5
-                d[i] += 1
+                d.add(i)
         return res
