@@ -521,6 +521,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Thomas11411/python/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3903-smallest-stable-index-i](https://github.com/Thomas11411/python/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Thomas11411/python/tree/master/3904-smallest-stable-index-ii) |
+| [3905-multi-source-flood-fill](https://github.com/Thomas11411/python/tree/master/3905-multi-source-flood-fill) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Thomas11411/python/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3934-coupon-code-validator](https://github.com/Thomas11411/python/tree/master/3934-coupon-code-validator) |
 | [3936-split-array-by-prime-indices](https://github.com/Thomas11411/python/tree/master/3936-split-array-by-prime-indices) |
@@ -731,6 +732,7 @@ The Python code I wrote to solve problems on LeetCode
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Thomas11411/python/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Thomas11411/python/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3905-multi-source-flood-fill](https://github.com/Thomas11411/python/tree/master/3905-multi-source-flood-fill) |
 ## Union Find
 |  |
 | ------- |
@@ -787,6 +789,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3822-fill-a-special-grid](https://github.com/Thomas11411/python/tree/master/3822-fill-a-special-grid) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Thomas11411/python/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Thomas11411/python/tree/master/3849-equal-sum-grid-partition-i) |
+| [3905-multi-source-flood-fill](https://github.com/Thomas11411/python/tree/master/3905-multi-source-flood-fill) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Thomas11411/python/tree/master/3973-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
