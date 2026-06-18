@@ -2125,6 +2125,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Thomas11411/python/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3827-count-monobit-integers](https://github.com/Thomas11411/python/tree/master/3827-count-monobit-integers) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Thomas11411/python/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Thomas11411/python/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Dynamic Programming
 |  |
 | ------- |
