@@ -526,6 +526,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3934-coupon-code-validator](https://github.com/Thomas11411/python/tree/master/3934-coupon-code-validator) |
 | [3936-split-array-by-prime-indices](https://github.com/Thomas11411/python/tree/master/3936-split-array-by-prime-indices) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Thomas11411/python/tree/master/3973-flip-square-submatrix-vertically) |
+| [4020-elevator-requests-i](https://github.com/Thomas11411/python/tree/master/4020-elevator-requests-i) |
 | [4039-compute-decimal-representation](https://github.com/Thomas11411/python/tree/master/4039-compute-decimal-representation) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Thomas11411/python/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Math
@@ -1360,6 +1361,7 @@ The Python code I wrote to solve problems on LeetCode
 | [3893-generate-tag-for-video-caption](https://github.com/Thomas11411/python/tree/master/3893-generate-tag-for-video-caption) |
 | [3905-partition-string](https://github.com/Thomas11411/python/tree/master/3905-partition-string) |
 | [3931-process-string-with-special-operations-i](https://github.com/Thomas11411/python/tree/master/3931-process-string-with-special-operations-i) |
+| [4020-elevator-requests-i](https://github.com/Thomas11411/python/tree/master/4020-elevator-requests-i) |
 ## Sorting
 |  |
 | ------- |
